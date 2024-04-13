@@ -360,7 +360,7 @@ Creemos que al ofrecer una plataforma integral y fácil de usar para la gestión
 **Usuarios:**
 
 - **Propietarios y Gerentes de Hoteles:** El objetivo principal de nuestra aplicación es asegurar que aquellos que se encargan de dirigir la dirección del hotel, tengan todas las herramientas disponibles que ofrecemos para el cuidado de sus hoteles, en cualquier momento
-- **Personal de Trabajo:** Aunque no sean aquellos que dirigen la empresa, siguen siendo igual de importantes, al ser aquellos que se encargan del cuidado y atendimiento diario del hotel.
+- **Personal de Trabajo:** Aunque no sean aquellos que dirigen la empresa, siguen siendo igual de importantes, al ser aquellos que se encargan del cuidado y atendimiento diario del hotel..
 
 ---
 
