@@ -267,8 +267,7 @@ Gestión de Clientes: Mejoramos la organización y control de los clientes que r
 | Mauricio Abraham Rivo Rojas Sánchez	![Imagen del compañero](https://i.imgur.com/qQ6neUi.png) | U202211572            | Ingenieria de software | C++, C#, javascript y java            |
 | Aaron Elías Acuña Alarcón 	![Imagen del compañero](https://i.imgur.com/lMgpDeU.png) | U202211552            | Ingenieria de software | C++, C#, html, SQL server, etc.             |
 | Leonardo Félix Jesús Linares Tejada 	![Imagen del compañero](https://i.imgur.com/nWtALQi.png) | U202211168            | Ingenieria de software | C++, C#, html, css, etc.             |
-| Alex Ramon Alberto Avila Asto 	![Imagen del compañero](https://i.imgur.com/Brn231Y.png) | U20221A322            | Ingenieria de software | C++, java, Kotlin, Go, Spring Boot .etc             |
-| Piero Fernando Periche Quiroga 	![Imagen del compañero](https://i.imgur.com/ZHeiHHU.png) | U202210192            | Ingenieria de software | C++, javascript, html, .etc             |
+| Fernando Brian Salgado Luna 	![Imagen del compañero](https://i.imgur.com/KCq6SDT.jpeg) | U20221A322            | Ingenieria de software | C++, java, Kotlin, Go, Spring Boot .etc             |
 
 ## 1.2. Solution Profile
 
