@@ -691,18 +691,11 @@ Nosotros crearemos una rama para cada capítulo, es decir una rama para Chapter 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-**Lenguaje C#**
-
-| Referencias Adoptadas | Explicación y Convenciones|
-|-----------|-----------|
-| C# Coding Conventions: [convenctions C#](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions) | Consideramos en utilizar la documentación de Microsoft  para aprender buenas prácticas y sintaxis de C#, puesto que lo utilizaremos en el desarrollo del Back-end. |
-| Microsoft ASP .NET Core Coding Guidelines: [.NET guidelines](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines) | Consideramos en utilizar la documentación de la referencia especificada para estudiar y aprender buenas prácticas, convenciones y cómo integrar código C# a ASP .NET Core, ya que lo utilizaremos en el backend de nuestros productos. |
-
-**Lenguaje Vue.JS**
+**Lenguaje Javascript**
 | Referencias Adoptadas | Explicación y Convenciones |
 |-----------|-----------|
-| Html Style Guide and Coding Conventions: [coding guidelines](https://www.w3schools.com/html/html5_syntax.asp)| Consideramos que será beneficioso guiarnos y aprender de la documentación de la referencia indicada, ya que contiene una gran cantidad de información sobre las etiquetas HTML. Esto es fundamental para su uso en nuestros proyectos. |
-| Google HTML/ CSS Style Guide: [Guides](https://google.github.io/styleguide/htmlcssguide.html)| Consideramos guiarnos con la documentación de Google para tener una lista de recomendaciones que nos ayude a mejorar la estructura de nuestras páginas. |Vue Style Guide: [Vue guide](https://vuejs.org/v2/style-guide/)|Consideramos guiarnos de la documentación oficial de Vue.JS para estudiar la sintaxis, buenas prácticas, recomendaciones, etc. De esta manera podremos desarrollar un mejor producto de Software.|
+| Google JavaScript Style Guide [javascript guide link](https://google.github.io/styleguide/jsguide.html) | Consideramos importante tener una guía de javascript para tener mayor información y documentación de este lenguaje y en su futuro uso.|
+| MDN JavaScript guidelines [javascript guideline link](https://developer.mozilla.org/es/docs/Web/JavaScript)| Consideramos beneficioso para nosotros que vamos a usar Javascript, ya que mejoraremos  nuestras habilidades existentes o encontrar recursos útiles y herramientas para el desarrollo y la depuración de código JavaScript. |
 
 **Lenguaje Gherkin**
 
@@ -736,9 +729,10 @@ Las configuraciones para la landing page será la siguiente:
 4. Seleccionamos “Deploy with Github” y permitimos acceder a nuestros repositorios.
 ![Paso 4](https://i.imgur.com/RFFoJVk.jpeg)
 5. Seleccionamos la cuenta u organización y buscamos el repositorio de la Landing Page.
-![Paso 5](https://i.imgur.com/7Qg9mgR.jpg)
+![Paso 5](https://i.imgur.com/Nxlmcom.jpg)
 6. Por último asignamos el nombre del proyecto y seleccionamos la branch, en este caso el branch ‘development’.
 ![Paso 6](https://i.imgur.com/vTMcdGO.jpg)
+
 **Web Services:**
 Aún no porque estamos en el Sprint 1.
 
@@ -783,7 +777,7 @@ Aún no porque estamos en el Sprint 1.
         </tr>
         <tr>
             <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
-            <td> Acuña Alarcon, Aaron Elías / Periche Quiroga, Piero / Avila Asto, Alex / Linares Tejada, Leonardo Félix 
+            <td> Acuña Alarcon, Aaron Elías / Salgado Luna, Fernando Brian / Linares Tejada, Leonardo Félix 
             <td>
         </tr>
         <tr>
@@ -815,7 +809,7 @@ Aún no porque estamos en el Sprint 1.
 
 #### 5.2.1.2. Sprint Backlog 1.
 
-![SprintBacklog 1](https://i.imgur.com/5b02ahu.jpeg)
+![SprintBacklog 1](https://i.imgur.com/wljIMRf.jpeg)
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
@@ -839,20 +833,20 @@ Aún no porque estamos en el Sprint 1.
         <td rowspan="4">develop</td>
     </tr>
     <tr>
-        <td>5d9f0b6b4f75610201d5eaab0441c26b473c183a</td>
-        <td>Merge pull request #2 from Los-No-Se-Quienes-y-Los-No-Se-Cuantos/feature/readme</td>
+        <td>4baab547224993ef9dfbed6ab4719337f7419a53</td>
+        <td>feat: added README documentation.</td>
         <td></td>
         <td> 13/04/2024</td>
     </tr>
     <tr>
-        <td>ed08ead42eafa4514eb32d2d72562857a2b53374</td>
-        <td>Merge pull request #1 from Los-No-Se-Quienes-y-Los-No-Se-Cuantos/feature/styles-footer</td>
+        <td>bc49c2a0536083b1fc07f18421d12e4853112892</td>
+        <td>feat: added assets to project.</td>
         <td></td>
         <td> 13/04/2024 </td>
     </tr>
     <tr>
-        <td>e54df82d147c8fa186d809f003f54479bd5f3b86</td>
-        <td>feat: added readme file.</td>
+        <td>bf64e8597ce13b6d4185029cd689e02f461fe3fd</td>
+        <td>Merge pull request #1 from Group-Trabajo-Final-Open-Source/feature/styles-footer.</td>
         <td></td>
         <td>13/04/2024</td>
     </tr>
@@ -860,8 +854,8 @@ Aún no porque estamos en el Sprint 1.
         <td rowspan="2">feature/navbar</td>
     </tr>
     <tr>
-        <td>bd0a0486cfef2e304cb9521b3d2d8fdef3a252fe</td>
-        <td>feat: added navbar</td>
+        <td>572c564942e5f259f3e3b5fe54a8adbabd25b98f</td>
+        <td>feat(features/navbar): added navbar documentation.</td>
         <td></td>
         <td>13/04/2024</td>
     </tr>
@@ -869,8 +863,8 @@ Aún no porque estamos en el Sprint 1.
         <td rowspan="2">feature/hero</td>
     </tr>
     <tr>
-        <td>0fd0453a3d783f6261d89e4bbfc6a5d05e66b342</td>
-        <td>feat: added hero section</td>
+        <td>7e5d2d675964a0aaddec23b5890c1b16fdce853a</td>
+        <td>feat(feature/hero): added hero section.</td>
         <td></td>
         <td>13/04/2024</td>
     </tr>
@@ -878,8 +872,8 @@ Aún no porque estamos en el Sprint 1.
         <td rowspan="2">feature/description</td>
     </tr>
     <tr>
-        <td>1cb6455915ce46a282ad4efbaa5c196fb4e57c41</td>
-        <td>feat: added description sections</td>
+        <td>3880187c9596479fc6cf936e6ee39b373f5ea8c7</td>
+        <td>feat(feature/description): added description sections.</td>
         <td></td>
         <td>13/04/2024</td>
     </tr>
@@ -887,8 +881,8 @@ Aún no porque estamos en el Sprint 1.
         <td rowspan="2">feature/benefits</td>
     </tr>
     <tr>
-        <td>02709544041573fd0a6dc603815e710924eb170c</td>
-        <td>feat: added benefits section</td>
+        <td>5a83aa3bd347de9519536f9a017a6531a59a4c20</td>
+        <td>feat(feature/benefits)added benefits section.</td>
         <td></td>
         <td>13/04/2024</td>
     </tr>
@@ -896,8 +890,8 @@ Aún no porque estamos en el Sprint 1.
         <td rowspan="2">feature/plans</td>
     </tr>
     <tr>
-        <td>c9a04d79986df5fc9e95318a073acd820f42eb75</td>
-        <td>feat: added plans action</td>
+        <td>6e513f3f94a22ab619744817aed09573eba0a5ba</td>
+        <td>feat(feature/plans): added section plans.</td>
         <td></td>
         <td>13/04/2024</td>
     </tr>
@@ -905,8 +899,8 @@ Aún no porque estamos en el Sprint 1.
         <td rowspan="2">feature/footer</td>
     </tr>
     <tr>
-        <td>c8f0254276ea2f138510253f8ee4d740b28a12b7</td>
-        <td>feat: added footer</td>
+        <td>122db0a8cc6c0436e7d39212441749b58c62d0dd</td>
+        <td>feat(feature/footer): added footer documentation.</td>
         <td></td>
         <td>13/04/2024</td>
     </tr>
@@ -914,8 +908,8 @@ Aún no porque estamos en el Sprint 1.
         <td rowspan="2">feature/styles-hero</td>
     </tr>
     <tr>
-        <td>9238af86b34c640c754a8a1f7394b506a190dbf4</td>
-        <td>feat: added styles hero</td>
+        <td>b19ddf691dff7ab12e101884b3f70830506566ea</td>
+        <td>feat(feature/styles-hero): added styles for hero section.</td>
         <td></td>
         <td>13/04/2024</td>
     </tr>
@@ -923,8 +917,8 @@ Aún no porque estamos en el Sprint 1.
         <td rowspan="2">feature/styles-section</td>
     </tr>
     <tr>
-        <td>cdb116d9042c8707c3e37f316abce1d4b23a1ea0</td>
-        <td>feat: added styles for sections</td>
+        <td>57f161dc83d5604e49c6432dc436c26cebd2c835</td>
+        <td>feat(feature/styles-section): added styles for some sections.</td>
         <td></td>
         <td>13/04/2024</td>
     </tr>
@@ -932,8 +926,8 @@ Aún no porque estamos en el Sprint 1.
         <td rowspan="2">feature/styles-footer</td>
     </tr>
     <tr>
-        <td>2958d5389edd5dead1a6606e39ec92eb18099c6b</td>
-        <td>feat: added footer styles</td>
+        <td>0264b347c2eda4e76d32f932c4a4da8f1b422556</td>
+        <td>feat(feature/styles-footer): added styles for footer.</td>
         <td></td>
         <td>13/04/2024</td>
     </tr>
@@ -968,9 +962,9 @@ En el este sprint, se completó el desarrollo del landing page y se utilizó un 
 
 El equipo construyó la página de aterrizaje utilizando ramas para cada característica. Esta estrategia permitió que cada integrante del equipo trabajara en una parte del proyecto sin afectar el trabajo de los demás. Una vez completada cada característica, se verificó que no hubiera conflictos con la rama principal y se creó una solicitud de extracción para integrarla con dicha rama. A continuación, se adjunta una imagen que ilustra la colaboración del equipo en GitHub.
 
-![estadisticos](https://i.imgur.com/MiSjfqr.jpeg)
+![estadisticos](https://i.imgur.com/wmhBfes.jpeg)
 
-![network](https://i.imgur.com/sUFRirP.jpeg)
+![network](https://i.imgur.com/TYK3dqo.jpeg)
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
