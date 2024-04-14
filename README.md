@@ -528,6 +528,14 @@ Lugar donde Vive: Callao, Lima<br>
 ![Imagen de entrevista](https://i.imgur.com/9cIxfhz.png)<br>
 <br>En resumen, Mariacarmen Tejada es una empleada del hotel con experiencia en gestión y operaciones diarias. Destaca que sus tareas más difíciles son la limpieza de los baños y la cocina, así como la dificultad para mantener el stock de utensilios de limpieza y cocina. Está abierta a la posibilidad de nuevas tecnologías para mejorar la eficiencia laboral y la experiencia del cliente, especialmente a través de sistemas de gestión hotelera más avanzados. Además, promueve una comunicación más directa con la administración para mejorar la eficiencia y la colaboración del equipo. También, la implementación de sistemas de registro en línea y dispositivos móviles para simplificar el proceso de registro y check-in/check-out de los huéspedes. Por último, destaca la necesidad de herramientas adicionales, como sistemas de seguimiento de solicitudes de huéspedes y acceso a información local para mejorar la experiencia general en el hotel.
 
+**Entrevista 3 (Empleados)**  
+Url: [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211552_upc_edu_pe/EbF0GC21iIVFujOluyxBX7oB4VaiTzr1n1mEnEG-YIzYuw?e=onAImb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+Nombre: Leonardo Ruiz<br>
+Edad: 18<br>
+Lugar donde Vive: Monterrico, Lima<br>  
+![Imagen de entrevista](https://i.imgur.com/E78agOh.png)<br>
+<br>En resumen, Leonardo Ruiz es una empleada del hotel con poca experiencia laboral en el mercado, sin embargo, demuestra su incomodidad por la falta de herramientas que requiere para facilitar su trabajo ya sea individual o colectivo, lo cual ayudaria a mejorar la produccion en el hotel.
+
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento de gerentes**  
