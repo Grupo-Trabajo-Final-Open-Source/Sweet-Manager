@@ -12,7 +12,7 @@
 **Relación de Integrantes:**
 - Mauricio Abraham Rivo Rojas Sánchez - U202211572
 - Aaron Elías Acuña Alarcón - U202211572
-- Fernando Brian Salgado Luna - U2022122023
+- Fernando Brian Salgado Luna - U202212023
 - Leonardo Félix Jesus Linares Tejada - U202211168
 
 <center><b>Marzo del 2024</b></center>
@@ -267,7 +267,7 @@ Gestión de Clientes: Mejoramos la organización y control de los clientes que r
 | Mauricio Abraham Rivo Rojas Sánchez	![Imagen del compañero](https://i.imgur.com/qQ6neUi.png) | U202211572            | Ingenieria de software | C++, C#, javascript y java            |
 | Aaron Elías Acuña Alarcón 	![Imagen del compañero](https://i.imgur.com/lMgpDeU.png) | U202211552            | Ingenieria de software | C++, C#, html, SQL server, etc.             |
 | Leonardo Félix Jesús Linares Tejada 	![Imagen del compañero](https://i.imgur.com/nWtALQi.png) | U202211168            | Ingenieria de software | C++, C#, html, css, etc.             |
-| Fernando Brian Salgado Luna 	![Imagen del compañero](https://i.imgur.com/KCq6SDT.jpeg) | U20221A322            | Ingenieria de software | C++, java, Kotlin, Go, Spring Boot .etc             |
+| Fernando Brian Salgado Luna 	![Imagen del compañero](https://i.imgur.com/KCq6SDT.jpeg) | U202212023            | Ingenieria de software | C++, java, Kotlin, Go, Spring Boot .etc             |
 
 ## 1.2. Solution Profile
 
