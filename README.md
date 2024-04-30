@@ -1558,32 +1558,57 @@ Ocupación: _____
 
 ## 5.4. Video About-the-Product.
 
-[URL del video about the product](https://www.example.com)
+No hay por ahora
 
 # Conclusiones
 
-{texto}
+Esta parte tiene 2 secciones: Conclusiones y Recomendaciones y Video Aout-the-team.
 
-# Conclusiones y recomendaciones.
+En conclusiones y recomendaciones resumiremos los avances que hemos tenido hasta el momento y como esta siendo nuestra experiencia en ello. Adicionalmente, explicando las fases de desarrollo que hemos implementado y como hemos abstraido la informacion recibida de los requisitos como entrevistas, Historias de Usuario; etc. Finalmente, evaluar los resultados en relacion con el Lean UX, validaciones y RoadMap. 
 
-{texto}
+En Video About-the-Team, presentaremos un video en donde el equipo se introduce y narraremos la recopilaciuon del trabajo realizado durante todo el proceso de desarrollo del proyecto, narrando con voz de fondo y mostrando el trabajo en equipo que hemos mantenido durante todo el proceso. Adicionalmente, hablaremos de los Outcomes logrados en el proyecto, las actividades realizadas y el desarrollo de competencias alcanzados.
+
+# Conclusiones y Recomendaciones
+
+Nuestro proyecto de gestión hotelera esta siendo una experiencia gratificante y enriquecedora. Estamos diseñando y desarrollando una aplicación integral que aborda las necesidades de los gerentes y trabajadores de hoteles, facilitando la gestión diaria, el seguimiento de ingresos y egresos, la administración de recursos, el contacto con proveedores y la gestión de los procesos de check-in y check-out.
+
+Durante la fase de planificación, dividimos nuestro trabajo en cuatro sprints para una mejor organización y eficiencia. El primer sprint se centró en la creación del Landing Page, seguido por el desarrollo del Front-End Application en el segundo sprint. Sólo falta los últimos dos sprints que están dedicados al desarrollo de la Web Services API, completando así los tres componentes esenciales de nuestro proyecto.
+
+Para garantizar la calidad y la usabilidad de nuestra aplicación, hemos realizado entrevistas, lo que nos permitió recopilar comentarios valiosos acerca del negocio y realizar ajustes necesarios en cada etapa del proceso de desarrollo.
+
+En resumen, estamos orgullosos del trabajo realizado y confiamos en que nuestra aplicación no solo cumplirá, sino que también superará las expectativas de nuestros usuarios. Este proyecto no solo nos esta permitiendo aplicar nuestros conocimientos en Ingeniería de Software, sino que también nos está brindado la oportunidad de trabajar en equipo, enfrentar desafíos y aprender de manera continua. 
 
 # Video About-the-Team.
 
-[URL del video about the team](https://www.example.com)
+Link del Video: 
 
 # Bibliografía
 
-``` 
-formato
+¿Qué es la gestión hotelera y cuál es su importancia en el sector hotelero? (2021, febrero 10). Ostelea.com. <br> https://www.ostelea.com/actualidad/blog-turismo/direccion-hotelera/que-es-la-gestion-hotelera-y-cual-es-su-importancia-en-el-sector-hotelero
 
-"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
-        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
+<br>
 
-```
+de Javier, V. M. C. (s/f). DDD y arquitectura Onion, todo lo que necesitas saber. Paradigmadigital.com. Recuperado el 29 de abril de 2024 de <br>
+https://www.paradigmadigital.com/techbiz/domain-driven-design-y-arquitectura-onion/
+
+<br>
+
+Angular. (s/f). Angular.Io. Recuperado el 30 de abril de 2024.
+https://angular.io/docs
+
+<br>
+
+Arquitectura DDD(Domain Driven Design). (2021, junio 21). Sergio Tapia. <br>
+https://sergiotapia.net/arquitectura-ddddomain-driven-design/
+
+<br>
+
+Marín, C. (2019, febrero 10). Escribibiendo Código limpio. Angular Frontenders; César Marín.
+https://angularfrontenders.com/codigo-limpio/
 
 # Anexos
 
-datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
-
-![Imagen de algo no nuestro lol](image.jpg)
+| Contenido | URL del Vídeo |
+|--------------|--------------|
+| Vídeo de Exposición TB1      | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EQteChIn4UVDlVx5Sc4PJWMBIr-9kjLxmjmIS_X4JlKSJA?e=3TsZIH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|  
+| VÍdeo de Exposición TP1      | Link del Vídeo: | 
