@@ -1,15 +1,19 @@
-<center><h3>Informe del Trabajo Final</h3></center>
+<hr>
 
-<center><img src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png">
-</center>
-<center>Universidad Peruana de Ciencias Aplicadas</center>
+# <center>COURSE PROJECT</center>
 
-**Nombre del curso: Desarrollo de Aplicaciones Open Source**
-**Sección: WX56**
-**Nombre del Profesor: Hugo Allan Mori**
-**Nombre del StartUp: Sweet Manager**
-**Nombre del Producto: Sweet Manager**
-**Relación de Integrantes:**
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Ingeniería de Software</strong><br>
+    <strong>Aplicaciones Open Source - WX56</strong><br>
+    <strong>Profesor: Hugo Allan Mori </strong><br>
+    <br>INFORME
+</p>
+
+**Nombre del StartUp: Sweet Manager** <br>
+**Nombre del Producto: Sweet Manager** <br>
+**Relación de Integrantes:** <br>
 - Mauricio Abraham Rivo Rojas Sánchez - U202211572
 - Aaron Elías Acuña Alarcón - U202211572
 - Fernando Brian Salgado Luna - U202212023
