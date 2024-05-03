@@ -298,7 +298,7 @@ Destacamos las siguientes características:<br><br>
 Gestión de Ingresos y Gastos: Sweet Manager ofrece un seguimiento detallado de todos los ingresos y gastos del hotel, proporcionando informes en tiempo real para una toma de decisiones informada.<br><br>
 Control de Inventarios: Con nuestra aplicación, los hoteles pueden gestionar eficientemente sus inventarios de alimentos, bebidas, artículos de tocador y más, evitando escasez y desperdicios.<br><br>
 Gestión de Proveedores: Facilitamos la comunicación y la gestión de relaciones con los proveedores, permitiendo realizar pedidos de forma rápida y eficiente.<br><br>
-Gestión de Clientes: Mejoramos la organización y control de los clientes que reserven su estancia en el hotel implementando calendarios y agendas para una mejor gestión.
+Gestión de Clientes: Mejoramos la organización y control de los clientes que reserven su estancia en el hotel implementando calendarios y agendas para una mejor gestión..
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
@@ -307,18 +307,31 @@ Gestión de Clientes: Mejoramos la organización y control de los clientes que r
 | Mauricio Abraham Rivo Rojas Sánchez	![Imagen del compañero](https://i.imgur.com/qQ6neUi.png) | U202211572            | Ingenieria de software | C++, C#, javascript y java            |
 | Aaron Elías Acuña Alarcón 	![Imagen del compañero](https://i.imgur.com/lMgpDeU.png) | U202211552            | Ingenieria de software | C++, C#, html, SQL server, etc.             |
 | Leonardo Félix Jesús Linares Tejada 	![Imagen del compañero](https://i.imgur.com/nWtALQi.png) | U202211168            | Ingenieria de software | C++, C#, html, css, etc.             |
-| Fernando Brian Salgado Luna 	![Imagen del compañero](https://i.imgur.com/KCq6SDT.jpeg) | U202212023            | Ingenieria de software | C++, java, Kotlin, Go, Spring Boot .etc             |
+| Fernando Brian Salgado Luna 	![Imagen del compañero](https://i.imgur.com/KCq6SDT.jpeg) | U20221A322            | Ingenieria de software | C++, java, Kotlin, Go, Spring Boot .etc             |
 
 ## 1.2. Solution Profile
 
-Como se mencionó anteriormente, el objetivo de Sweet Manager es ser una aplicación que ayuda en la gestión de procesos hoteleros, específicamente, el seguimiento de ingresos, los proveedores del hotel, los insumos y los recursos disponibles.<br><br>
-Pero, para poder prosperar y ser exitosos, necesitamos reconocer el ambiente competitivo que rodea nuestra aplicación. Por lo tanto, reconoceremos nuestros objetivos y restricciones con las siguientes secciones.
+Como se mencionó anteriormente, el objetivo de Sweet Manager es ser una aplicación que ayuda en la gestión de procesos hoteleros, específicamente, el seguimiento de ingresos, los proveedores del hotel, los insumos y los recursos disponibles.
 
+Pero, para poder prosperar y ser exitosos, necesitamos reconocer el ambiente competitivo que rodea nuestra aplicación. Por lo tanto, reconoceremos nuestros objetivos y restricciones con las siguientes secciones.
 
 ### 1.2.1 Antecedentes y problemática
 
-Para poder competir con nuestros competidores, debemos reconocer los antecedentes y la problemática a solucionar.<br><br>
-En la industria hotelera, la gestión eficiente de procesos es fundamental para garantizar la rentabilidad y la satisfacción del cliente. La falta de herramientas adecuadas puede llevar a pérdidas económicas y a una experiencia deficiente para los huéspedes.
+Para poder competir con nuestros competidores, debemos reconocer los antecedentes y la problemática a solucionar.
+
+**Antecedentes**
+
+En la industria hotelera, la gestión eficiente de procesos es crucial para asegurar la rentabilidad y la satisfacción del cliente. En los últimos años, hemos presenciado una evolución significativa en las expectativas de los huéspedes, impulsada en gran medida por los avances tecnológicos y la rápida expansión del mercado de viajes y alojamiento.
+
+El advenimiento de plataformas de reserva en línea y la creciente demanda de experiencias personalizadas han creado un entorno altamente competitivo para los hoteles de todos los tamaños. Los huéspedes esperan no solo un servicio impecable y comodidades de alta calidad, sino también una experiencia fluida y sin contratiempos desde el momento de la reserva hasta el check-out.
+
+Sin embargo, muchos hoteles se enfrentan a desafíos en la gestión de sus operaciones diarias. Desde el seguimiento preciso de los ingresos y gastos hasta la coordinación del personal y la gestión de inventarios, las tareas administrativas pueden ser abrumadoras y propensas a errores en un entorno dinámico como el de la hotelería. Todos estos problemas se evidencian en el análisis hecho al “Hotel Sol de Grau” de Piura, Perú (Rosas, 2021), con respecto al manejo interno de sus empleados y su incidencia en la gestión financiera.
+
+Además, la falta de herramientas adecuadas de gestión puede llevar a pérdidas económicas, escasez de inventario y, en última instancia, a una experiencia insatisfactoria para los huéspedes (Robayo, Serna y Botera, 2022). La incapacidad para mantener un control efectivo sobre los recursos disponibles y las necesidades cambiantes de los clientes puede tener un impacto negativo en la reputación y la rentabilidad del hotel, especialmente en un mercado donde las reseñas en línea y las recomendaciones boca a boca juegan un papel crucial en la toma de decisiones de los viajeros.
+
+En este contexto, la necesidad de soluciones innovadoras y eficientes para la gestión hotelera es más evidente que nunca. Los hoteles deben adaptarse rápidamente a las demandas del mercado y aprovechar las herramientas tecnológicas disponibles para optimizar sus operaciones y mantenerse competitivos en un entorno en constante cambio.
+
+**Problemática**
 
 **What:** Sweet Manager es una solución integral diseñada para abordar estas complejidades al proporcionar una plataforma única para la gestión de todos los aspectos de un hotel, desde las finanzas hasta los recursos humanos.
 
@@ -348,61 +361,225 @@ La gestión eficiente de hoteles presenta desafíos significativos, incluyendo l
 
 **Dominio:**
 
-La industria hotelera, tanto a nivel local como internacional.
+Nos centramos en la industria hotelera. Reconocemos la diversidad y complejidad de este sector, que abarca desde pequeñas posadas hasta grandes cadenas hoteleras, cada una con sus propias necesidades y desafíos únicos en la gestión operativa.
 
-**Segmentos de Gerentes:**
+**Segmentos de Clientes:**
 
-Propietarios y gerentes de hoteles de todos los tamaños, desde pequeñas posadas hasta grandes cadenas hoteleras.
+Nos dirigimos a los propietarios y gerentes de hoteles de todos los tamaños, al igual que a los empleados y trabajadores de estos. Comprendemos que la gestión hotelera abarca una amplia gama de establecimientos, desde negocios familiares hasta corporaciones internacionales, y nuestra plataforma está diseñada para adaptarse a las necesidades de todos estos segmentos.
 
 **Puntos de Dolor:**
 
-- Dificultad para realizar un seguimiento preciso de los ingresos y gastos del hotel.
-- Desafíos en la gestión de inventarios y relaciones con proveedores.
-- Complejidades en la gestión del personal y los recursos humanos.
+- **Dificultad para realizar un seguimiento preciso de los ingresos y gastos del hotel:** La falta de herramientas adecuadas dificulta la monitorización efectiva de los flujos financieros, lo que puede conducir a decisiones erróneas y pérdida de ingresos.
+- **Desafíos en la gestión de inventarios y relaciones con proveedores:** La coordinación de inventarios y la comunicación con proveedores pueden ser complicadas y consumir mucho tiempo, lo que resulta en escasez de suministros o exceso de stock.
+- **Complejidades en la gestión del personal y los recursos humanos:** Programación de turnos, seguimiento de la asistencia, evaluaciones de desempeño y gestión de nóminas son solo algunas de las tareas laboriosas que enfrentan los gerentes de hoteles en la gestión de su personal.
 
 **Visión/Estrategia:**
 
-Proporcionar una solución integral y fácil de usar que aborde todas las necesidades de gestión de un hotel, desde las finanzas hasta los recursos humanos, mejorando la eficiencia operativa y la experiencia del cliente.
+Nuestra visión es proporcionar una solución integral y fácil de usar que aborde todas las necesidades de gestión de un hotel, desde las finanzas hasta los recursos humanos. Nos esforzamos por mejorar la eficiencia operativa y la experiencia del cliente al ofrecer una plataforma centralizada que simplifique y optimice todas las operaciones relacionadas con la administración hotelera.
 
 **Segmento Inicial:**
 
-Hoteles independientes y pequeñas cadenas hoteleras que buscan soluciones accesibles y eficientes para optimizar sus operaciones.
+Nos enfocamos inicialmente en hoteles independientes y pequeñas cadenas hoteleras que buscan soluciones accesibles y eficientes para optimizar sus operaciones. Reconocemos la importancia de ofrecer herramientas asequibles y adaptables para estos segmentos, que a menudo carecen de los recursos de las grandes cadenas pero que tienen una necesidad urgente de mejorar su eficiencia y competitividad en el mercado.
+
 
 #### 1.2.2.2. Lean UX Assumptions.
 
-| Business Assumptions | User Assumptions |
-| -------------------- | ---------------- |
-| Aumento en la eficiencia operativa de los hoteles.|Acceso conveniente a una plataforma que simplifica todas las tareas de gestión hotelera.|
-|Mejora en la rentabilidad a través de una gestión más efectiva de ingresos y recursos.|Mejora en la toma de decisiones basada en datos en tiempo real.|
-|Mayor satisfacción del cliente al ofrecer experiencias más fluidas y personalizadas.|Reducción del estrés y la carga de trabajo asociados con la gestión manual de procesos.|
+**Features:**
+- **Seguimiento de Ingresos y Gastos en Tiempo Real:** Herramienta para registrar y analizar los flujos financieros del hotel, proporcionando una visión instantánea de la situación económica.
+- **Gestión de Inventarios y Relaciones con Proveedores:** Funcionalidades para mantener un control preciso de los suministros del hotel y facilitar la comunicación con los proveedores para realizar pedidos de manera eficiente.
+- **Módulos de Gestión de Personal:** Herramientas para gestionar horarios, nóminas y evaluaciones de desempeño del personal, optimizando así la gestión de recursos humanos.
+- **Interfaz Intuitiva y Personalizable:** Una interfaz fácil de usar y adaptable a las necesidades específicas de cada hotel, garantizando una experiencia de usuario fluida y personalizada.
+- **Integración con Sistemas de Gestión Hotelera Existentes:** Capacidad para integrarse sin problemas con sistemas de gestión hotelera ya implementados, asegurando una transición suave y una experiencia completa para los usuarios.
+
+**Business Outcomes:**
+- **Aumento de la Eficiencia Operativa:** Tras la implementación de Sweet Manager, se espera una reducción del 30% en el tiempo dedicado a tareas administrativas como la gestión de inventarios y recursos humanos, lo que se traducirá en una mejora tangible en la eficiencia operativa del hotel.
+- **Mejora en la Rentabilidad:** Anticipamos un aumento del 15% en el margen de beneficio neto del hotel dentro de seis meses, gracias a una gestión más efectiva de ingresos y recursos que optimiza los costos operativos y maximiza los ingresos.
+- **Mayor Satisfacción del Cliente:** Esperamos ver un aumento de 0.5 puntos en la calificación promedio de satisfacción del cliente en las reseñas en línea después de la implementación de Sweet Manager, lo que reflejará la mejora en la experiencia del cliente debido a una gestión más eficiente y una atención más personalizada.
+- **Retención de los clientes:** Prevemos un aumento del 20% en el número de clientes que realizan reservas repetidas dentro de un año, lo que indica una mayor fidelización gracias a una gestión más efectiva y una experiencia de calidad para los huéspedes.
+- **Reducción de costos:** Esperamos una disminución del 25% en los costos operativos totales del hotel, gracias a la reducción de desperdicios y la optimización de procesos facilitada por la automatización y centralización de la información.
 
 **Users:**
-- Propietarios y gerentes de hoteles que buscan soluciones tecnológicas para optimizar la gestión de sus establecimientos.
-- Personal de Trabajo encargado de tareas específicas dentro del hotel, como contabilidad, compras o recursos humanos.
+- **Propietarios y Gerentes de Hoteles:** Buscan soluciones tecnológicas para optimizar la gestión de sus establecimientos y mejorar la rentabilidad.
+- **Personal de Trabajo:** Encargado de tareas específicas dentro del hotel, como contabilidad, compras o recursos humanos, quienes buscan herramientas que simplifiquen y agilicen sus responsabilidades diarias.
 
-**Features:**
-- Sistema de seguimiento de ingresos y gastos en tiempo real.
-- Herramientas para la gestión de inventarios y relaciones con proveedores.
-- Módulos para la gestión de personal, incluyendo horarios, nóminas y evaluaciones de desempeño.
-- Interfaz intuitiva y personalizable para adaptarse a las necesidades específicas de cada hotel.
-- Integración con sistemas de gestión hotelera existentes para una experiencia sin fisuras.
+**User Outcomes & Benefits:**
+- **Acceso Conveniente a la Plataforma:** Los usuarios pueden acceder fácilmente a todas las herramientas necesarias para la gestión hotelera desde una sola plataforma.
+- **Toma de Decisiones Basada en Datos en Tiempo Real:** La disponibilidad de información actualizada permite a los usuarios tomar decisiones informadas y estratégicas en el momento adecuado.
+- **Reducción del estrés y la Carga de Trabajo:** Al automatizar procesos y simplificar tareas, Sweet Manager ayuda a reducir la carga de trabajo y el estrés asociado con la gestión manual de procesos.
+- **Facilitación de tareas específicas:** Como la contabilidad, las compras y manejo de los recursos humanos mediante herramientas especializadas.
+- **Mayor eficiencia y comunicación:** Al contar con sistemas integrados que agilizan los procesos de las tareas, y contar con un sistema de comunicación directa, se optimiza la coordinación operativa.
+- **Transparencia de acciones y mayor confianza:** Generando una experiencia sin contratiempos que satisface a los huéspedes, especialmente en las transacciones y las reservas.
+
+**Business Assumptions:**
+1. Creemos que los hoteles tienen una necesidad creciente de soluciones tecnológicas que mejoren la eficiencia operativa y la rentabilidad del negocio.
+2. Esta necesidad puede ser abordada con éxito mediante Sweet Manager, que ofrece una plataforma integral y fácil de usar para la gestión hotelera.
+3. El valor principal que nuestros clientes buscan es una solución que simplifique la gestión diaria del hotel y mejore la experiencia del cliente.
+4. Prevemos adquirir la mayoría de nuestros clientes a través de estrategias de marketing dirigidas a propietarios y gerentes de hoteles, así como mediante asociaciones con la industria hotelera.
+5. Generaremos ingresos principalmente a través de modelos de suscripción y servicios premium, así como mediante la oferta de integraciones con otros sistemas y herramientas adicionales.
+6. Si bien enfrentamos la competencia de otras soluciones de gestión hotelera, confiamos en que podemos destacarnos mediante la calidad del servicio, la facilidad de uso y la capacidad de adaptación a las necesidades específicas de cada hotel.
+7. El principal riesgo que enfrentamos es no cumplir con las expectativas del cliente en cuanto a funcionalidad, rendimiento y soporte técnico.
+8. Planeamos mitigar este riesgo manteniendo un enfoque centrado en el cliente, brindando soporte continuo y actualizaciones regulares de nuestra plataforma para satisfacer las necesidades cambiantes del mercado hotelero.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-Creemos que al ofrecer una plataforma integral y fácil de usar para la gestión hotelera, aumentará la eficiencia operativa y la rentabilidad de los hoteles al simplificar las tareas de seguimiento de ingresos, gestión de inventarios y recursos humanos. Al proporcionar herramientas de análisis en tiempo real, los propietarios y gerentes podrán tomar decisiones informadas que mejoren la experiencia del cliente y optimicen los procesos internos. Nuestra hipótesis se basa en la premisa de que estas mejoras conducirán a una mayor satisfacción del cliente y una mayor eficiencia en la gestión hotelera.
+- **Hipótesis 1:**
+
+**Creemos que** al ofrecer una plataforma integral y fácil de usar para la gestión hotelera, aumentaremos la eficiencia operativa y la rentabilidad de los hoteles. **Se cumplirá si** los propietarios y gerentes **persiban** una disminución visible en el tiempo dedicado a tareas administrativas manuales y un aumento en la utilización activa de Sweet Manager.
+
+- **Hipótesis 2:**
+
+**Creemos que** al proporcionar herramientas de análisis en tiempo real para la toma de decisiones informadas, mejoraremos la gestión estratégica de los hoteles. **Se cumplirá si** los empleados **persiban** una mayor implementación de cambios basados en datos en la gestión hotelera y una mejora significativa en la eficiencia operativa.
+
+- **Hipótesis 3:**
+
+**Creemos que** al optimizar la gestión de inventarios y recursos humanos a través de Sweet Manager, mejoraremos la experiencia del cliente en los hoteles. **Se cumplirá si** los propietarios y gerentes **obtengan** un aumento en las calificaciones y comentarios positivos de los huéspedes, así como una mayor fidelización y repetición de negocios.
+
+- **Hipótesis 4:**
+
+**Creemos que** al facilitar la comunicación y la colaboración entre el personal del hotel mediante Sweet Manager, mejoraremos la coordinación operativa y la satisfacción laboral. **Se cumplirá si** los trabajodes del hotel **noten** una reducción en los malentendidos y errores de comunicación interna, así como un aumento en la productividad y el compromiso del personal.
+
+- **Hipótesis 5:**
+
+**Creemos que** al ofrecer una experiencia transparente de usuario, que mantenga un seguimiento claro de las transacciones y reservas del hotel, aumentaremos la adopción y retención de usuarios. **Se cumplirá si** los propietarios y gerentes **observen** una disminución en la tasa de abandono de la plataforma y un aumento en el número de usuarios activos que utilizan regularmente todas las características disponibles.
 
 #### 1.2.2.4. Lean UX Canvas.
 
-![Lean UX Canvas](https://i.imgur.com/YjjnP91.png)
+<TABLE BORDER>
+	<TR>
+		<TD ROWSPAN=2>
+
+**Lean UX Canvas**
+
+</TD>
+	    	<TD ROWSPAN=2></TD> <TD>
+</TD> 
+	</TR>
+	<TR>
+	</TR>
+    <TR>
+		<TD ROWSPAN>
+        
+**1. Business Problem:**
+        
+La gestión eficiente de hoteles presenta desafíos significativos, incluyendo la falta de herramientas integradas que aborden todas las facetas del negocio. Los propietarios y gerentes se enfrentan a dificultades para gestionar ingresos, inventarios, proveedores y recursos humanos de manera eficaz, lo que puede resultar en pérdida de ingresos, desperdicio de recursos y experiencias insatisfactorias para los huéspedes.
+</TD>
+	    	<TD ROWSPAN=2>
+
+**5. Solutions**
+- **Automatización de Procesos:** Desarrollar herramientas que automatizan tareas repetitivas en la gestión hotelera, como la generación de informes financieros o la programación de mantenimiento.
+
+- **Análisis en tiempo real:** Implementar herramientas que ofrecen a los propietarios y gerentes información clave sobre el desempeño del hotel.
+
+- **Optimizar la gestión de inventarios y recursos humanos:** Mediante herramientas específicas en la aplicación, se logrará optimizar la gestión de los recursos hoteleros.
+
+- **Facilitar la comunicación y colaboración interna del hotel:** Mediante un sistema de notificaciones instantáneas y en tiempo real.
+</TD> <TD ROWSPAN=2>
+
+**2. Business Outcomes:**
+
+- **Aumento de la Eficiencia Operativa:** Tras la implementación de Sweet Manager, se espera una reducción del 30% en el tiempo dedicado a tareas administrativas como la gestión de inventarios y recursos humanos, lo que se traducirá en una mejora tangible en la eficiencia operativa del hotel.
+- **Mejora en la Rentabilidad:** Anticipamos un aumento del 15% en el margen de beneficio neto del hotel dentro de seis meses, gracias a una gestión más efectiva de ingresos y recursos que optimiza los costos operativos y maximiza los ingresos.
+- **Mayor Satisfacción del Cliente:** Esperamos ver un aumento de 0.5 puntos en la calificación promedio de satisfacción del cliente en las reseñas en línea después de la implementación de Sweet Manager, lo que reflejará la mejora en la experiencia del cliente debido a una gestión más eficiente y una atención más personalizada.
+- **Retención de los clientes:** Prevemos un aumento del 20% en el número de clientes que realizan reservas repetidas dentro de un año, lo que indica una mayor fidelización gracias a una gestión más efectiva y una experiencia de calidad para los huéspedes.
+- **Reducción de costos:** Esperamos una disminución del 25% en los costos operativos totales del hotel, gracias a la reducción de desperdicios y la optimización de procesos facilitada por la automatización y centralización de la información.
+</TD> 
+	</TR>
+	<TR>
+		<TD >
+        
+**3. Users:**
+
+- **Propietarios y Gerentes de Hoteles:** Buscan soluciones tecnológicas para optimizar la gestión de sus establecimientos y mejorar la rentabilidad.
+- **Personal de Trabajo:** Encargado de tareas específicas dentro del hotel, como contabilidad, compras o recursos humanos, quienes buscan herramientas que simplifiquen y agilicen sus responsabilidades diarias.
+</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN=2>
+
+**6. Hypotheses**
+        
+- **Creemos que** al ofrecer una plataforma integral y fácil de usar para la gestión hotelera, aumentaremos la eficiencia operativa y la rentabilidad de los hoteles. **Se cumplirá si** los propietarios y gerentes **persiban** una disminución visible en el tiempo dedicado a tareas administrativas manuales y un aumento en la utilización activa de Sweet Manager.
+
+- **Creemos que** al proporcionar herramientas de análisis en tiempo real para la toma de decisiones informadas, mejoraremos la gestión estratégica de los hoteles. **Se cumplirá si** los empleados **persiban** una mayor implementación de cambios basados en datos en la gestión hotelera y una mejora significativa en la eficiencia operativa.
+
+- **Creemos que** al optimizar la gestión de inventarios y recursos humanos a través de Sweet Manager, mejoraremos la experiencia del cliente en los hoteles. **Se cumplirá si** los propietarios y gerentes **obtengan** un aumento en las calificaciones y comentarios positivos de los huéspedes, así como una mayor fidelización y repetición de negocios.
+
+- **Creemos que** al facilitar la comunicación y la colaboración entre el personal del hotel mediante Sweet Manager, mejoraremos la coordinación operativa y la satisfacción laboral. **Se cumplirá si** los trabajodes del hotel **noten** una reducción en los malentendidos y errores de comunicación interna, así como un aumento en la productividad y el compromiso del personal.
+
+- **Creemos que** al ofrecer una experiencia transparente de usuario, que mantenga un seguimiento claro de las transacciones y reservas del hotel, aumentaremos la adopción y retención de usuarios. **Se cumplirá si** los propietarios y gerentes **observen** una disminución en la tasa de abandono de la plataforma y un aumento en el número de usuarios activos que utilizan regularmente todas las características disponibles.</TD>
+
+<TD ROWSPAN=2>
+
+**7. What’s the Most Important Thing We Need to Learn First?**
+
+Comprender las necesidades y desafíos específicos de la gestión hotelera: Esto nos permitirá diseñar soluciones que aborden problemas reales y agreguen valor a los propietarios y gerentes de hoteles.
+
+Analizar el panorama competitivo: Es crucial comprender las fortalezas y debilidades de nuestros competidores, así como identificar oportunidades para diferenciarnos en el mercado.
+
+Definir claramente los objetivos y métricas de éxito: Antes de avanzar en el desarrollo, necesitamos establecer objetivos claros y medibles para la plataforma, lo que nos permitirá evaluar su efectividad y realizar ajustes según sea necesario.
+
+</TD> 
+
+<TD>
+
+**4. User Outcomes & Benefits:**
+
+- **Acceso Conveniente a la Plataforma:** Los usuarios pueden acceder fácilmente a todas las herramientas necesarias para la gestión hotelera desde una sola plataforma.
+- **Toma de Decisiones Basada en Datos en Tiempo Real:** La disponibilidad de información actualizada permite a los usuarios tomar decisiones informadas y estratégicas en el momento adecuado.
+- **Reducción del estrés y la Carga de Trabajo:** Al automatizar procesos y simplificar tareas, Sweet Manager ayuda a reducir la carga de trabajo y el estrés asociado con la gestión manual de procesos.
+- **Facilitación de tareas específicas:** Como la contabilidad, las compras y manejo de los recursos humanos mediante herramientas especializadas.
+- **Mayor eficiencia y comunicación:** Al contar con sistemas integrados que agilizan los procesos de las tareas, y contar con un sistema de comunicación directa, se optimiza la coordinación operativa.
+- **Transparencia de acciones y mayor confianza:** Generando una experiencia sin contratiempos que satisface a los huéspedes, especialmente en las transacciones y las reservas.
+</TD> 
+	</TR>
+	<TR>
+		<TD>
+        
+**8. What's the least amount of work we need to do to learn the next most important thing?**
+
+- **Encuestas de Satisfacción:**
+
+    Realizar encuestas breves entre los usuarios para comprender sus necesidades y expectativas iniciales con respecto a la gestión hotelera y las soluciones tecnológicas existentes.
+
+- **Análisis Competitivo:**
+
+    Realizar una investigación rápida para identificar a los principales competidores en el espacio de la gestión hotelera y comprender las características clave de sus plataformas.
+
+- **Identificación de Métricas Clave:** 
+
+    Determinar las métricas clave que nos permitirán medir el éxito de la plataforma, como la tasa de adopción, la retención de usuarios y la satisfacción del cliente.
+
+- **Prototipo sobre el Concepto:** 
+
+    Crear un prototipo simple o una maqueta de la plataforma para obtener retroalimentación temprana de los usuarios y validar la viabilidad de la idea.
+
+</TD> 
+	</TR>
+</TABLE>
 
 ## 1.3. Segmentos objetivo.
 
 **Usuarios:**
 
-- **Propietarios y Gerentes de Hoteles:** El objetivo principal de nuestra aplicación es asegurar que aquellos que se encargan de dirigir la dirección del hotel, tengan todas las herramientas disponibles que ofrecemos para el cuidado de sus hoteles, en cualquier momento
-- **Personal de Trabajo:** Aunque no sean aquellos que dirigen la empresa, siguen siendo igual de importantes, al ser aquellos que se encargan del cuidado y atendimiento diario del hotel..
+- **Propietarios y Gerentes de Hoteles:** 
 
----
+    Se ubican principalmente en áreas urbanas y turísticas de todo el mundo, mayormente en ciudades importantes y destinos turísticos.
+
+    Son altamente dedicados a su negocio, priorizando la eficiencia y rentabilidad de su hotel. También tienen una necesidad de control, buscando herramientas que les permitan tener un control total sobre las facetas de su negocio. Además, mantienen un deseo continuo de mejorar, para asegurar el éxito de su hotel y satisfacer la experiencia del cliente.
+
+    En su mayoría, son adultos de entre 30 y 60 años. El nivel educativo varía, desde propietarios con educación empresarial formal, hasta gerentes con experiencia laboral en la industria hotelera. Por último, pueden tener una amplia experiencia en la gestión hotelera o ser propietarios recientes que buscan optimizar su negocio.
+
+- **Personal de Trabajo:** 
+
+    Se ubican principalmente en áreas urbanas y turísticas de todo el mundo, mayormente en ciudades importantes y destinos turísticos.
+
+    Tienen una fuerte dedicación al servicio al cliente y a proporcionar una experiencia excepcional a los huéspedes. También, son capaces de adaptarse a una variedad de tareas y situaciones en un entorno dinámico y exigente. Además, valoran la colaboración y comunicación efectiva entre ellos y sus superiores, para garantizar el buen funcionamiento del hotel.
+
+    Mayormente son adultos jóvenes a adultos de mediana edad, con amplia experiencia laboral. También, varían en su nivel educativo, desde aquellos con educación secundaria hasta aquellos con formación específica en hospitalidad y turismo. Por último, su experiencia laboral varía, desde aquellos que recién empiezan, hasta aquellos que ya tienen experiencia personal en hoteles.
+
+    Tienen una fuerte dedicación al servicio al cliente y a proporcionar una experiencia excepcional a los huéspedes. También, son capaces de adaptarse a una variedad de tareas y situaciones en un entorno dinámico y exigente. Además, valoran la colaboración y comunicación efectiva entre ellos y sus superiores, para garantizar el buen funcionamiento del hotel.
+
+    Mayormente son adultos jóvenes a adultos de mediana edad, con amplia experiencia laboral. También, varían en su nivel educativo, desde aquellos con educación secundaria hasta aquellos con formación específica en hospitalidad y turismo. Por último, su experiencia laboral varía, desde aquellos que recién empiezan, hasta aquellos que ya tienen experiencia personal en hoteles.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
