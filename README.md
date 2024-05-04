@@ -1877,6 +1877,263 @@ El equipo construyó la página de aterrizaje utilizando ramas para cada caracte
 ![estadisticos](https://i.imgur.com/wmhBfes.jpeg)
 
 ![network](https://i.imgur.com/TYK3dqo.jpeg)
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 3/05/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 16:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Lima, Reunion virtual por Discord
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Mauricio Abraham Rivo Rojas Sánchez
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Acuña Alarcon, Aaron Elías / Salgado Luna, Fernando Brian / Linares Tejada, Leonardo Félix 
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
+            <td> Sprint 1: En el anterior sprint hemos diseñado un langing page con seccion hero, beneficios, introduccion, valores y contacto. Hemos cumplido con todas las historias de usuario formuladas.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+                Sprint 1: En el anterior sprint hemos diseñado una landing page, tuvimos algunos problemas al incio pero luego supimos manejar y ordenar todo por branches y lograr llegar a un buen resultado con uso de html, css y js.  
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 2 Velocity</td>
+            <td> 15
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td> 34
+            <td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+<table>
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Committed on (Date)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>front-end</th>
+        <th>feature/supply</th>
+        <th>6aa496d5c56d72d8f2a5e56af1e4528c9d23c995</th>
+        <th>feat(supply): Supply Management implemented</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/develop</th>
+        <th>c44be0a125b529e0e916b72c232dcabea15f4295</th>
+        <th>docs(main): updated extensions.json</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/develop</th>
+        <th>825e095df3345380e1396a92836b784c926dae86</th>
+        <th>docs(main): updated launch.json</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/develop</th>
+        <th>4a9ea68d9e49176ae0be582530e2fd77fb1bac76</th>
+        <th>docs(main): updated tasks.json</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/supply</th>
+        <th>7e7286f79fd5246200f890815a17dfa37777c433</th>
+        <th>Merge pull request #1 from Grupo-Trabajo-Final-Open-Source/feature/supply</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/management</th>
+        <th>ec56339f2b20065606c14ae836142b324981e4aa</th>
+        <th>Merge pull request #2 from Grupo-Trabajo-Final-Open-Source/feature/monitoring</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/management</th>
+        <th>a88a58a758b7ea1812858e138d1f597e36250bb5</th>
+        <th>feat(monitoring): initialized components, model and services</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/management</th>
+        <th>6e4d20cf79ca7885ebbb29417dc95e4d6adc530f</th>
+        <th>feat(monitoring): updated base service.</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/management</th>
+        <th>b90dabe35de4562233fb6379bf253a0c7c31c7d5</th>
+        <th>feat(monitoring): updated room entity.</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/management</th>
+        <th>ce69e0ad7d7e6437b15549d0a07aef56b096176e</th>
+        <th>feat(monitoring): updated room control service.</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/management</th>
+        <th>1e41a0642e6be3116dd60f0c9a8ffbc6ec02daf9</th>
+        <th>feat(monitoring): updated room create and edit ts.</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/management</th>
+        <th>16299c0fa49f18ce5176ff09083d78394fd55ca8</th>
+        <th>feat(monitoring): updated room create and edit html.</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/management</th>
+        <th>7658a41c987a2a674d610c5239f76172db11d12d</th>
+        <th>feat(monitoring): updated room management ts.</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/management</th>
+        <th>8a0332ee22ca601630b461e08fa47f9e73e0b979</th>
+        <th>feat(monitoring): updated room management html.</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/management</th>
+        <th>063c594b0465e492daece49ecc4120013858bad6</th>
+        <th>feat(monitoring): execute room management.</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/</th>
+        <th></th>
+        <th>Merge pull request #4 from Grupo-Trabajo-Final-Open-Source/feature/</th>
+        <th>04/05/2024</th>
+    </tr>
+    <tr>
+        <th>front-end</th>
+        <th>feature/</th>
+        <th></th>
+        <th>Merge pull request #5 from Grupo-Trabajo-Final-Open-Source/feature/</th>
+        <th>04/05/2024</th>
+    </tr>
+    </tbody>
+</table>
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web, por lo tanto no tenemos testing.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+**Sprint 2:**
+En este entregable, hemos logrado desarrollar un Front-End Application de SweetManager.
+El link del Front-End Application es el siguiente: https://sweetmanager.netlify.app/
+
+![](https://imgur.com/Lk8qNfO.jpeg)
+
+Página de bienvenida a la aplicación
+
+![](https://imgur.com/ufTHITF.jpeg)
+
+Página de Graficos de seguimiento de ingresos y egresos.
+
+![](https://imgur.com/t2XYVEo.jpeg)
+![](https://imgur.com/IhwCw1R.jpeg)
+
+Página log-in y register implementado.
+
+![](https://imgur.com/87ZODOv.jpeg)
+
+Página de manejo de Supplies.
+
+![](https://imgur.com/V5LHDkw.jpeg)
+
+Página de manejo de Rooms.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+En este sprint se cumplió el objetivo de desarrollar la Front-End Applications; sin embargo, al ser Front-End Applications no requiere de documentación relacionada a Web Services.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+En este sprint, se completó el desarrollo del Front-End Application y se utilizó un conjunto de herramientas para su despliegue:
+
+- Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del landing page.
+- GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del landing page.
+- GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
+- Netlify: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada para sitios web estáticos.
+
+![]()
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Las siguientes capturas se sacaron del repositorio front-end de la Organización Github: https://github.com/Grupo-Trabajo-Final-Open-Source/sweetmanager-frontend
+
+![](https://i.imgur.com/96G0HG1.png)
+
+Representa la cantidad de commits hechos en los ultimos dias. 
+
+![]()
+
+Representa el network de los commits del repositorio Front-End Application.
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
