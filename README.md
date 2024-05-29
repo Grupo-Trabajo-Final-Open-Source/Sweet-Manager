@@ -293,9 +293,12 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
                 Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
             </td>
             <td>
-                - Mauricio Rojas
+                - Mauricio Rojas<br>
                 TB1: En este entregable, he colaborado en el diálogo con mis compañeros de grupo, comunicando ideas con objetividad con diferentes niveles jerárquicos y especialidades, mejorando el diálogo entre nosotros. De esta manera, cumplí con el criterio específico del Student Outcome 3.<br>
-                - Aaron Alarcón 
+                TP1: En este entregable, he colaborado en el desarrollo del front-end web application. Especificamente en el bounded context de Interaction, Payment y Identity Access Management. Adicionalmente, he apoyado a mis compañeros de equipo en la guía del desarrollo de sus bounded context.<br>
+                TB2: 
+                En este entregable, he colaborado en el desarrollo del objtivo del sprint 3. En este caso desarrollar por completo el web services de la aplicación Sweet Manager. Adicionalmente, hacer revisión de los features y evaluar bugs y complicaciones. <br>
+                - Aaron Alarcón <br>
                 TB1: En este proyecto, colaboré activamente en las discusiones junto a mis compañeros de equipo, compartiendo ideas de manera imparcial y comunicándome efectivamente con personas que tienen diferentes roles y áreas de experiencia. Así, logré satisfacer el criterio específico del Student Outcome 3.<br>
                 - Fernando Salgado
                 TB1: En este proyecto, participé de manera proactiva en las conversaciones con mis compañeros de equipo, intercambiando ideas de manera imparcial y manteniendo una comunicación clara y efectiva con individuos de distintos niveles de jerarquía y áreas de especialización. De este modo, logré cumplir con el criterio específico del Student Outcome 3.<br>
@@ -304,7 +307,11 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
             </td>
             <td>
             - Conclusión TB1:
-            En conclusión, en este entregable, hemos dialogado en conjunto para analizar los requerimientos y planes para el desarrollo del proyecto de Software. De esta manera, hemos comunicado ideas oralmente con objetividad en diferentes niveles jerárquicos en proyectos de Ingeniería.
+            En conclusión, en este entregable, hemos dialogado en conjunto para analizar los requerimientos y planes para el desarrollo del proyecto de Software. De esta manera, hemos comunicado ideas oralmente con objetividad en diferentes niveles jerárquicos en proyectos de Ingeniería.<br>
+            - Conclusión TP1: 
+            En conclusión, en este entregable, hemos dialogado en conjunto para poder llegar al objetivo final del sprint, en este caso completar el desarrollo y diseño de todos los bounded context.<br>
+            - Conclusión TB2:
+            En conclusión, en este entregable, hemos dialogado en conjunto para poder llegar al objetivo final del sprint, en este caso completar el desarrollo, diseño y plinificación de todos los bounded context. En este caso, completar el Web Services.
             </td>
         </tr>
         <tr>
@@ -324,6 +331,10 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
             <td>
             - Conclusión TB1:
             En conclusión, en este informe escrito, hemos detallado de manera clara y objetiva los resultados  del análisis de requerimientos y planes para el desarrollo del proyecto de Software. Esta comunicación escrita ha sido dirigida a un público de diferentes especialidades y niveles jerárquicos, demostrando nuestra capacidad para transmitir información técnica de manera efectiva en el contexto del desarrollo de proyectos de Ingeniería.
+            - Conclusión TP1:
+            En conclusión, en este sprint 2, hemos trabajado en conjunto para el desarrollo de todos los bounded contexty poder llegar al objetivo del Sprint 2. Adicionalmente, hacer los respectivos reviews y retroalimentaciones.
+            - Conclusión TB2:
+            En conclusión, en este Sprint 2, hemos trabajado en conjunto para el desarrollo detodos los bounded context y features para poder llegar a desarrollar por completo el API de Sweet Manager. Adicionalmnete, hacer review de los features del Sprint 3 y hacer retroalimentaciones.
             </td>
         </tr>
     </tbody>
