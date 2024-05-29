@@ -82,6 +82,31 @@
             <td>- Service Documentation Evidence for Sprint Review
             </td>
         </tr>
+     <tr>
+            <td rowspan=4 align="center">TB2</td>
+            <td rowspan=4 align="center">29/05/2024</td>
+            <td align="center">- Mauricio Abraham Rivo Rojas Sánchez</td>
+            <td>- Sprint Backlog 3 <br>
+                - Sprint Planning 3     
+            </td>
+        </tr>
+        <tr>
+            <td align="center">- Aaron Elías Acuña Alarcon</td>
+            <td>- Execution Evidence for Sprint Review <br>
+                - Team Collaboration Insights during Sprint.
+            </td>
+        </tr>
+        <tr>
+            <td align="center">- Fernando Brian Salgado Luna</td>
+            <td>- Development Evidence for Sprint Review <br>
+                - Testing Suite Evidence for Sprint Review
+            </td>
+        </tr>
+        <tr>
+            <td align="center">- Leonardo Félix Linares Tejada</td>
+            <td>- Service Documentation Evidence for Sprint Review
+            </td>
+        </tr>
     </tbody>
 </table>
 
