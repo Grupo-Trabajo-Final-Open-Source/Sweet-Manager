@@ -330,9 +330,9 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
             </td>
             <td>
             - Conclusión TB1:
-            En conclusión, en este informe escrito, hemos detallado de manera clara y objetiva los resultados  del análisis de requerimientos y planes para el desarrollo del proyecto de Software. Esta comunicación escrita ha sido dirigida a un público de diferentes especialidades y niveles jerárquicos, demostrando nuestra capacidad para transmitir información técnica de manera efectiva en el contexto del desarrollo de proyectos de Ingeniería.
+            En conclusión, en este informe escrito, hemos detallado de manera clara y objetiva los resultados  del análisis de requerimientos y planes para el desarrollo del proyecto de Software. Esta comunicación escrita ha sido dirigida a un público de diferentes especialidades y niveles jerárquicos, demostrando nuestra capacidad para transmitir información técnica de manera efectiva en el contexto del desarrollo de proyectos de Ingeniería.<br>
             - Conclusión TP1:
-            En conclusión, en este sprint 2, hemos trabajado en conjunto para el desarrollo de todos los bounded contexty poder llegar al objetivo del Sprint 2. Adicionalmente, hacer los respectivos reviews y retroalimentaciones.
+            En conclusión, en este sprint 2, hemos trabajado en conjunto para el desarrollo de todos los bounded contexty poder llegar al objetivo del Sprint 2. Adicionalmente, hacer los respectivos reviews y retroalimentaciones.<br>
             - Conclusión TB2:
             En conclusión, en este Sprint 2, hemos trabajado en conjunto para el desarrollo detodos los bounded context y features para poder llegar a desarrollar por completo el API de Sweet Manager. Adicionalmnete, hacer review de los features del Sprint 3 y hacer retroalimentaciones.
             </td>
