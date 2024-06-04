@@ -2183,12 +2183,12 @@ Representa la cantidad de commits hechos en los ultimos dias.
 Representa el network de los commits del repositorio Front-End Application.
 
 
-### 5.2.3. Sprint 2
-#### 5.2.3.1. Sprint Planning 2
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
 
-#### 5.2.3.2. Sprint Backlog 2
-
-
+#### 5.2.3.2. Sprint Backlog 3
+![](blob:https://imgur.com/51aaebc7-1678-431f-9576-193d5c5448cc)
+Inicio de Sprint 3
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
