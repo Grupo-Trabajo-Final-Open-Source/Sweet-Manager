@@ -2253,13 +2253,29 @@ Representa el network de los commits del repositorio Front-End Application.
 Inicio de Sprint 3
 
 #### 5.2.3.3. Development Evidence for Sprint Review
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web, el testing que hemos usado para la validacion de endpoints fue postman:
+
+(Poner capturas de pantalla de postman y los endpoints)
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+Sprint 3: En este entregable, hemos logrado desarrollar un Web Services Application de Sweet Manager. El link. del Web Services Application es: 
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+En este sprint se cumplió el objetivo de desarrollar el Web Services Application. La documentacion de nuestro servicio:
+
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+En este sprint, se completó el desarrollo del Front-End Application y se utilizó un conjunto de herramientas para su despliegue:
+
+- Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del landing page.
+- GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del landing page.
+- GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
