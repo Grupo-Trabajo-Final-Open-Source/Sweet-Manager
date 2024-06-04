@@ -2187,7 +2187,7 @@ Representa el network de los commits del repositorio Front-End Application.
 #### 5.2.3.1. Sprint Planning 3
 
 #### 5.2.3.2. Sprint Backlog 3
-![](blob:https://imgur.com/51aaebc7-1678-431f-9576-193d5c5448cc)
+![](https://i.imgur.com/UoTGUDm.png)
 Inicio de Sprint 3
 
 #### 5.2.3.3. Development Evidence for Sprint Review
