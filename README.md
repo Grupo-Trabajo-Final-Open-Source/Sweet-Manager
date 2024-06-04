@@ -2313,6 +2313,26 @@ https://sergiotapia.net/arquitectura-ddddomain-driven-design/
 Marín, C. (2019, febrero 10). Escribibiendo Código limpio. Angular Frontenders; César Marín.
 https://angularfrontenders.com/codigo-limpio/
 
+<br>
+
+Mendez, C. (2024, 20 febrero). 10 características del sistema de gestión hotelera - ITH. ITH. 
+https://www.ithotelero.com/blog/sistema-gestion-hotelera-caracteristicas/
+
+<br>
+
+Gestión hotelera: conceptos básicos para triunfar en el sector - Galicia Business School. (2023, 19 abril). Galicia Business School. 
+https://www.galiciabusinessschool.es/blog/gestion-hotelera-conceptos-basicos-para-triunfar-en-el-sector/#:~:text=Se%20considera%20gestión%20hotelera%20al,y%20la%20venta%20de%20servicios.
+
+<br>
+
+Conventional commits. (s. f.). Conventional Commits [Consulta: 6 de septiembre 2023]. 
+https://www.conventionalcommits.org/en/v1.0.0/ 
+
+<br>
+
+ Shwaber, K., & Sutherland, J. The Scrum Guide [Consulta: 6 de septiembre]. 
+ https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100
+
 # Anexos
 
 | Contenido | URL del Vídeo |
