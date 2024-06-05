@@ -2313,7 +2313,7 @@ En este sprint, se completó el desarrollo del Front-End Application y se utiliz
 ### 5.3.2. Registro de Entrevistas.
 
 
-**Entrevista 1 (Empleados)**  
+**Entrevista 1 (Empleados)**<br>  
 URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EWxWgy1stptAvE86j9XztW0BcPFGYlcyni3OPBpWIkztBw?e=ydpkdp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 <br>
 Nombre: Juan Guarnizo<br>
@@ -2324,7 +2324,19 @@ Ocupación: Trabajador de hotel<br>
 Duración de la entrevista: 0:00 -  11:39<br>
 Personalidad: Analítica<br>
 ![Imagen de entrevista](https://i.imgur.com/HhKaKWL.png)
-<br>En resumen, Juan Guarnizo es un trabajador del Hotel Los Delfines con un amateur camino de experiencia. Se presenta como una persona analítica, empática y profesional que busca siempre salir beneficiado de las decisiones. Nos relata que el uso de colores dentro de la aplicación le parecen muy agradables y le permiten tener comodidad dentro de la navegación. Adicionalmente, menciona que el diseño en general de la aplicación transmite simpleza y profesionalismo; por lo tanto el diseño superó sus expectativas. Sin embargo, también mencionó que podriamos mejorar partes del front-end como la parte de profiles e implementar un sistema de comunicación interna entre el equipo. 
+<br>En resumen, Juan Guarnizo es un trabajador del Hotel Los Delfines con un amateur camino de experiencia. Se presenta como una persona analítica, empática y profesional que busca siempre salir beneficiado de las decisiones. Nos relata que el uso de colores dentro de la aplicación le parecen muy agradables y le permiten tener comodidad dentro de la navegación. Adicionalmente, menciona que el diseño en general de la aplicación transmite simpleza y profesionalismo; por lo tanto el diseño superó sus expectativas. Sin embargo, también mencionó que podriamos mejorar partes del front-end como la parte de profiles e implementar un sistema de comunicación interna entre el equipo.
+
+**Entrevista 2 (Empleados)**<br>
+URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211168_upc_edu_pe/EY5Ifn7J2mFDiO62aufOabcBH1mzh0J01rOM1cgqGT8VJg?e=umuVQr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
+Nombre: Maricarmen Tejada<br>
+Edad: 58 años<br>
+Sexo: Femenino<br>
+Lugar donde Vive: Bellavista, Lima<br>
+Ocupación: Trabajadora de Hotel<br>
+Duración de la Entrevista: 0:54 - 6:42<br>
+Personalidad: Emotiva<br>
+![Imagen de entrevista](https://i.imgur.com/BUfKu90.png)<br>
+En resumen, Maricarmen Tejada, empleada del hotel, considera que "Sweet Manager" tiene un diseño moderno e intuitivo que refleja adecuadamente una imagen profesional, aunque sugiere mejoras en la personalización y navegación. Destaca la funcionalidad de seguimiento de ingresos y gastos en tiempo real y el módulo de gestión de inventarios como características impresionantes. Recomienda una mayor integración con sistemas de gestión existentes y funciones avanzadas de análisis de datos. Maricarmen cree que el software puede simplificar tareas administrativas, permitiendo a los trabajadores centrarse más en la atención al cliente, y mejorar la eficiencia en la gestión financiera y de inventarios, reduciendo costos y mejorando la experiencia de los huéspedes.<br>
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
