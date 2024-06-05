@@ -2132,7 +2132,7 @@ En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web,
 
 **Sprint 2:**
 En este entregable, hemos logrado desarrollar un Front-End Application de SweetManager.
-El link del Front-End Application es el siguiente: https://sweetmanager.netlify.app/
+El link del Front-End Application es el siguiente: https://grupo-trabajo-final-open-source.github.io/sweetmanager-landing-page/
 
 ![](https://imgur.com/Lk8qNfO.jpeg)
 
