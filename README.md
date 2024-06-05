@@ -2324,7 +2324,7 @@ Edad: 22<br>
 Sexo: Masculino<br>
 Lugar donde Vive: Breña, Lima<br>
 Ocupación: Trabajador de hotel<br>
-Duración de la entrevista: 0:54 -  11:39<br>
+Duración de la entrevista: 0:00 -  11:39<br>
 Personalidad: Analítica<br>
 ![Imagen de entrevista](https://i.imgur.com/HhKaKWL.png)
 <br>En resumen, Juan Guarnizo es un trabajador del Hotel Los Delfines con un amateur camino de experiencia. Se presenta como una persona analítica, empática y profesional que busca siempre salir beneficiado de las decisiones. Nos relata que el uso de colores dentro de la aplicación le parecen muy agradables y le permiten tener comodidad dentro de la navegación. Adicionalmente, menciona que el diseño en general de la aplicación transmite simpleza y profesionalismo; por lo tanto el diseño superó sus expectativas. Sin embargo, también mencionó que podriamos mejorar partes del front-end como la parte de profiles e implementar un sistema de comunicación interna entre el equipo. 
