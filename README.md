@@ -2313,9 +2313,6 @@ En este sprint, se completó el desarrollo del Front-End Application y se utiliz
 ### 5.3.2. Registro de Entrevistas.
 
 
-**SEGMENTO DE GERENTES**
-
-
 **Entrevista 1 (Empleados)**  
 URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EWxWgy1stptAvE86j9XztW0BcPFGYlcyni3OPBpWIkztBw?e=ydpkdp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 <br>
