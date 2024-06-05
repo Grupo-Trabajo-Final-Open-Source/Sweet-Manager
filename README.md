@@ -2312,19 +2312,25 @@ En este sprint, se completó el desarrollo del Front-End Application y se utiliz
 
 ### 5.3.2. Registro de Entrevistas.
 
-**Segmento 1**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
 
-**Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+**SEGMENTO DE GERENTES**
+
+
+**Entrevista 1 (Empleados)**  
+URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EWxWgy1stptAvE86j9XztW0BcPFGYlcyni3OPBpWIkztBw?e=ydpkdp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+<br>
+Nombre: Juan Guarnizo<br>
+Edad: 22<br>
+Sexo: Masculino<br>
+Lugar donde Vive: Breña, Lima<br>
+Ocupación: Trabajador de hotel<br>
+Duración de la entrevista: 0:54 -  11:39<br>
+Personalidad: Analítica<br>
+![Imagen de entrevista](https://i.imgur.com/HhKaKWL.png)
+<br>En resumen, Juan Guarnizo es un trabajador del Hotel Los Delfines con un amateur camino de experiencia. Se presenta como una persona analítica, empática y profesional que busca siempre salir beneficiado de las decisiones. Nos relata que 
+
+
+![]()
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
