@@ -2312,6 +2312,18 @@ En este sprint, se completó el desarrollo del Front-End Application y se utiliz
 
 ### 5.3.2. Registro de Entrevistas.
 
+**Entrevista 3 (Gerentes)**  
+Url del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211552_upc_edu_pe/EeLv9_pTZwlHkSbQ05_e1ccB89zn6v6T0Mq7QOdFrjs7Fw?e=Verykd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
+Nombre: Mathias Jave<br>
+Edad: 22<br>
+Sexo: Masculino<br>
+Lugar donde vive: San Isidro, Lima<br>
+Ocupación: Gerente de hotel<br>
+Duración de la entrevista: 0:20 - 9:42<br>
+Personalidad: Analítica<br>
+
+![Imagen de entrevista](https://i.imgur.com/4953oaZ.png)<br>  
+En resumen, Mathias Jave menciona que la aplicacion cumplio con sus requesitos y resalta que la interfaz de reportes ayuda a realizar un seguimiento financiero del hotel. Por otra parte, menciona que la lista de trabajadores debe mejorar es decir, que este mas claro la informacion y que este centrado de tal manera que pueda visualizar correctamente la informacion. Por ultimo, resalta que la aplicacion debe tener solamente informacion relevante de las habitaciones e inventario de productos para que sea mas facil de leer. En conclusion, Mathias Jave aprueba el avance del producto pero que se tiene que mejorar en las observaciones mencionadas.
 
 **Entrevista 1 (Empleados)**<br>  
 URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EWxWgy1stptAvE86j9XztW0BcPFGYlcyni3OPBpWIkztBw?e=ydpkdp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -2345,7 +2357,7 @@ Edad: 18<br>
 Sexo: Masculino<br>
 Lugar donde Vive: Monterrico, Lima<br>
 Ocupacion: Trabajador de hotel<br>
-Duracion de la entrevista: 0:35 - 7:44<br>
+Duracion de la entrevista: 0:35 - 7:15<br>
 ![Imagen de entrevista](https://i.imgur.com/E78agOh.png)
 <br>En resumen, Leonardo Ruiz menciona que el avance del producto cumplio con sus espectativas, sin embargo, resalta que la fuente de letra y el tamaño sea un poco mas grande. Por otra parte, tambien hace mencion que la aplicacion tiene que mostrar unicamente los datos relevantes para el negocio debido a que se muestran muchos datos en las tablas lo cual puede llegar a confundir a la hora de visualizar los datos. Por ultimo, el cliente resalta que se deben añadir mas graficos estadisticos para evaluar como va el negocio. En conclusion, Leonardo Ruiz esta conforme con el avance del producto pero resalta que aun hay detalles visuales por mejorar.
 
