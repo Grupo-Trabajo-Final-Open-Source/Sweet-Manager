@@ -2343,7 +2343,7 @@ URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211168_upc
 Nombre: Maricarmen Tejada<br>
 Edad: 58 años<br>
 Sexo: Femenino<br>
-Lugar donde Vive: Bellavista, Lima<br>
+Lugar donde Vive: Callao, Lima<br>
 Ocupación: Trabajadora de Hotel<br>
 Duración de la Entrevista: 0:54 - 6:42<br>
 Personalidad: Emotiva<br>
