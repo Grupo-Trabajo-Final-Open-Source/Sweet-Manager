@@ -2338,6 +2338,17 @@ Personalidad: Emotiva<br>
 ![Imagen de entrevista](https://i.imgur.com/BUfKu90.png)<br>
 En resumen, Maricarmen Tejada, empleada del hotel, considera que "Sweet Manager" tiene un diseño moderno e intuitivo que refleja adecuadamente una imagen profesional, aunque sugiere mejoras en la personalización y navegación. Destaca la funcionalidad de seguimiento de ingresos y gastos en tiempo real y el módulo de gestión de inventarios como características impresionantes. Recomienda una mayor integración con sistemas de gestión existentes y funciones avanzadas de análisis de datos. Maricarmen cree que el software puede simplificar tareas administrativas, permitiendo a los trabajadores centrarse más en la atención al cliente, y mejorar la eficiencia en la gestión financiera y de inventarios, reduciendo costos y mejorando la experiencia de los huéspedes.<br>
 
+**Entrevista 3 (Empleados)**  
+Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211552_upc_edu_pe/EY8HZg2yI7RCnjR9qPm6zFcBLb3BTMyy63mK9FVKnTnvTw?e=dpajZq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br>
+Nombre: Leonardo Ruiz<br>
+Edad: 18<br>
+Sexo: Masculino<br>
+Lugar donde Vive: Monterrico, Lima<br>
+Ocupacion: Trabajador de hotel<br>
+Duracion de la entrevista: 0:35 - 7:44<br>
+![Imagen de entrevista](https://i.imgur.com/E78agOh.png)
+<br>En resumen, Leonardo Ruiz menciona que el avance del producto cumplio con sus espectativas, sin embargo, resalta que la fuente de letra y el tamaño sea un poco mas grande. Por otra parte, tambien hace mencion que la aplicacion tiene que mostrar unicamente los datos relevantes para el negocio debido a que se muestran muchos datos en las tablas lo cual puede llegar a confundir a la hora de visualizar los datos. Por ultimo, el cliente resalta que se deben añadir mas graficos estadisticos para evaluar como va el negocio. En conclusion, Leonardo Ruiz esta conforme con el avance del producto pero resalta que aun hay detalles visuales por mejorar.
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 | HEURÍSTICA                                    | EVALUACIÓN ✅❌ | NOTA    |
