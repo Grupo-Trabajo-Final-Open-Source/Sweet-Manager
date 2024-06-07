@@ -3345,6 +3345,34 @@ Duracion de la entrevista: 0:35 - 7:15<br>
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+
+<b>SITE o APP a evaluar: Sweet Manager</b>
+
+<b>Tareas a Evaluar</b>
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Registro de un usuario nuevo
+2. Registro de Dormitorios
+3. Registro de Productos a Bodega
+4. Inicio de sesión
+5. Registro de trabajadores
+6. Actualizar ingresos y egresos
+7. Administración de notificaciones
+8. Registro de pagos
+9. Selección de subscripción
+10. Registro ded Trabajadores
+11. Gestión de Proveedores
+12. Gestión de Clientes
+13. Filtrar gráficos
+14. Lista de productos
+15. Lista de Dormitorios
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Administración de Routes.
+2. Creación de subscripciones.
+3. Mensajes de alertas
+4. Proceso de pago
+5. Ver perfil
+
 | HEURÍSTICA                                    | EVALUACIÓN ✅❌ | NOTA    |
 | --------------------------------------------- | ------------- | ------- |
 | Visibilidad del estado del sistema            |               | {texto} |
