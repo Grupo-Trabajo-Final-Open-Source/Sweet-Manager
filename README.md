@@ -296,14 +296,19 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
                 - Mauricio Rojas<br>
                 TB1: En este entregable, he colaborado en el diálogo con mis compañeros de grupo, comunicando ideas con objetividad con diferentes niveles jerárquicos y especialidades, mejorando el diálogo entre nosotros. De esta manera, cumplí con el criterio específico del Student Outcome 3.<br>
                 TP1: En este entregable, he colaborado en el desarrollo del front-end web application. Especificamente en el bounded context de Interaction, Payment y Identity Access Management. Adicionalmente, he apoyado a mis compañeros de equipo en la guía del desarrollo de sus bounded context.<br>
-                TB2: 
-                En este entregable, he colaborado en el desarrollo del objtivo del sprint 3. En este caso desarrollar por completo el web services de la aplicación Sweet Manager. Adicionalmente, hacer revisión de los features y evaluar bugs y complicaciones. <br>
+                TB2: En este entregable, he colaborado en el desarrollo del objtivo del Sprint 3. En este caso desarrollar por completo el web services de la aplicación Sweet Manager. Adicionalmente, hacer revisión de los features y evaluar bugs y complicaciones. <br>
                 - Aaron Alarcón <br>
                 TB1: En este proyecto, colaboré activamente en las discusiones junto a mis compañeros de equipo, compartiendo ideas de manera imparcial y comunicándome efectivamente con personas que tienen diferentes roles y áreas de experiencia. Así, logré satisfacer el criterio específico del Student Outcome 3.<br>
-                - Fernando Salgado
+                TP1: En este proyecto, he colaborado en el desarrollo del front-end web application. Especificamente en el bounded context de Rooms Management. Además, ayude en el desarrollo de los bounded context de mis compañeros, cuando tenian algun problema o malentendido.<br>
+                TB2: En este proyecto, he colaborado en el desarrollo del objtivo del Sprint 3. En este caso desarrollar el backend del bounded context de Rooms Management para que funcione en el web services de la aplicación Sweet Manager. <br>
+                - Fernando Salgado <br>
                 TB1: En este proyecto, participé de manera proactiva en las conversaciones con mis compañeros de equipo, intercambiando ideas de manera imparcial y manteniendo una comunicación clara y efectiva con individuos de distintos niveles de jerarquía y áreas de especialización. De este modo, logré cumplir con el criterio específico del Student Outcome 3.<br>
-                - Leonardo Linares
-                TB1: Durante la elaboración de este trabajo, contribuí activamente en las discusiones con mis compañeros de grupo, compartiendo opiniones de manera imparcial y estableciendo una comunicación efectiva con personas que poseen distintos niveles de autoridad y áreas de conocimiento. Así, logré cumplir con el criterio establecido en el Student Outcome 3.
+                TP1: En este proyecto, he colaborado en el desarrollo del front-end web application. Especificamente en el bounded context de Profiles y Dashboard. Además de ayudar en cualquier problema que se encuentren mis compañeros.<br>
+                TB2: En este entregable, he colaborado en el desarrollo del objtivo del Sprint 3. En este caso desarrollar por completo el backend de los bounded context de Profiles Management y Dashboard para que funcionen en el web services de la aplicación Sweet Manager. <br>
+                - Leonardo Linares <br>
+                TB1: Durante la elaboración de este trabajo, contribuí activamente en las discusiones con mis compañeros de grupo, compartiendo opiniones de manera imparcial y estableciendo una comunicación efectiva con personas que poseen distintos niveles de autoridad y áreas de conocimiento. Así, logré cumplir con el criterio establecido en el Student Outcome 3.<br>
+                TP1: En este proyecto, me encargue del desarrollo del front-end application. Específicamente en el bounded context de Supplies Managemnt. Además, me asegure de corregir cualquier error que apareciera en el reporte.<br>
+                TB2: En este entregable, me encargue de cumplir con el objetivo del Sprint 3. Específicamente, de crear el backend del bounded context de Supplies Management para el web services de nuestra aplicación Sweet Manager. Adiconalemnte, de añadir los elementos del Sprint 3 en el reporte.
             </td>
             <td>
             - Conclusión TB1:
@@ -319,27 +324,34 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
                 Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
             </td>
             <td>
-            - Mauricio Rojas
+            - Mauricio Rojas<br>
             TB1: Para este trabajo realicé una investigación exhaustiva para recopilar información relevante y actualizada sobre el tema del proyecto, asegurando la precisión y relevancia de los datos presentados en el informe.<br>
-            - Aaron Alarcón
-            TB1:  En este trabajo redacté de forma clara y precisa los análisis de requerimientos y planes para el desarrollo del proyecto de Software, demostrando nuestra capacidad para comunicar información técnica de manera efectiva a públicos diversos.<br>
-            - Fernando Salgado
+            TP1: Para esta entrega, continue mi investigación para obtener la información necesaria para completar el objetivo del Sprint 2, que es desarrollar el front-end de nuestra aplicación. Específicamente, los bounded context de Interaction, Payment y Identity Access Management. Además de ayudar en los bounded context de mis compañeros cuando tenian dudas o problemas sobre el desarrollo de este.<br>
+            TB2: Para esta entrega, mantuve mi investigación para completar con el objetivo del Sprint 3, que es finalizar los ultimos toques al front-end, y desarrollar el web services de nuestra aplicación. En mi caso, los backend de los bounded context de Interaction, Payment y Identity Access Management. Además, ayude a mis compañeros si es que surgia alguna duda sobre el proyecto.<br>
+            - Aaron Alarcón<br>
+            TB1: En este trabajo redacté de forma clara y precisa los análisis de requerimientos y planes para el desarrollo del proyecto de Software, demostrando nuestra capacidad para comunicar información técnica de manera efectiva a públicos diversos.<br>
+            TP1: Para esta entrega, aprendí y comunique la información necesaria para completar el objetivo del Sprint 2, que es desarrollar el front-end de nuestra aplicación. Específicamente, el bounded context de Rooms Management. Además de ayudar en la revisión de los demás bounded context del equipo.<br>
+            TB2: Para esta entrega, seguí con mi aprendizaje para completar con el objetivo del Sprint 3, que es corregir cualquier bug encontrado en el front-end, y desarrollar el web services de nuestra aplicación. En mi caso, el backend del bounded context de Rooms Management. Adicionalmente, supervisar los demás backends desarrollados por el equipo.<br>
+            - Fernando Salgado<br>
             TB1: Para este trabajo me encargué de la redacción de los informes técnicos, asegurando que la comunicación fuera clara y precisa para todos los miembros del equipo y para los diferentes niveles jerárquicos involucrados en el proyecto.<br>
-            - Leonardo Linares
-            TB1: En este trabajo desarrollé presentaciones visuales para acompañar los informes, facilitando la comprensión de los resultados por parte de audiencias con diferentes especialidades y niveles jerárquicos.
+            TP1: Para esta entrega, conseguí la información necesaria para completar el objetivo del Sprint 2, que es desarrollar el front-end de nuestra aplicación. Específicamente, los bounded context de Profiles Management y Dashboard. Además de apoyar, en cualquier aspecto que podía, en el proyecto.<br>
+            TB2: Para esta entrega, me encargue de aprender lo necesario para completar con el objetivo del Sprint 3, que es corregir cualquier bug encontrado en el front-end, y desarrollar el web services de nuestra aplicación. En mi caso, los backend de los bounded contexts de Profiles Management y Dashboard. Además de apoyar de en los demás backends desarrollados.<br>
+            - Leonardo Linares<br>
+            TB1: En este trabajo desarrollé presentaciones visuales para acompañar los informes, facilitando la comprensión de los resultados por parte de audiencias con diferentes especialidades y niveles jerárquicos.<br>
+            TP1: En esta entrega, me encargue de aprender la información necesaria para cumplir con el objetivo del Sprint 2, que es desarrollar el front-end de nuestra aplicación. Específicamente, el bounded context de Supplies Management. Además de supervisar los demás bounded contexts desarrollados para el proyecto.<br>
+            TB2: En esta entrega, continue con mi investigación personal, para cumplir con el objetivo del Sprint 3, que es corregir los errores presentes en el front-end, y desarrollar el web services de nuestra aplicación. En mi caso, el backend para el bounded context de Supplies Management. Adicionalmente, ayude en cada aspecto que podía de los bounded context asignados a mis compañeros.
             </td>
             <td>
             - Conclusión TB1:
             En conclusión, en este informe escrito, hemos detallado de manera clara y objetiva los resultados  del análisis de requerimientos y planes para el desarrollo del proyecto de Software. Esta comunicación escrita ha sido dirigida a un público de diferentes especialidades y niveles jerárquicos, demostrando nuestra capacidad para transmitir información técnica de manera efectiva en el contexto del desarrollo de proyectos de Ingeniería.<br>
             - Conclusión TP1:
-            En conclusión, en este sprint 2, hemos trabajado en conjunto para el desarrollo de todos los bounded contexty poder llegar al objetivo del Sprint 2. Adicionalmente, hacer los respectivos reviews y retroalimentaciones.<br>
+            En conclusión, en este Sprint 2, hemos trabajado en conjunto para el desarrollo de todos los bounded contexty poder llegar al objetivo del Sprint 2. Adicionalmente, hacer los respectivos reviews y retroalimentaciones.<br>
             - Conclusión TB2:
-            En conclusión, en este Sprint 2, hemos trabajado en conjunto para el desarrollo detodos los bounded context y features para poder llegar a desarrollar por completo el API de Sweet Manager. Adicionalmnete, hacer review de los features del Sprint 3 y hacer retroalimentaciones.
+            En conclusión, en este Sprint 3, hemos trabajado en conjunto para el desarrollo detodos los bounded context y features para poder llegar a desarrollar por completo el API de Sweet Manager. Adicionalmnete, hacer review de los features del Sprint 3 y hacer retroalimentaciones.
             </td>
         </tr>
     </tbody>
 </table>
-
 
 # Capítulo I: Introducción
 
