@@ -2270,6 +2270,826 @@ Fin de Sprint 3
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
+<table>
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Committed on (Date)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>backend</th>
+        <th>develop</th>
+        <th>5aca5a8c9f9d9e5050093639ff8233b88d04b0ae</th>
+        <th>Initial commit</th>
+        <th>30/05/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>develop</th>
+        <th>dc9e281d70bdeefb9e10a33a516097f5dd7d196e</th>
+        <th>chore: initialized project.</th>
+        <th>30/05/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/</th>
+        <th>f7e3e885c8c24c61f853703f5bb2ea21229f6a64</th>
+        <th>chore: added exclutions in .gitignore</th>
+        <th>30/05/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>develop</th>
+        <th>71965e0b0c922ce6176a16e9b1d6dd28090c8d72</th>
+        <th>chore: added project documentation.</th>
+        <th>30/05/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/rooms</th>
+        <th>10bbb31be4864ba2917f98963e5c2a5087755817</th>
+        <th>feat(rooms): implemented aggregates and commands.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/rooms</th>
+        <th>71f650d430627de57677caf62c688fc90cade4a0</th>
+        <th>feat(rooms): refactor Bedroom and Booking.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/rooms</th>
+        <th>19a4dde076883b6b2c205c6a5587e1164a605aac</th>
+        <th>feat(rooms): implemented queries.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/rooms</th>
+        <th>e59ae0683265441c6b9104dff4c867bce8bc6b78</th>
+        <th>feat(rooms): implemented services</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/rooms</th>
+        <th>f609fe70b4b031d1533c2c0d45f60f21dd64a7c1</th>
+        <th>feat(rooms): refactor model and services.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>9385d7b706b6c4ffb959b35636a70435502e2b6a</th>
+        <th>feat(communication): added notification entity.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>9c9c7332d7343503c4423a5b56f56166666940da</th>
+        <th>feat(communication): added command for creation of notification entity.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>4e86cc777f7102de193e9d14e052b9ca42420729</th>
+        <th>feat(communication): added get all notifications query.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>34be60b7b16dbcb2e1105f2d1c9345ca1d0c96b9</th>
+        <th>feat(communication): added get notification by id query.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>396aad02c646666be5499cde58597c3fe0b5a5e1</th>
+        <th>feat(communication): added NotificationQueryService in domain services.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>29feeb0f43a5fab52cad002d6a069866f86c6fb8</th>
+        <th>feat(communication): added NotificationCommandService for command in domain services</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>8950e1d896c87ee63b68ead9c65759f66257afe6</th>
+        <th>feat(communication): implemented NotificationRepository for handling data in mongo repositories.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>6fb5a7ba1783490705e795d43768f322024f80fc</th>
+        <th>feat(communication): implemented NotificationQueryServiceImpl in internal query services.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>cf955253279419f0d04e505eeaae7bb03f4c13d2</th>
+        <th>feat(communication): implemented NotificationCommandServiceImpl in internal commands services.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>cbe64101635ee85ac3c25e845edfdd9d2a42e27f</th>
+        <th>feat(communication): added NotificationResource as record in rest resources.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>8f07e2cec2b774310ceb036930ada2576c13bba4</th>
+        <th>feat(communication): added CreateNotificationResource as record in rest resources.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>b03a542bf988533a677461a60951a3505d332a1a</th>
+        <th>feat(communication): added CreateNotificationCommandFromResourceAssembler as transformer toCommandFromResource() type in rest transform.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>feat(communication): added NotificationResourceFromEntityAssembler as transformer toResourceFromEntity() type in rest transform.</th>
+        <th>2af540446cb2a68652675504d3d06b5811f43ec7</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>edb544984e155af0f4cfe1d9e7570617edd7d605</th>
+        <th>feat(communication): implemented NotificationsController as RestController for Notification API.</th>
+        <th>03/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/communication</th>
+        <th>806c0aba97c932d9e2661cf7da1d5cf504c514ac</th>
+        <th>fix(communication): fixed bug with double _id confusion in Notification.java</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/rooms</th>
+        <th>e079004da0f42c831c4aee3ebb3ee4e6ff89f436</th>
+        <th>feat(rooms): implemented infrastructure.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>develop</th>
+        <th>4655ccbb51c7b021603c73827e158543848c899e</th>
+        <th>docs(develop): updated documentation for service.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/rooms</th>
+        <th>28b05dd7a2d8cf309946c0af07223d6eef04fc3c</th>
+        <th>feat(rooms): implemented facade.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/rooms</th>
+        <th>ad3694fd951c165e9b4faa602aa1829f3bdf2353</th>
+        <th>feat(rooms): implemented resources.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>2e1f3ee52d03fe4e10f7df4a3a7afefd3e1cbb2b</th>
+        <th>feat(payment): added Subscription entity.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>a9a38b0af6a14c1e8063d14a2c0e97d2fc3f9f56</th>
+        <th>feat(payment): added CreateSubscriptionCommand record.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>c49c1d4ae1523219fbb48148b850dcbcb6ea82a4</th>
+        <th>feat(payment): added GetAllSubscriptionsQuery record.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>459a5d1ad6201cd9f3758a2347ec48e385acf6bc</th>
+        <th>feat(payment): added GetSubscriptionByIdQuery record.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>0df4a506b4780a51f950bc01cf258f687ab42829</th>
+        <th>feat(payment): added SubscriptionRepository interface for mongo repository.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>699486420280eb280d2f8f5996afd87430b1fda4</th>
+        <th>feat(payment): added SubscriptionQueryService interface.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>ca5a75efecc5d9669ae58f8904956386d2008390</th>
+        <th>feat(payment): added SubscriptionCommandService interface.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>cd8bb3ad1987386cf8e734bc21633cc08e060b4a</th>
+        <th>feat(payment): implemented SubscriptionCommandServiceImpl class for subscription validation at creation.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>55fbb4f09b687f475ccc7fe22f1289a66bdfa9e4</th>
+        <th>feat(payment): implemented SubscriptionQueryServiceImpl class for subscription handling information.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/rooms</th>
+        <th>022d753edc71f0ef87fd8bc4e4c32eddfbbe2d9d</th>
+        <th>feat(rooms): implemented transform.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>44f01dcea9c017a4546b6f9e0258484eb97dd902</th>
+        <th>feat(payment): implemented AuditableAbstractAggregateRoot in Subscription entity.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>82aee506b01a9bd0a27b56c2fd3d08371fcaf981</th>
+        <th>feat(payment): added CreateSubscriptionResource record.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>fddcdad43bb5ac0c28ca7c557dd052a1490f8ba8</th>
+        <th>feat(payment): added CreateSubscriptionCommandFromResourceAssembler class.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>c3bfa948336717ff117bdf4330811dff06213fbc</th>
+        <th>feat(payment): added SubscriptionResource record.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>3701b236b0439f128a6ee2330e7a60e895cae728</th>
+        <th>feat(payment): added SubscriptionResourceFromEntityAssembler class.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>cd2519f28ff93025696fd248ede91d7e5189c5a2</th>
+        <th>feat(payment): added SubscriptionController class.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/rooms</th>
+        <th>58c39c230e6031f8027407b9f96c511deec52d11</th>
+        <th>feat(rooms): updated resources and transform.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>930362f5f9ac094844ff80402c87e0460ddbf74c</th>
+        <th>fix(payment): fixed bug when class is not recognized as service.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>56fbf81f4ef547b3d81baa6fa8f40954a1e9b24a</th>
+        <th>feat(payment): added actions post and get in SubscriptionController for handling subscription information.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/supply</th>
+        <th>52fbd5f7345fd8ea78d8bd66abda607be6f894f9</th>
+        <th>feat(supply): created Supply model aggregates, commands and queries.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/supply</th>
+        <th>5fac7c30e37dc5b5115c1e9225e5f0d8c792f0f1</th>
+        <th>feat(supply): created Supply domain services.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/supply</th>
+        <th>c687d3942d81c984a0f908c13187a78777e5cfed</th>
+        <th>feat(supply): created Supply services implementations.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/supply</th>
+        <th>52a63336f872fab9aa43914e02c780eca41f4211</th>
+        <th>feat(supply): created Supply repository.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/supply</th>
+        <th>b208f2d2960b0a1da510a3d570fad2d2759ccc31</th>
+        <th>feat(supply): created Supply resources, entity assembler resource and controller.</th>
+        <th>04/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/rooms</th>
+        <th>f338d57b6fe1f07a7ae0264f87e53d233c912553</th>
+        <th>feat(rooms): refactor resources, transform and implemented controller.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>f79018fd431906d30af504ceecea44161d60b2bb</th>
+        <th>chore(payment): updated namespaces and dependencies.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>1cddc76280d42a58e7f4e3eac067f0bd673cea2f</th>
+        <th>feat(payment): added payment entity.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>46074e37aba5f05a88ac3873407e421ebb4dc392</th>
+        <th>feat(payment): added queries for payment information.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>043692973aa807df1256858b18a365420e16ca1a</th>
+        <th>feat(payment): added CreatePaymentCommand record.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>3faf7d29465ed5ab79d1427a4a74c4381631eed3</th>
+        <th>feat(payment): added PaymentCommandService interface.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>f9e9a27160396fb42d1c2a7000945446c9d750cf</th>
+        <th>feat(payment): added PaymentQueryService interface.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>2b3a3043cdafdc2696de2772e50729bd0ad5b0cd</th>
+        <th>chore(payment): updated namespaces and dependencies.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>c886dae3052f323e2f5e83a4b3248805f487ed9b</th>
+        <th>feat(payment): added CreatePaymentResource record.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>f3b98ddce18b3823a09fe82b7a6f350d8e145b33</th>
+        <th>feat(payment): implemented PaymentCommandServiceImpl class.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>78aab2e5b1792e712294502f1d3f09e3093e9064</th>
+        <th>feat(payment): implemented PaymentQueryServiceImpl class.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>880c0a51e9c1322caa023ce259f49c5d4a3464f5</th>
+        <th>feat(payment): implemented CreatePaymentCommandFromResourceAssembler class.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>d11666a3dc57aa3395c6b99415c1ae54b503ae5c</th>
+        <th>feat(payment): added PaymentRepository interface.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>fd8f27b92455f2e2945a4c63904b62cad836f75e</th>
+        <th>feat(payment): added PaymentResource record.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>d48e58d24eed5ca9bb9eb5bbfa8c0fd6a50d508c</th>
+        <th>feat(payment): implemented PaymentResourceFromEntityAssembler class.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>1d61d48d14c34e6e261da297d92fd89c00445349</th>
+        <th>feat(payment): updated PaymentQueryServiceImpl class.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>e0bc7f37d38482ee88879511ebad18fc4377c526</th>
+        <th>feat(payment): implemented PaymentController class for handling endpoints and information for payments.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/payment</th>
+        <th>e3db934eb97fc53974cb2e68a370c30f1e672e1f</th>
+        <th>feat(payment): implemented save changes in MongoDB collections for payments and subscriptions.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/profiles</th>
+        <th>fd259cbaa691dc3aab9a89aaa2dd7a7d869ba81b</th>
+        <th>feat(profiles): implemented controllers.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/profiles</th>
+        <th>e87b0d28f7aaff7825955b6928edc541d9a840c3</th>
+        <th>feat(profiles): implemented aggregates.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/profiles</th>
+        <th>87eae4fe2196916543445259d2c22157b8966e7f</th>
+        <th>feat(profiles): implemented commands.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/profiles</th>
+        <th>9acbc09fa21dcc8af434de588e3d86ae4363f8ff</th>
+        <th>feat(profiles): implemented queries.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/profiles</th>
+        <th>7282751a2eba82bc88fb48ca70ab16a8a83b9ce9</th>
+        <th>feat(profiles): implemented services.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/profiles</th>
+        <th>f73e97da93c74eac536e896f8499f2cb8167cdc7</th>
+        <th>feat(profiles): implemented repositories.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/profiles</th>
+        <th>588341f2c48361b4675bb9bfb1a62609c47e463f</th>
+        <th>feat(profiles): implemented resources.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/profiles</th>
+        <th>e2b3ecb8a6b4df93f0f9ded5c0321529309190bf</th>
+        <th>feat(profiles): implemented command services.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/profiles</th>
+        <th>d0a505451ff025de7a19cc80f0c4e49847776065</th>
+        <th>feat(profiles): implemented query services.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/profiles</th>
+        <th>745d20d9f4e5ae93f45c931dfee621c98af12c2f</th>
+        <th>feat(profiles): transform implemented.</th>
+        <th>05/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/rooms</th>
+        <th>f7629dc620f2eb3a180cada6ee801f4c85611aa0</th>
+        <th>feat(rooms): refactor bounded context rooms.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>b6ca25d14a7d63a4df80aa5e5976e11ddcba3943</th>
+        <th>chore(iam): updated dependencies and injections.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>b2c9a981846707898e449bee1c607dc90409f4a8</th>
+        <th>feat(iam): added User class and their commands and queries.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>c5a36f85c42b37947ac71bfc11f6d03301eb0d66</th>
+        <th>feat(iam): added Role entity and their commands and queries</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>db153dc4c1855714d37c803a2ee6ce8178c0be83</th>
+        <th>feat(iam): added ApplicationReadyEventHandler class.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>4c1c6334d416781a439349fad79c496b3258e176</th>
+        <th>feat(iam): added AuthenticatedUserResource record.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>a0e2cdd2a7cd77da4aeeb71ac7a0fc2dadef0ba6</th>
+        <th>feat(iam): added services of tokens and hashing in infrastructure layer.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>d4dd7a38e199f96162e7a272a8f02dbabf577d00</th>
+        <th>feat(iam): added RoleRepository interface.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>289611ea56c03da73bf27ab9545da90bd1e51b86</th>
+        <th>feat(iam): implemented services and controller for iam bc.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>7fad46290fad21a6e93da2188624c21bca401fd0</th>
+        <th>fix(iam): fixed bad notation and method calling.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/rooms</th>
+        <th>a402c294d0cafbf3337467454c802e61a510efb5</th>
+        <th>feat(rooms): completed bounded context rooms.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/dashboard</th>
+        <th>b8a94071a7b7260d7fcb434327bf302bf6be1769</th>
+        <th>feat(dashboard): aggregates implemented.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/dashboard</th>
+        <th>971dde597d57f2ec4241e60082fbf0efdf70e31a</th>
+        <th>feat(dashboard): implemented commands.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/dashboard</th>
+        <th>5569cb5a139df4a4bb5552fcee05875f479e57d3</th>
+        <th>feat(dashboard): implemented queries.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/dashboard</th>
+        <th>838b739516389f6b05df8bee4ad8013167c309d9</th>
+        <th>feat(dashboard): implemented services.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/dashboard</th>
+        <th>8b22d954388ee75871abd9d0ad597e3eef5c9849</th>
+        <th>feat(dashboard): implemented repositories.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/dashboard</th>
+        <th>6d369ec5d03e7b8c364322642aa649d9a9688726</th>
+        <th>feat(dashboard): implemented resources.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/dashboard</th>
+        <th>823a9a157bc61191bb0bfa2861c91859504d49b8</th>
+        <th>feat(dashboard): implemented transform.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/dashboard</th>
+        <th>058d13696695e0d82bcab189c7f769d4a5df5bfb</th>
+        <th>feat(dashboard): implemented command services.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/dashboard</th>
+        <th>d82c22d49b49e1a839934bf9ec03c492feb35802</th>
+        <th>feat(dashboard): implemented query services.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/dashboard</th>
+        <th>59d16bf8091e89189d50f67daf9dabb53aba9651</th>
+        <th>feat(dashboard): implemented occupancy chart in transform.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/dashboard</th>
+        <th>9ff064d4c2bc584d163e9d03187daf1127f0a1b5</th>
+        <th>feat(dashboard): implemented controllers.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>b3b22c320811f4bf260d5f530a5e27c9cf086f61</th>
+        <th>fix(iam): fixed bug when bean tried to be created.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>23a03a620ad0ed551d88c63111943475e4e0805c</th>
+        <th>feat(iam): added UnauthorizedRequestHandlerEntryPoint class for AuthenticationEntryPoint implementation.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>develop</th>
+        <th>e598e3547e1814d84265a67fe420ddc0163f0bc3</th>
+        <th>chore: added configuration for bearer and jwt.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>develop</th>
+        <th>9d031de9b2145998f66d8f4011c223322773c6fd</th>
+        <th>chore: added configuration for bearer and jwt documentation for OpenAPI.</th>
+        <th>06/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>8134559b911d6bce801922776e894874c55614df</th>
+        <th>feat(iam): added configuration for MongoDB and AuditableAbstractAggregateRoot.</th>
+        <th>07/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>36a99f0e512105570f0f56a9e451949daee040dd</th>
+        <th>feat(iam): added SequenceException for handling errors when inserting new id for every collection.</th>
+        <th>07/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>3d01baf4dd944d687cfc9f84165249d856e72b1a</th>
+        <th>feat(iam): added AuditableAbstractAggregateRootService for beans injection.</th>
+        <th>07/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>98de36c417a8f5f18a09fd5e65bfccbd8a82a218</th>
+        <th>feat(iam): added SequenceGeneratorService for beans and insertions of id in every collection.</th>
+        <th>07/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>feature/iam</th>
+        <th>3a4b5e94ce2954c99f75467f149af9aad3e2b448</th>
+        <th>feat(iam): updated AuditableAbstractAggregateRoot class.</th>
+        <th>07/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>develop</th>
+        <th>85cb692cfee5abfe2b85ad84abe1b6bd927f0e80</th>
+        <th>chore: updated entity name.</th>
+        <th>07/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>develop</th>
+        <th>dadb66dd95d1a137e7d8e9375ea25956d156d783</th>
+        <th>chore: updated NotificationRepository for handling and validation information.</th>
+        <th>07/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>develop</th>
+        <th>b37c37bdfdee6306b8a1a93fbe910f7629f9aadb</th>
+        <th>fix: fix RoomsController bug when endpoints are used.</th>
+        <th>07/06/2024</th>
+    </tr>
+    <tr>
+        <th>backend</th>
+        <th>develop</th>
+        <th>906d261bbf1700fdb06cff7a0b06c3a78944c87a</th>
+        <th>chore: refactor spaces and dependencies.</th>
+        <th>07/06/2024</th>
+    </tr>
+    </tbody>
+</table>
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web, el testing que hemos usado para la validacion de endpoints fue postman y la interfaz de swagger:
