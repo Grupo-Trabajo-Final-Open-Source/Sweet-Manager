@@ -3271,7 +3271,7 @@ Miembro: Mauricio Rojas
 
 ### 5.3.2. Registro de Entrevistas.
 
-**Entrevista 1 (Gerentes)**  
+**Entrevista 1 (Gerentes)**<br>
 Url del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211552_upc_edu_pe/EeLv9_pTZwlHkSbQ05_e1ccB89zn6v6T0Mq7QOdFrjs7Fw?e=Verykd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
 Nombre: Mathias Jave<br>
 Edad: 22<br>
@@ -3282,7 +3282,20 @@ Duración de la entrevista: 0:20 - 9:42<br>
 Personalidad: Analítica<br>
 
 ![Imagen de entrevista](https://i.imgur.com/4953oaZ.png)<br>  
-En resumen, Mathias Jave menciona que la aplicacion cumplio con sus requesitos y resalta que la interfaz de reportes ayuda a realizar un seguimiento financiero del hotel. Por otra parte, menciona que la lista de trabajadores debe mejorar es decir, que este mas claro la informacion y que este centrado de tal manera que pueda visualizar correctamente la informacion. Por ultimo, resalta que la aplicacion debe tener solamente informacion relevante de las habitaciones e inventario de productos para que sea mas facil de leer. En conclusion, Mathias Jave aprueba el avance del producto pero que se tiene que mejorar en las observaciones mencionadas.
+En resumen, Mathias Jave menciona que la aplicacion cumplio con sus requesitos y resalta que la interfaz de reportes ayuda a realizar un seguimiento financiero del hotel. Por otra parte, menciona que la lista de trabajadores debe mejorar es decir, que este mas claro la informacion y que este centrado de tal manera que pueda visualizar correctamente la informacion. Por ultimo, resalta que la aplicacion debe tener solamente informacion relevante de las habitaciones e inventario de productos para que sea mas facil de leer. En conclusion, Mathias Jave aprueba el avance del producto pero que se tiene que mejorar en las observaciones mencionadas.<br>
+
+**Entrevista 2 (Gerentes)**<br>
+URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212023_upc_edu_pe/EUNnyWJmBYVNv1nekYxGaDAB0ZH8enh_AhJdukgEebqQhg?e=Pz72o2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjEzLjMzfX0%3D<br>
+Nombre: Gumball Watterson<br>
+Edad: 22<br>
+Sexo: Masculino<br>
+Lugar donde vive:  Pueblo Libre, Lima<br>
+Ocupación: Gerente de Hotel<br>
+Duración de la entrevista: 00:00 – 08:38<br>
+Personalidad: Emotivo<br>
+
+![Imagen de entrevista](https://i.imgur.com/2Jbl5UF.png)<br>  
+En resumen, el gerente del hotel destacó que el diseño visual de SweetManager es moderno y atractivo, facilitando la navegación y reflejando bien la imagen del hotel. Sugirió mejorar la tipografía y personalizar colores y logotipos. Considera que SweetManager mejorará la eficiencia operativa y la rentabilidad al centralizar funciones críticas. Valora especialmente los gráficos estadísticos, la gestión de habitaciones y el inventario. Cree que la interfaz intuitiva aumentará la productividad de los empleados y mejorará la percepción del servicio por parte de los clientes.<br>
 
 **Entrevista 1 (Empleados)**<br>  
 URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EWxWgy1stptAvE86j9XztW0BcPFGYlcyni3OPBpWIkztBw?e=ydpkdp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -3295,7 +3308,7 @@ Ocupación: Trabajador de hotel<br>
 Duración de la entrevista: 0:00 -  11:39<br>
 Personalidad: Analítica<br>
 ![Imagen de entrevista](https://i.imgur.com/HhKaKWL.png)
-<br>En resumen, Juan Guarnizo es un trabajador del Hotel Los Delfines con un amateur camino de experiencia. Se presenta como una persona analítica, empática y profesional que busca siempre salir beneficiado de las decisiones. Nos relata que el uso de colores dentro de la aplicación le parecen muy agradables y le permiten tener comodidad dentro de la navegación. Adicionalmente, menciona que el diseño en general de la aplicación transmite simpleza y profesionalismo; por lo tanto el diseño superó sus expectativas. Sin embargo, también mencionó que podriamos mejorar partes del front-end como la parte de profiles e implementar un sistema de comunicación interna entre el equipo.
+<br>En resumen, Juan Guarnizo es un trabajador del Hotel Los Delfines con un amateur camino de experiencia. Se presenta como una persona analítica, empática y profesional que busca siempre salir beneficiado de las decisiones. Nos relata que el uso de colores dentro de la aplicación le parecen muy agradables y le permiten tener comodidad dentro de la navegación. Adicionalmente, menciona que el diseño en general de la aplicación transmite simpleza y profesionalismo; por lo tanto el diseño superó sus expectativas. Sin embargo, también mencionó que podriamos mejorar partes del front-end como la parte de profiles e implementar un sistema de comunicación interna entre el equipo.<br>
 
 **Entrevista 2 (Empleados)**<br>
 URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211168_upc_edu_pe/EY5Ifn7J2mFDiO62aufOabcBH1mzh0J01rOM1cgqGT8VJg?e=umuVQr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
