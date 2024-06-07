@@ -2272,13 +2272,21 @@ Fin de Sprint 3
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
-En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web, el testing que hemos usado para la validacion de endpoints fue postman:
+En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web, el testing que hemos usado para la validacion de endpoints fue postman y la interfaz de swagger:
 
-(Poner capturas de pantalla de postman y los endpoints)
+![](https://i.imgur.com/rsRGNSq.png)
+
+![](https://i.imgur.com/qEhTKto.png)
+
+![](https://i.imgur.com/KVGOGvP.png)
+
+![](https://i.imgur.com/18XAhs5.png)
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-Sprint 3: En este entregable, hemos logrado desarrollar un Web Services Application de Sweet Manager. El link. del Web Services Application es: 
+Sprint 3: En este entregable, hemos logrado desarrollar un Web Services Application de Sweet Manager. 
+
+El link localhost del Web Services Application es: http://localhost:8080/swagger-ui/index.html#/
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
