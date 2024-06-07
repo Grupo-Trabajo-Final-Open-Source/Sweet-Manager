@@ -2298,7 +2298,7 @@ Fin de Sprint 3
     </tr>
     <tr>
         <th>backend</th>
-        <th>feature/</th>
+        <th>develop</th>
         <th>f7e3e885c8c24c61f853703f5bb2ea21229f6a64</th>
         <th>chore: added exclutions in .gitignore</th>
         <th>30/05/2024</th>
