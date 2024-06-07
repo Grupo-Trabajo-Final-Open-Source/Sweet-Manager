@@ -3388,21 +3388,21 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 
 | **#** | **Problema** | **Escala de severidad**✅❌ | **Heurística/Principio violado** |
 |-------|--------------|-------------------------|----------------------------------|
-| 1     | No hay un control que permita regresar a la tienda durante el trámite de compra | 3 | Usability: Libertad y control del usuario |
-| 2     | Se repiten constantemente algunas opciones | 1 | Usability: Consistencia y estándares |
-| 3     | Imágenes sin atributo “alt” | 3 | Inclusive Design: Proporciona experiencias comparables |
-| 4     | Incluye un botón “Ver más” pero no existe contenido al que dirigirse | 3 | Information Architecture: Is it usable? |
-| 5     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
-| 6     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
-| 7     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
-| 8     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
-| 9     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
-| 10     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
-| 11    | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
-| 12     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
-| 13     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
-| 14     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
-| 15     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+| 1     | No hay un control que permita regresar a la pantalla de título | 3 | Usability: Libertad y control del usuario |
+| 2     | No existe un mensaje de error cuando se intenta iniciar sesión con una cuenta no existente | 2 | Usability: Consistencia y estándares |
+| 3     | No existe la opción de ocultar la función de añadir un cuarto a manejar | 2 | Information Architecture: Is it findable?  |
+| 4     | No existe la opción de ocultar la función de añadir un inventario a manejar | 2 | Information Architecture: Is it findable? |
+| 5     | Inconsistencia en el formato de las fechas | 1 | Usability: Consistencia y estándares |
+| 6     | No existen opciones de filtro en el manejo de cuartos | 2 | Information Architecture: Is it findable? |
+| 7     | No existen opciones de filtro en el manejo de inventarios | 2 | Information Architecture: Is it findable? |
+| 8     | Inconsistencia de los formatos de letras | 2 | Usability: Consistencia y estándares |
+| 9     | Notificaciones no categorizadas, difícil de gestionar en masa | 3 | Usability: Consistencia y estándares |
+| 10    | Interfaz poco amigable para dispositivos móviles | 3 | Usability: Libertad y control del usuario |
+| 11    | No hay una opción clara para cambiar o cancelar la suscripción | 4 | Usability: Libertad y control del usuario. |
+| 12    | No se puede visualizar un historial de interacciones con proveedores | 3 | Information Architecture: Is it findable? |
+| 13    | Falta de administración de notificaciones | 3 | Information Architecture: Is it findable? |
+| 14    | No existen opciones de filtro para las estadísticas gráficas | 2 | Information Architecture: Is it findable? |
+| 15    | Falta de comparación clara entre diferentes planes de suscripción | 2 | Usability: Consitencia y estándares |
 
 
 ## 5.4. Video About-the-Product.
