@@ -2381,6 +2381,35 @@ En este sprint, se completó el desarrollo del Front-End Application y se utiliz
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+A continuación se mostrará, todoas las contribuciones de los participantes de nuestra organización de github:
+Link de la organización - https://github.com/Grupo-Trabajo-Final-Open-Source
+
+
+![](https://i.imgur.com/TEw2uZQ.png)
+Collaborations 
+![](https://i.imgur.com/pdSPWqH.png)
+Commits Stadistics
+![](https://i.imgur.com/eyfr3I3.png)
+Network Graph
+
+Commits por miembro:
+![](https://i.imgur.com/8FGg0fl.png)
+Miembro: Fernando Salgado
+
+![](https://i.imgur.com/nZtKFSN.png)
+
+![](https://i.imgur.com/LvKDv0S.png)
+Miembro: Aaron Alarcón
+
+![](https://i.imgur.com/Awk3wBd.png)
+Miembro: Leonardo Linares
+
+![](https://i.imgur.com/psF2kR4.png)
+
+![](https://i.imgur.com/kxMZgAk.png)
+
+![](https://i.imgur.com/sFnX4Xn.png)
+Miembro: Mauricio Rojas
 
 ## 5.3. Validation Interviews.
 
