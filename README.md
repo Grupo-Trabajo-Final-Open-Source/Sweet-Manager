@@ -3386,18 +3386,24 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 
 <b>TABLA RESUMEN</b>
 
-| HEURÍSTICA                                    | EVALUACIÓN ✅❌ | NOTA    |
-| --------------------------------------------- | ------------- | ------- |
-| Visibilidad del estado del sistema            |               | {texto} |
-| Coincidencia entre el sistema y el mundo real |               | {texto} |
-| Control y libertad del usuario                |               | {texto} |
-| Consistencia y estándares                     |               | {texto} |
-| Prevención de errores                         |               | {texto} |
-| Mostrar antes que recordar                    |               | {texto} |
-| Flexibilidad y eficiencia de uso              |               | {texto} |
-| Diseño estético y minimalista                 |               | {texto} |
-| Comunicar errores con facilidad               |               | {texto} |
-| Ayuda y documentación                         |               | {texto} |
+| **#** | **Problema** | **Escala de severidad**✅❌ | **Heurística/Principio violado** |
+|-------|--------------|-------------------------|----------------------------------|
+| 1     | No hay un control que permita regresar a la tienda durante el trámite de compra | 3 | Usability: Libertad y control del usuario |
+| 2     | Se repiten constantemente algunas opciones | 1 | Usability: Consistencia y estándares |
+| 3     | Imágenes sin atributo “alt” | 3 | Inclusive Design: Proporciona experiencias comparables |
+| 4     | Incluye un botón “Ver más” pero no existe contenido al que dirigirse | 3 | Information Architecture: Is it usable? |
+| 5     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+| 6     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+| 7     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+| 8     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+| 9     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+| 10     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+| 11    | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+| 12     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+| 13     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+| 14     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+| 15     | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+
 
 ## 5.4. Video About-the-Product.
 
