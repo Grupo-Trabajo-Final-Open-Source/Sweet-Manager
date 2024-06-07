@@ -3222,6 +3222,8 @@ Network Graph
 
 Commits por miembro:
 ![](https://i.imgur.com/8FGg0fl.png)
+
+![](https://i.imgur.com/RDK9eIw.png)
 Miembro: Fernando Salgado
 
 ![](https://i.imgur.com/nZtKFSN.png)
@@ -3237,6 +3239,14 @@ Miembro: Leonardo Linares
 ![](https://i.imgur.com/kxMZgAk.png)
 
 ![](https://i.imgur.com/sFnX4Xn.png)
+
+![](https://i.imgur.com/gZWeMcP.png)
+
+![](https://i.imgur.com/orLp89c.png)
+
+![](https://i.imgur.com/if1siit.png)
+
+![](https://i.imgur.com/qGAjprS.png)
 Miembro: Mauricio Rojas
 
 ## 5.3. Validation Interviews.
