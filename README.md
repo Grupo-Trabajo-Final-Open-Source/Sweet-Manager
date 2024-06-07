@@ -2284,13 +2284,16 @@ Sprint 3: En este entregable, hemos logrado desarrollar un Web Services Applicat
 
 En este sprint se cumplió el objetivo de desarrollar el Web Services Application. La documentacion de nuestro servicio:
 
-### Sweet Manager Platform
-### Summary
+
+![](https://i.imgur.com/HmeSBug.png)
+
+<b>Summary</b>
 
 Sweet Manager Platform, illustrating development with Java, Spring Boot Framework and Spring Data MongoDB. 
 It also illustrates open-api documentation configuration and integration with Swagger UI.
 
-### Reference Documentation
+<b>Reference Documentation</b>
+
 For further reference, please consider the following sections:
 
 - Official Apache Maven documentation
@@ -2300,7 +2303,7 @@ For further reference, please consider the following sections:
 - Spring Boot DevTools
 - Spring Web
 
-### Guides
+<b>Guides</b>
 
 The following guides illustrate how to use some features concretely:
 
@@ -2309,7 +2312,7 @@ The following guides illustrate how to use some features concretely:
 - Serving Web Content with Spring MVC
 - Building REST services with Spring
 
-### Features
+<b>Features</b>
 - RESTful API
 - OpenAPI Documentation
 - Swagger UI
@@ -2320,7 +2323,7 @@ The following guides illustrate how to use some features concretely:
 - Mongo Database
 - Domain-Driven Design
 
-### Bounded Context
+<b>Bounded Context</b>
 This proyect of SweetManager is divided in the following bounded contexts:
 - Monitoring 
 - Supplies
@@ -2330,45 +2333,43 @@ This proyect of SweetManager is divided in the following bounded contexts:
 - Dashboard and Analytics
 - Messages
 
-### Monitoring Context
+<b>Monitoring Context</b>
 The Monitoring Context is responsible for managing the rooms of the hotel. It includes the following features:
 - Create a new Room.
 - Update a Room.
 - List all the rooms in real time.
 
-### Supplies Context
+<b>Supplies Context</b>
 The Supplies Context is responsible for managing the supplies of the hotel. It includes the following features:
 - Create a new Supply
 - Update the information of the Supply.
 - List all the supplies in real time.
 
-### Communication Context
+<b>Communication Context</b>
 The Communication Context is responsible for managing the notifications of the users. It includes the following features:
 - List all the notifications in real time.
 - Create Notifications in real time.
 - Get Notification By Id.
 
-### Payment Context
+<b>Payment Context</b>
 The Payment Context is responsable for managing the subscriptions and payments of the users. It includes the following features:
 - List all the subscriptions to the service.
 - Validate information when the user subscribes.
 
-### Identity and Access Management Context
+<b>Identity and Access Management Context</b>
 The Identity and Access Management is responsable for managing the access of the users to the application. It includes the following features:
 - Verify and Validate the information of the user.
 - Create a user to the application.
 
-### Dashboard and Analytics Context
+<b>Dashboard and Analytics Context</b>
 The Dashboard and Analytics Context is responsable for managing the information in real time about the income and expenses. It includes the following features:
 - List the income for every month at year.
 - List the expenses for every month at year.
 
-### Messages Context
+<b>Messages Context</b>
 The Messages Context is responsable for managing the messages between the users in the application. It includes the following features:
 - Send message to the respective user in real time using socket.
 
-
-![](https://i.imgur.com/HmeSBug.png)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
