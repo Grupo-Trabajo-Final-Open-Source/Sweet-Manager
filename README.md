@@ -3307,6 +3307,20 @@ Personalidad: Emotivo<br>
 ![Imagen de entrevista](https://i.imgur.com/2Jbl5UF.png)<br>  
 En resumen, el gerente del hotel destacó que el diseño visual de SweetManager es moderno y atractivo, facilitando la navegación y reflejando bien la imagen del hotel. Sugirió mejorar la tipografía y personalizar colores y logotipos. Considera que SweetManager mejorará la eficiencia operativa y la rentabilidad al centralizar funciones críticas. Valora especialmente los gráficos estadísticos, la gestión de habitaciones y el inventario. Cree que la interfaz intuitiva aumentará la productividad de los empleados y mejorará la percepción del servicio por parte de los clientes.<br>
 
+**Entrevista 3 (Gerentes)**<br>
+
+Url del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/Ef9Qw-HQLpNEhu1x4wii2c4BRfc3LLwxRE_e9VlUO0Up1Q?e=KOKdMi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Nombre: Carlo Rebagliati<br>
+Edad: 45<br>
+Sexo: Masculino<br>
+Ocupación: Gerente de hotel<br>
+Lugar donde vive: Pueblo Libre, Lima<br>
+Duración de la entrevista: 0:37 - 12:15<br>
+Personalidad: Analítica<br>
+![Imagen de entrevista](https://i.imgur.com/OHC57qN.png)<br>  
+En resumen, Carlo Rebagliati es un gerente de hotel con un largo camino de experiencia. Él es una persona analítica, comunicativa, empática y profesional que le importan las estadísticas y los beneficios y consecuencias de cada decisión. Nos relata que sus canales de comunicación preferidos son Whatssap, Zoom y cara a cara; adicionalmente, su navegador más frecuente es Google Chrome y usa Smartphone Android. Los principales desafíos que tiene su hotel es el llamado a los turistas desde provincia, ya que la mayoría de la clientela que tiene son turistas. Afortunadamente, está manteniendo a sus trabajadores motivados para que las bajas ventas por temporadas no afecte su rendimiento. Adicionalmente, mencionó que tienen una plataforma web donde los clientes realizan sus reservas, también tienen un área contable y administrativa para el seguimiento de ganancia y recursos. Finalmente, cree necesario una aplicación o software que se concentre en la gestión de un hotel, tanto para la comunicación, administración, gestión y seguimiento de recursos.
+
+
 **Entrevista 1 (Empleados)**<br>  
 URL del vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EWxWgy1stptAvE86j9XztW0BcPFGYlcyni3OPBpWIkztBw?e=ydpkdp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 <br>
