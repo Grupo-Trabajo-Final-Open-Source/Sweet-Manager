@@ -743,6 +743,8 @@ Priorizar y ejecutar cambios basados en la retroalimentación del cliente y las 
 
 ## 2.2. Entrevistas.
 
+En esta sección, se registrarán las acciones tomadas para la realización de las entrevistas. Empezando con el diseño de estas, anotando las preguntas a contestar, junto al registro de las entrevistas, con un resumen que destaca lo más importante a tener en cuenta, y el analisis de las entrevistas, mediante encuestas que señalan el porcentaje de las respuestas obtenidas.
+
 ### 2.2.1. Diseño de entrevistas.
 
 **Preguntas complementarias generales**
@@ -857,12 +859,14 @@ Duracion de la entrevista: 0:35 - 7:44<br>
 
 ### 2.2.3. Análisis de entrevistas.
 
+A continuación, se mostraran las preguntas complementarias generales realizadas, juntos a los porcentajes de las respuestas:<br>
 **Preguntas complementarias generales**
 
 ![Reporte](https://i.imgur.com/nZq5rT4.png)<br>
 ![Reporte](https://i.imgur.com/x9WLK4k.png)<br>
-![Reporte](https://i.imgur.com/g2onQok.png)
+![Reporte](https://i.imgur.com/g2onQok.png)<br>
 
+Con las preguntas generales ya respondidas, abrimos paso a las preguntas especializdas a cada segmento objetivo, y los porcentajes de las respuestas:<br>
 **Segmento de gerentes**  
 ![Analisis 1](https://i.imgur.com/SYDv3CT.png)<br>
 ![Analisis 2](https://i.imgur.com/4dczXCF.png)<br>
