@@ -860,17 +860,17 @@ Duracion de la entrevista: 0:35 - 7:44<br>
 ### 2.2.3. Análisis de entrevistas.
 
 A continuación, se mostraran las preguntas complementarias generales realizadas, juntos a los porcentajes de las respuestas:<br>
-**Preguntas complementarias generales**
+- **Preguntas complementarias generales**
 
 ![Reporte](https://i.imgur.com/nZq5rT4.png)<br>
 ![Reporte](https://i.imgur.com/x9WLK4k.png)<br>
 ![Reporte](https://i.imgur.com/g2onQok.png)<br>
 
 Con las preguntas generales ya respondidas, abrimos paso a las preguntas especializdas a cada segmento objetivo, y los porcentajes de las respuestas:<br>
-**Segmento de gerentes**  
+- **Segmento de gerentes**  
 ![Analisis 1](https://i.imgur.com/SYDv3CT.png)<br>
 ![Analisis 2](https://i.imgur.com/4dczXCF.png)<br>
-**Segmento de trabajadores**<br>
+- **Segmento de trabajadores**<br>
 ![Analisis 3](https://i.imgur.com/oTUVvys.png)<br>
 ![Analisis 4](https://i.imgur.com/puQWTwg.png)
 
