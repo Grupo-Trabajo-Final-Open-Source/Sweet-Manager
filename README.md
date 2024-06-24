@@ -3425,7 +3425,10 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 
 ## 5.4. Video About-the-Product.
 
-No hay por ahora
+
+![](https://i.imgur.com/AP2TJgq.png)
+
+Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EUSbKkJtC3NOgxiyDMdcc1UB-_xTGCOOXmgF5LtAIBEHFg?e=7Fg8oU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Conclusiones
 
