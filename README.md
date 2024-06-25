@@ -229,7 +229,7 @@
 [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
 [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
-[5.2.3. Sprint 3](#531-sprint-3)  
+[5.2.3. Sprint 3](#523-sprint-3)  
 [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)  
 [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)  
 [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)  
@@ -238,6 +238,16 @@
 [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)  
 [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)  
 [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
+[5.2.4. Sprint 4](#524-sprint-4)  
+[5.2.4.1. Sprint Planning 3](#5241-sprint-planning-4)  
+[5.2.4.2. Sprint Backlog 3](#5242-sprint-backlog-4)  
+[5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)  
+[5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)  
+[5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)  
+[5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)  
+[5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)  
+[5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 
 
 [5.3. Validation Interviews](#53-validation-interviews)  
@@ -3329,7 +3339,125 @@ Fin de Sprint 4
 
 #### 5.2.4.3. Development Evidence for Sprint Review 
 
-
+<table>
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Committed on (Date)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td rowspan="1000">landing-page</td>
+    </tr>
+    <tr>
+        <td rowspan="4">develop</td>
+    </tr>
+    <tr>
+        <td>4baab547224993ef9dfbed6ab4719337f7419a53</td>
+        <td>feat: added README documentation.</td>
+        <td></td>
+        <td> 13/04/2024</td>
+    </tr>
+    <tr>
+        <td>bc49c2a0536083b1fc07f18421d12e4853112892</td>
+        <td>feat: added assets to project.</td>
+        <td></td>
+        <td> 13/04/2024 </td>
+    </tr>
+    <tr>
+        <td>bf64e8597ce13b6d4185029cd689e02f461fe3fd</td>
+        <td>Merge pull request #1 from Group-Trabajo-Final-Open-Source/feature/styles-footer.</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/navbar</td>
+    </tr>
+    <tr>
+        <td>572c564942e5f259f3e3b5fe54a8adbabd25b98f</td>
+        <td>feat(features/navbar): added navbar documentation.</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/hero</td>
+    </tr>
+    <tr>
+        <td>7e5d2d675964a0aaddec23b5890c1b16fdce853a</td>
+        <td>feat(feature/hero): added hero section.</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/description</td>
+    </tr>
+    <tr>
+        <td>3880187c9596479fc6cf936e6ee39b373f5ea8c7</td>
+        <td>feat(feature/description): added description sections.</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/benefits</td>
+    </tr>
+    <tr>
+        <td>5a83aa3bd347de9519536f9a017a6531a59a4c20</td>
+        <td>feat(feature/benefits)added benefits section.</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/plans</td>
+    </tr>
+    <tr>
+        <td>6e513f3f94a22ab619744817aed09573eba0a5ba</td>
+        <td>feat(feature/plans): added section plans.</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/footer</td>
+    </tr>
+    <tr>
+        <td>122db0a8cc6c0436e7d39212441749b58c62d0dd</td>
+        <td>feat(feature/footer): added footer documentation.</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/styles-hero</td>
+    </tr>
+    <tr>
+        <td>b19ddf691dff7ab12e101884b3f70830506566ea</td>
+        <td>feat(feature/styles-hero): added styles for hero section.</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/styles-section</td>
+    </tr>
+    <tr>
+        <td>57f161dc83d5604e49c6432dc436c26cebd2c835</td>
+        <td>feat(feature/styles-section): added styles for some sections.</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan="2">feature/styles-footer</td>
+    </tr>
+    <tr>
+        <td>0264b347c2eda4e76d32f932c4a4da8f1b422556</td>
+        <td>feat(feature/styles-footer): added styles for footer.</td>
+        <td></td>
+        <td>13/04/2024</td>
+    </tr>
+    </tbody>
+</table>
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review 
 
