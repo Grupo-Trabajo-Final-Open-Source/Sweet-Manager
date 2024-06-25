@@ -3253,6 +3253,208 @@ Miembro: Leonardo Linares
 ![](https://i.imgur.com/qGAjprS.png)
 Miembro: Mauricio Rojas
 
+### 5.2.4 Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 25/06/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 16:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Lima, Reunion virtual por Discord
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Mauricio Abraham Rivo Rojas Sánchez
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Acuña Alarcon, Aaron Elías / Salgado Luna, Fernando Brian / Linares Tejada, Leonardo Félix 
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
+            <td> Sprint 3: En el anterior sprint hemos desarrollado el back-end de nuestro start-up, hemos abarcado distintos bounded context, como por ejemplo: payment, dashboard, iam, profiles, communication, monitoring, supplies. Adicionalmente, hemos habilitado la política CORS en la api y lo hemos desplegado para su futuro consumo. 
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+                Sprint 3: En el anterior sprint hemos desarrollado el back-end de nuestro start-up. Al incio, tuvimos fallas en nuestra organización. Sin embargo, al pasar de las semanas hemos mejorado la comunicación y logramos resolver todos los problemas y puntos débiles que tuvimos hasta ese momento. De esta manera, llegando al objetivo del Sprint 3.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 4 Velocity</td>
+            <td> 10
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td> 45
+            <td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4
+
+![](https://i.imgur.com/k3raDNd.png)
+
+Inicio de Sprint 4
+
+![](https://i.imgur.com/xM2TLYv.png)
+Fin de Sprint 4
+
+#### 5.2.4.3. Development Evidence for Sprint Review 
+
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review 
+
+En el alcance del Sprint 3 fue el desarrollo parcial del web services application. El testing que hemos usado en este entregable es postman y la interfaz de Swagger.
+
+
+#### 5.2.4.5. Execution Evidence for Sprint review
+
+Sprint 4: En este entregable, hemos logrado conectar el web-services con el front-end. 
+
+El link del Web Services desplegado es: 
+
+El link del Front-End desplegado es: 
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+En este sprint se Cumplió con el consumo del web-services dentro del front-end application.
+
+La documentación de nuestro servicio: 
+
+<b>Summary</b>
+
+Sweet Manager Platform, illustrating development with Java, Spring Boot Framework and Spring Data MongoDB. 
+It also illustrates open-api documentation configuration and integration with Swagger UI.
+
+<b>Reference Documentation</b>
+
+For further reference, please consider the following sections:
+
+- Official Apache Maven documentation
+- Spring Boot Maven Plugin Reference Guide
+- Create an OCI image
+- Spring Data MongoDB
+- Spring Boot DevTools
+- Spring Web
+
+<b>Guides</b>
+
+The following guides illustrate how to use some features concretely:
+
+- Accessing Data with Spring Data MongoDB
+- Building a RESTful Web Service
+- Serving Web Content with Spring MVC
+- Building REST services with Spring
+
+<b>Features</b>
+- RESTful API
+- OpenAPI Documentation
+- Swagger UI
+- Apache Maven in Java
+- Audit Creation and Update Date
+- Custom Route Naming Conventions
+- Custom Object-Relational Mapping Naming Conventions
+- Mongo Database
+- Domain-Driven Design
+
+<b>Bounded Context</b>
+This proyect of SweetManager is divided in the following bounded contexts:
+- Monitoring 
+- Supplies
+- Communication
+- Payment
+- Identity Access Management (IAM)
+- Dashboard and Analytics
+- Messages
+
+<b>Monitoring Context</b>
+The Monitoring Context is responsible for managing the rooms of the hotel. It includes the following features:
+- Create a new Room.
+- Update a Room.
+- List all the rooms in real time.
+
+<b>Supplies Context</b>
+The Supplies Context is responsible for managing the supplies of the hotel. It includes the following features:
+- Create a new Supply
+- Update the information of the Supply.
+- List all the supplies in real time.
+
+<b>Communication Context</b>
+The Communication Context is responsible for managing the notifications of the users. It includes the following features:
+- List all the notifications in real time.
+- Create Notifications in real time.
+- Get Notification By Id.
+
+<b>Payment Context</b>
+The Payment Context is responsable for managing the subscriptions and payments of the users. It includes the following features:
+- List all the subscriptions to the service.
+- Validate information when the user subscribes.
+
+<b>Identity and Access Management Context</b>
+The Identity and Access Management is responsable for managing the access of the users to the application. It includes the following features:
+- Verify and Validate the information of the user.
+- Create a user to the application.
+
+<b>Dashboard and Analytics Context</b>
+The Dashboard and Analytics Context is responsable for managing the information in real time about the income and expenses. It includes the following features:
+- List the income for every month at year.
+- List the expenses for every month at year.
+
+<b>Messages Context</b>
+The Messages Context is responsable for managing the messages between the users in the application. It includes the following features:
+- Send message to the respective user in real time using socket.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review 
+
+En este sprint, se completaron las correcciones en el web services application y las ultimas implementaciones en el front-end appplication. Las herramientas que hemos utilizado en este sprint son las siguientes: 
+
+- Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del landing page.
+
+- GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del landing page.
+
+- Github: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
+
+- Postman: Implementado para el testing del web services durante su etapa de desarrollo. 
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+![](https://i.imgur.com/d5CyLdc.png)
+
+![](https://i.imgur.com/poWC9Kr.png)
+
+![](https://i.imgur.com/fbexBCX.png)
+
+
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
@@ -3449,6 +3651,9 @@ Para garantizar la calidad y la usabilidad de nuestra aplicación, hemos realiza
 En resumen, estamos orgullosos del trabajo realizado y confiamos en que nuestra aplicación no solo cumplirá, sino que también superará las expectativas de nuestros usuarios. Este proyecto no solo nos esta permitiendo aplicar nuestros conocimientos en Ingeniería de Software, sino que también nos está brindado la oportunidad de trabajar en equipo, enfrentar desafíos y aprender de manera continua. 
 
 # Video About-the-Team.
+
+
+
 
 Link del Video: 
 
