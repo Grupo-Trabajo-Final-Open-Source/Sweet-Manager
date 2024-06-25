@@ -3449,11 +3449,30 @@ En este sprint, se completaron las correcciones en el web services application y
 
 ![](https://i.imgur.com/d5CyLdc.png)
 
+Gráficos estadísticos de commits desde el 24-05-2024 a 24-06-2024.
+
 ![](https://i.imgur.com/poWC9Kr.png)
+
+Frecuencia de contribuciones desde 26-05-2024 a 24-06-2024.
 
 ![](https://i.imgur.com/fbexBCX.png)
 
+Contribuciones personales de cada miembro del equipo.
 
+![](https://i.imgur.com/R4atfID.png)
+
+Netowrk Graph de commits entre branches.
+
+Commits por miembro:
+
+**IMAGENES**
+Miembro: Fernando Salgado
+**IMAGENES**
+Miembro: Leonardo Linares
+**IMAGENES**
+Miembro: Aaron Alarcón
+**IMAGENES**
+Miembro: Mauricio Rojas
 
 ## 5.3. Validation Interviews.
 
