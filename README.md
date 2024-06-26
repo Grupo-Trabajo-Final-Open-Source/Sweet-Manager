@@ -312,7 +312,7 @@ Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspeectos
 La entrega TP1 finalizó con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Grupo-Trabajo-Final-Open-Source/sweetmanager-frontend
 Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos: 
 - Se desarrolló el front-end application con todas nuestras reglas de negocio e investigaciones que hemos realizado.
-- Se desplegó el front-end application en Netlify, con el siguiente Link: https://sweetmanager.netlify.app/
+- Se desplegó el front-end application en Netlify, con el siguiente Link: https://develop--sweetmanager-frontend.netlify.app/
 
 ![](https://i.imgur.com/92cGLWN.png)
 ![](https://i.imgur.com/kF6ibFk.png)
@@ -337,7 +337,7 @@ La entrega TF1 finalizo con éxito y están documentadas en el siguiente reposit
 Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos: 
 - Se desarrolló el web-services application con todas las restricciones y reglas de negocio que tenemos evaluadas.
 - Se implementaron correcciones en el informe, a partir de críticas pasadas.
-- Se consumió el web-services application en el front-ent application, cuyo link es el siguiente: https://sweetmanager.netlify.app/
+- Se consumió el web-services application en el front-ent application, cuyo link es el siguiente: https://develop--sweetmanager-frontend.netlify.app/
 
 ![](https://i.imgur.com/apOzANK.png)
 ![](https://i.imgur.com/lN0xdym.png)
@@ -371,22 +371,22 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
                 TB1: En este entregable, he colaborado en el diálogo con mis compañeros de grupo, comunicando ideas con objetividad con diferentes niveles jerárquicos y especialidades, mejorando el diálogo entre nosotros. De esta manera, cumplí con el criterio específico del Student Outcome 3.<br>
                 TP1: En este entregable, he colaborado en el desarrollo del front-end web application. Especificamente en el bounded context de Interaction, Payment y Identity Access Management. Adicionalmente, he apoyado a mis compañeros de equipo en la guía del desarrollo de sus bounded context.<br>
                 TB2: En este entregable, he colaborado en el desarrollo del objtivo del Sprint 3. En este caso desarrollar por completo el web services de la aplicación Sweet Manager. Adicionalmente, hacer revisión de los features y evaluar bugs y complicaciones. <br>
-                TF1: <br>
+                TF1: En este entregable, me enfoqué en lograr montar los links de la página web, la API, su unión, y corregir los errores encontrados en el informe, junto al apoyo de mi equipo. <br>
                 - Aaron Alarcón <br>
                 TB1: En este proyecto, colaboré activamente en las discusiones junto a mis compañeros de equipo, compartiendo ideas de manera imparcial y comunicándome efectivamente con personas que tienen diferentes roles y áreas de experiencia. Así, logré satisfacer el criterio específico del Student Outcome 3.<br>
                 TP1: En este proyecto, he colaborado en el desarrollo del front-end web application. Especificamente en el bounded context de Rooms Management. Además, ayude en el desarrollo de los bounded context de mis compañeros, cuando tenian algun problema o malentendido.<br>
                 TB2: En este proyecto, he colaborado en el desarrollo del objtivo del Sprint 3. En este caso desarrollar el backend del bounded context de Rooms Management para que funcione en el web services de la aplicación Sweet Manager. <br>
-                TF1: <br>
+                TF1: En este proyecto, me enfoque en cumplir el objetivo del Sprint 4. En este caso, lograr la implementación de Rooms backend, en el frontend.<br>
                 - Fernando Salgado <br>
                 TB1: En este proyecto, participé de manera proactiva en las conversaciones con mis compañeros de equipo, intercambiando ideas de manera imparcial y manteniendo una comunicación clara y efectiva con individuos de distintos niveles de jerarquía y áreas de especialización. De este modo, logré cumplir con el criterio específico del Student Outcome 3.<br>
                 TP1: En este proyecto, he colaborado en el desarrollo del front-end web application. Especificamente en el bounded context de Profiles y Dashboard. Además de ayudar en cualquier problema que se encuentren mis compañeros.<br>
                 TB2: En este entregable, he colaborado en el desarrollo del objtivo del Sprint 3. En este caso desarrollar por completo el backend de los bounded context de Profiles Management y Dashboard para que funcionen en el web services de la aplicación Sweet Manager. <br>
-                TF1: <br>
+                TF1: En este entregable, colabore en el desarrollo del objetivo del Sprint 4. En este caso, lograr la unión entre las APIs que se encargan de Profiles, Dashboard, Suppliers, Customers y Control Panel, y su contraparte en el frontend.<br>
                 - Leonardo Linares <br>
                 TB1: Durante la elaboración de este trabajo, contribuí activamente en las discusiones con mis compañeros de grupo, compartiendo opiniones de manera imparcial y estableciendo una comunicación efectiva con personas que poseen distintos niveles de autoridad y áreas de conocimiento. Así, logré cumplir con el criterio establecido en el Student Outcome 3.<br>
                 TP1: En este proyecto, me encargue del desarrollo del front-end application. Específicamente en el bounded context de Supplies Managemnt. Además, me asegure de corregir cualquier error que apareciera en el reporte.<br>
                 TB2: En este entregable, me encargue de cumplir con el objetivo del Sprint 3. Específicamente, de crear el backend del bounded context de Supplies Management para el web services de nuestra aplicación Sweet Manager. Adiconalemnte, de añadir los elementos del Sprint 3 en el reporte.<br>
-                TF1: En este entregable, me encargue de cumplir con el objetivo del Sprint 4. Siendo, el asegurar que funcione mi API de mi Bounded Context Supply, para unirlo al frontend.<br>
+                TF1: En este entregable, me encargue de cumplir con el objetivo del Sprint 4. Siendo, el asegurar que funcione mi API de mi Bounded Context Supply, para unirlo al frontend, y corregir todos los aspectos del informe.<br>
             </td>
             <td>
             - Conclusión TB1:
@@ -396,7 +396,7 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
             - Conclusión TB2:
             En conclusión, en este entregable, hemos dialogado en conjunto para poder llegar al objetivo final del sprint, en este caso completar el desarrollo, diseño y plinificación de todos los bounded context. En este caso, completar el Web Services.<br>
             - Conclusión TF1:
-            En conclusión, en este entregable, <br>
+            En conclusión, en este entregable, hemos dialogado en conjunto para llegar a terminar el último sprint propuesto, que trata de la implementación del backend Web Services desarrollado, con el frontend. Además de aplicar las correcciones para el informe.<br>
             </td>
         </tr>
         <tr>
@@ -408,17 +408,17 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
             TB1: Para este trabajo realicé una investigación exhaustiva para recopilar información relevante y actualizada sobre el tema del proyecto, asegurando la precisión y relevancia de los datos presentados en el informe.<br>
             TP1: Para esta entrega, continue mi investigación para obtener la información necesaria para completar el objetivo del Sprint 2, que es desarrollar el front-end de nuestra aplicación. Específicamente, los bounded context de Interaction, Payment y Identity Access Management. Además de ayudar en los bounded context de mis compañeros cuando tenian dudas o problemas sobre el desarrollo de este.<br>
             TB2: Para esta entrega, mantuve mi investigación para completar con el objetivo del Sprint 3, que es finalizar los ultimos toques al front-end, y desarrollar el web services de nuestra aplicación. En mi caso, los backend de los bounded context de Interaction, Payment y Identity Access Management. Además, ayude a mis compañeros si es que surgia alguna duda sobre el proyecto.<br>
-            TF1: <br>
+            TF1: Para esta entrega, conseguí la información necesaria para cumplir con el Sprint 4, para dar los ultimos toques al backend, y así, poder implementarlo al front-end. En mi caso, teniendo en cuenta los bounded context de Interaction, Payment e IAM. También ayude a mis compañeros en todo aspecto posible.<br>
             - Aaron Alarcón<br>
             TB1: En este trabajo redacté de forma clara y precisa los análisis de requerimientos y planes para el desarrollo del proyecto de Software, demostrando nuestra capacidad para comunicar información técnica de manera efectiva a públicos diversos.<br>
             TP1: Para esta entrega, aprendí y comunique la información necesaria para completar el objetivo del Sprint 2, que es desarrollar el front-end de nuestra aplicación. Específicamente, el bounded context de Rooms Management. Además de ayudar en la revisión de los demás bounded context del equipo.<br>
             TB2: Para esta entrega, seguí con mi aprendizaje para completar con el objetivo del Sprint 3, que es corregir cualquier bug encontrado en el front-end, y desarrollar el web services de nuestra aplicación. En mi caso, el backend del bounded context de Rooms Management. Adicionalmente, supervisar los demás backends desarrollados por el equipo.<br>
-            TF1: <br>
+            TF1: Para esta entrega, aprendí lo necesario para cumplir con el objetivo del Sprint 4, que es corregir el backend, e implementarlo en el front-end. Finalizando el bounded context de Rooms.<br>
             - Fernando Salgado<br>
             TB1: Para este trabajo me encargué de la redacción de los informes técnicos, asegurando que la comunicación fuera clara y precisa para todos los miembros del equipo y para los diferentes niveles jerárquicos involucrados en el proyecto.<br>
             TP1: Para esta entrega, conseguí la información necesaria para completar el objetivo del Sprint 2, que es desarrollar el front-end de nuestra aplicación. Específicamente, los bounded context de Profiles Management y Dashboard. Además de apoyar, en cualquier aspecto que podía, en el proyecto.<br>
             TB2: Para esta entrega, me encargue de aprender lo necesario para completar con el objetivo del Sprint 3, que es corregir cualquier bug encontrado en el front-end, y desarrollar el web services de nuestra aplicación. En mi caso, los backend de los bounded contexts de Profiles Management y Dashboard. Además de apoyar de en los demás backends desarrollados.<br>
-            TF1: <br>
+            TF1: Para esta entrega, aprendí lo necesario para cumplir con el Sprint 4, que consiste en corregir cualquier error encontrado en el backend, para poder implementarlo en el front-end. Me encargue de supervisar los bounded contexts de Profiles, Dashboard, Suppliers, Customers y Control Panel. <br>
             - Leonardo Linares<br>
             TB1: En este trabajo desarrollé presentaciones visuales para acompañar los informes, facilitando la comprensión de los resultados por parte de audiencias con diferentes especialidades y niveles jerárquicos.<br>
             TP1: En esta entrega, me encargue de aprender la información necesaria para cumplir con el objetivo del Sprint 2, que es desarrollar el front-end de nuestra aplicación. Específicamente, el bounded context de Supplies Management. Además de supervisar los demás bounded contexts desarrollados para el proyecto.<br>
@@ -3701,7 +3701,9 @@ En este sprint, se completaron las correcciones en el web services application y
 
 - Github: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
 
-- Postman: Implementado para el testing del web services durante su etapa de desarrollo. 
+- Postman: Implementado para el testing del web services durante su etapa de desarrollo.
+
+- Docker: Utilizado para contenerizar y desplegar tanto nuestro servicio MongoDb como la aplicación web, proporcionando un entorno de despliegue consistente y portable.
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
