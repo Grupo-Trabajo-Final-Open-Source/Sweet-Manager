@@ -3575,16 +3575,64 @@ En esta seccion se incluyen los commits realizados a los repositorios de la orga
         <td rowspan="95">develop</td>
     </tr>
     <tr>
-        <td>4baab547224993ef9dfbed6ab4719337f7419a53</td>
-        <td>feat: added README documentation.</td>
+        <td>4b2921c9494618ee5fe0e577767a314b9de45f5a</td>
+        <td>fix: fixed bug with JSON Web Token.</td>
         <td></td>
-        <td> 13/04/2024</td>
+        <td>26/06/2024</td>
     </tr>
     <tr>
-        <td>bc49c2a0536083b1fc07f18421d12e4853112892</td>
-        <td>feat: added assets to project.</td>
+        <td>b4a9657fe1309a8976d27b5592af2e015eb14e1d</td>
+        <td>fix: fixed bug when request POST returns a 400 code.</td>
         <td></td>
-        <td> 13/04/2024 </td>
+        <td>26/06/2024</td>
+    </tr>
+    <tr>
+        <td>7524f4ae74754a270dd7c181717826b6878e554f</td>
+        <td>feat: added CORS policy support.</td>
+        <td></td>
+        <td>26/06/2024</td>
+    </tr>
+    <tr>
+        <td>4ebe8828938cf53ccac556ab2df1547b1b363107</td>
+        <td>fix: fixed notation for allowed origins.</td>
+        <td></td>
+        <td>26/06/2024</td>
+    </tr>
+    <tr>
+        <td>a5674ca8a32cf1a02b12417573e0b8ce2801b86c</td>
+        <td>Create Dockerfile</td>
+        <td></td>
+        <td>26/06/2024</td>
+    </tr>
+    <tr>
+        <td>acdb3a1f9a242f9ecf69f2addcdc5492e5b3aab7</td>
+        <td>Update pom.xml</td>
+        <td></td>
+        <td>26/06/2024</td>
+    </tr>
+    <tr>
+        <td>6cfc2629591966fff2f850ba5094fa5d6854be72</td>
+        <td>Create compose.yaml</td>
+        <td></td>
+        <td>26/06/2024</td>
+    </tr>
+    <tr>
+        <td>1e62c2fe7c386849dab22b17ae1c4bb6a6429cd7</td>
+        <td>feat: port to deploy.</td>
+        <td></td>
+        <td>26/06/2024</td>
+    </tr>
+    <tr>
+        <td>33ea08c4ea2989e18c8245fc0f7876e0ba5d6584</td>
+        <td>feat: open ap.</td>
+        <td></td>
+        <td>26/06/2024</td>
+    </tr>
+    <tr>
+        <td>adcd600dafe4026f2a67e99aa3e28d9e01be8f51</td>
+        <td>fix: routing hash in imports modules.</td>
+        <td></td>
+        <td>26/06/2024</td>
     </tr>
     </tbody>
 </table>
@@ -3593,14 +3641,21 @@ En esta seccion se incluyen los commits realizados a los repositorios de la orga
 
 En el alcance del Sprint 3 fue el desarrollo parcial del web services application. El testing que hemos usado en este entregable es postman y la interfaz de Swagger.
 
+![](https://i.imgur.com/tG4B19O.png)
+![](https://i.imgur.com/qXn20Bv.png)
+![](https://i.imgur.com/CqE5JQQ.png)
+![](https://i.imgur.com/crPWWCF.png)
+![](https://i.imgur.com/QhvcWVo.png)
+![](https://i.imgur.com/bdetQS9.png)
+![](https://i.imgur.com/ELsTeA6.png)
 
 #### 5.2.4.5. Execution Evidence for Sprint review
 
 Sprint 4: En este entregable, hemos logrado conectar el web-services con el front-end. 
 
-El link del Web Services desplegado es: 
+El link del Web Services desplegado es: https://sweetmanagerapi.ryzeon.me/swagger-ui/index.html#/
 
-El link del Front-End desplegado es: 
+El link del Front-End desplegado es: https://develop--sweetmanager-frontend.netlify.app/
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
