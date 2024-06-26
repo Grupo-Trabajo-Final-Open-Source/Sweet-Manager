@@ -153,7 +153,7 @@
 
 [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
-[Capítulo III: Requirements Specificatio](#capítulo-iii-requirements-specification)
+[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
 
 [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 
@@ -163,7 +163,7 @@
 
 [3.4. Product Backlog](#34-product-backlog)
 
-[Capítulo IV: Product Desig](#capítulo-iv-product-design)
+[Capítulo IV: Product Design](#capítulo-iv-product-design)
 
 [4.1. Style Guidelines](#41-style-guidelines)  
 [4.1.1. General Style Guidelines](#411-general-style-guidelines)  
@@ -268,6 +268,7 @@
 [Anexos](#anexos)
 
 # Project Report Collaboration Insights
+## TB1
 La entrega TB1 finalizó con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Grupo-Trabajo-Final-Open-Source/project-report
 Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspeectos: 
 - Se redactaron y estructuraron los contenidos asignados a cada miembro utilizando el formato Markdown. Luego, se realizaron commits para garantizar el avance en el repositorio.
@@ -279,6 +280,41 @@ Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspeectos
 ![](https://i.imgur.com/curBYQ9.jpeg)
 ![](https://i.imgur.com/MT4VGTV.jpeg)
 
+## TP1
+La entrega TP1 finalizó con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Grupo-Trabajo-Final-Open-Source/sweetmanager-frontend
+Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos: 
+- Se desarrolló el front-end application con todas nuestras reglas de negocio e investigaciones que hemos realizado.
+- Se desplegó el front-end application en Netlify, con el siguiente Link: https://sweetmanager.netlify.app/
+
+![](https://i.imgur.com/92cGLWN.png)
+![](https://i.imgur.com/kF6ibFk.png)
+![](https://i.imgur.com/gLopYT0.png)
+![](https://i.imgur.com/3Tel9Ur.png)
+
+
+## TB2
+La entrega TB2 finalizó con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Grupo-Trabajo-Final-Open-Source/sweetmanager-web-services
+Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos: 
+- Se desarrolló el web-services application con todas las restricciones y reglas de negocio que tenemos evaluadas.
+- Se desplegó el web-services application. El link del API es: 
+
+![](https://i.imgur.com/apOzANK.png)
+![](https://i.imgur.com/lN0xdym.png)
+![](https://i.imgur.com/DDc1OWH.png)
+![](https://i.imgur.com/iix7ZH1.png)
+
+## TF1
+La entrega TF1 finalizo con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Grupo-Trabajo-Final-Open-Source/sweetmanager-web-services
+
+Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos: 
+- Se desarrolló el web-services application con todas las restricciones y reglas de negocio que tenemos evaluadas.
+- Se implementaron correcciones en el informe, a partir de críticas pasadas.
+- Se consumió el web-services application en el front-ent application, cuyo link es el siguiente: https://sweetmanager.netlify.app/
+
+![](https://i.imgur.com/apOzANK.png)
+![](https://i.imgur.com/lN0xdym.png)
+![](https://i.imgur.com/DDc1OWH.png)
+![]()
 
 # Student Outcome
 
@@ -3855,3 +3891,4 @@ https://www.conventionalcommits.org/en/v1.0.0/
 | Vídeo de Exposición TB1      | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EQteChIn4UVDlVx5Sc4PJWMBIr-9kjLxmjmIS_X4JlKSJA?e=3TsZIH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|  
 | VÍdeo de Exposición TP1      | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EaNKGQezPQBMjmcclCyPULMBl1Gh8cFC97k_7QUySajVYg?e=WSAXYy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
 |Vídeo de Exposición TB2 | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/Eb7ghfu_PYtDmn-45RZDMu4B70JyTiNUNSiDTujm_zNvdA?e=zog0v5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D| 
+| Vídeo de Exposición TF1    | Link del Vídeo: | 
