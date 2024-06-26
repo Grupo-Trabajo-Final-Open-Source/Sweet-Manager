@@ -3634,6 +3634,48 @@ En esta seccion se incluyen los commits realizados a los repositorios de la orga
         <td></td>
         <td>26/06/2024</td>
     </tr>
+    <tr>
+        <td>d5e6a16de253428d580e2cb6912ff82eeb0aeab7</td>
+        <td>feat(rooms): implemented id for update.</td>
+        <td></td>
+        <td>26/06/2024</td>
+    </tr>
+    <tr>
+        <td>8b8ad4f2072186eb665b7ab434b7ec31e0cb76fa</td>
+        <td>feat(fix): updated student outcome</td>
+        <td></td>
+        <td>26/06/2024</td>
+    </tr>
+    <tr>
+        <td>fe9cd3e10d0c63dc4b17e3975829a75bfb882ad5</td>
+        <td>feat(chapter-5): updated sprint 4 evidence</td>
+        <td></td>
+        <td>26/06/2024</td>
+    </tr>
+    <tr>
+        <td>3f4f6887a132f0483e1b2ac70c5ecd356e1afa23</td>
+        <td>feat(dashboard): provider command service updated.</td>
+        <td></td>
+        <td>26/06/2024</td>
+    </tr>
+    <tr>
+        <td>647e930fb0973eb789cd737198661f7fda5281b4</td>
+        <td>feat(dashboard): delete provider implemented.</td>
+        <td></td>
+        <td>26/06/2024</td>
+    </tr>
+    <tr>
+        <td>4d156da07424803b1fba09924f016e420cfbd4b5</td>
+        <td>feat(dashboard): provider controller implemented.</td>
+        <td></td>
+        <td>26/06/2024</td>
+    </tr>
+    <tr>
+        <td>4e81dbd6b71699b8c5838b85af4842f951b39c45</td>
+        <td>feat(supply): added supply API update and delete commands.</td>
+        <td></td>
+        <td>26/06/2024</td>
+    </tr>
     </tbody>
 </table>
 
@@ -3648,6 +3690,7 @@ En el alcance del Sprint 3 fue el desarrollo parcial del web services applicatio
 ![](https://i.imgur.com/QhvcWVo.png)
 ![](https://i.imgur.com/bdetQS9.png)
 ![](https://i.imgur.com/ELsTeA6.png)
+![](https://i.imgur.com/i66oc6w.png)
 
 #### 5.2.4.5. Execution Evidence for Sprint review
 
@@ -3780,13 +3823,18 @@ Netowrk Graph de commits entre branches.
 
 Commits por miembro:
 
-**IMAGENES**
+![](https://i.imgur.com/AdSUqI6.png)
 Miembro: Fernando Salgado
-**IMAGENES**
+![](https://i.imgur.com/GrWKHLn.png)
+![](https://i.imgur.com/Nxsz50c.png)
 Miembro: Leonardo Linares
-**IMAGENES**
+![](https://i.imgur.com/kTcjTZQ.png)
+![](https://i.imgur.com/atmzFFc.png)
 Miembro: Aaron Alarcón
-**IMAGENES**
+![](https://i.imgur.com/Kz21YQf.png)
+![](https://i.imgur.com/LEs5dLI.png)
+![](https://i.imgur.com/JMTgFzo.png)
+![](https://i.imgur.com/wEATLCA.png)
 Miembro: Mauricio Rojas
 
 ## 5.3. Validation Interviews.
@@ -4149,7 +4197,10 @@ En resumen, estamos orgullosos del trabajo realizado y confiamos en que nuestra 
 
 # Video About-the-Team.
 
-Link del Video: 
+En este vídeo, se presentan cada uno de los miembros del equipo.
+
+Link del Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EWwV1nu1XJBMuHnOADk6ZYcB2fPx2gwYmVf3_HaewNMVAw?e=DnXLrX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 
 # Bibliografía
 
@@ -4202,4 +4253,4 @@ https://www.conventionalcommits.org/en/v1.0.0/
 | Vídeo de Exposición TB1      | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EQteChIn4UVDlVx5Sc4PJWMBIr-9kjLxmjmIS_X4JlKSJA?e=3TsZIH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|  
 | VÍdeo de Exposición TP1      | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EaNKGQezPQBMjmcclCyPULMBl1Gh8cFC97k_7QUySajVYg?e=WSAXYy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
 |Vídeo de Exposición TB2 | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/Eb7ghfu_PYtDmn-45RZDMu4B70JyTiNUNSiDTujm_zNvdA?e=zog0v5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D| 
-| Vídeo de Exposición TF1    | Link del Vídeo: | 
+| Vídeo de Exposición TF1    | Link del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/Ecg7juNvVulAjxR6TGh1EAUBnrgaBDKWORtg_M3UvgG0tA?e=u4oIJf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D| 
