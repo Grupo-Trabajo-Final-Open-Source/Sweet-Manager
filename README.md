@@ -268,6 +268,9 @@
 [Anexos](#anexos)
 
 # Project Report Collaboration Insights
+
+En esta sección, regirstraremos los cambios y logros que se completaron en cada entrega del reporte.
+
 ## TB1
 La entrega TB1 finalizó con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Grupo-Trabajo-Final-Open-Source/project-report
 Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspeectos: 
@@ -343,18 +346,22 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
                 TB1: En este entregable, he colaborado en el diálogo con mis compañeros de grupo, comunicando ideas con objetividad con diferentes niveles jerárquicos y especialidades, mejorando el diálogo entre nosotros. De esta manera, cumplí con el criterio específico del Student Outcome 3.<br>
                 TP1: En este entregable, he colaborado en el desarrollo del front-end web application. Especificamente en el bounded context de Interaction, Payment y Identity Access Management. Adicionalmente, he apoyado a mis compañeros de equipo en la guía del desarrollo de sus bounded context.<br>
                 TB2: En este entregable, he colaborado en el desarrollo del objtivo del Sprint 3. En este caso desarrollar por completo el web services de la aplicación Sweet Manager. Adicionalmente, hacer revisión de los features y evaluar bugs y complicaciones. <br>
+                TF1: <br>
                 - Aaron Alarcón <br>
                 TB1: En este proyecto, colaboré activamente en las discusiones junto a mis compañeros de equipo, compartiendo ideas de manera imparcial y comunicándome efectivamente con personas que tienen diferentes roles y áreas de experiencia. Así, logré satisfacer el criterio específico del Student Outcome 3.<br>
                 TP1: En este proyecto, he colaborado en el desarrollo del front-end web application. Especificamente en el bounded context de Rooms Management. Además, ayude en el desarrollo de los bounded context de mis compañeros, cuando tenian algun problema o malentendido.<br>
                 TB2: En este proyecto, he colaborado en el desarrollo del objtivo del Sprint 3. En este caso desarrollar el backend del bounded context de Rooms Management para que funcione en el web services de la aplicación Sweet Manager. <br>
+                TF1: <br>
                 - Fernando Salgado <br>
                 TB1: En este proyecto, participé de manera proactiva en las conversaciones con mis compañeros de equipo, intercambiando ideas de manera imparcial y manteniendo una comunicación clara y efectiva con individuos de distintos niveles de jerarquía y áreas de especialización. De este modo, logré cumplir con el criterio específico del Student Outcome 3.<br>
                 TP1: En este proyecto, he colaborado en el desarrollo del front-end web application. Especificamente en el bounded context de Profiles y Dashboard. Además de ayudar en cualquier problema que se encuentren mis compañeros.<br>
                 TB2: En este entregable, he colaborado en el desarrollo del objtivo del Sprint 3. En este caso desarrollar por completo el backend de los bounded context de Profiles Management y Dashboard para que funcionen en el web services de la aplicación Sweet Manager. <br>
+                TF1: <br>
                 - Leonardo Linares <br>
                 TB1: Durante la elaboración de este trabajo, contribuí activamente en las discusiones con mis compañeros de grupo, compartiendo opiniones de manera imparcial y estableciendo una comunicación efectiva con personas que poseen distintos niveles de autoridad y áreas de conocimiento. Así, logré cumplir con el criterio establecido en el Student Outcome 3.<br>
                 TP1: En este proyecto, me encargue del desarrollo del front-end application. Específicamente en el bounded context de Supplies Managemnt. Además, me asegure de corregir cualquier error que apareciera en el reporte.<br>
-                TB2: En este entregable, me encargue de cumplir con el objetivo del Sprint 3. Específicamente, de crear el backend del bounded context de Supplies Management para el web services de nuestra aplicación Sweet Manager. Adiconalemnte, de añadir los elementos del Sprint 3 en el reporte.
+                TB2: En este entregable, me encargue de cumplir con el objetivo del Sprint 3. Específicamente, de crear el backend del bounded context de Supplies Management para el web services de nuestra aplicación Sweet Manager. Adiconalemnte, de añadir los elementos del Sprint 3 en el reporte.<br>
+                TF1: En este entregable, me encargue de cumplir con el objetivo del Sprint 4. Siendo, el asegurar que funcione mi API de mi Bounded Context Supply, para unirlo al frontend.<br>
             </td>
             <td>
             - Conclusión TB1:
@@ -362,7 +369,9 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
             - Conclusión TP1: 
             En conclusión, en este entregable, hemos dialogado en conjunto para poder llegar al objetivo final del sprint, en este caso completar el desarrollo y diseño de todos los bounded context.<br>
             - Conclusión TB2:
-            En conclusión, en este entregable, hemos dialogado en conjunto para poder llegar al objetivo final del sprint, en este caso completar el desarrollo, diseño y plinificación de todos los bounded context. En este caso, completar el Web Services.
+            En conclusión, en este entregable, hemos dialogado en conjunto para poder llegar al objetivo final del sprint, en este caso completar el desarrollo, diseño y plinificación de todos los bounded context. En este caso, completar el Web Services.<br>
+            - Conclusión TF1:
+            En conclusión, en este entregable, <br>
             </td>
         </tr>
         <tr>
@@ -374,18 +383,22 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
             TB1: Para este trabajo realicé una investigación exhaustiva para recopilar información relevante y actualizada sobre el tema del proyecto, asegurando la precisión y relevancia de los datos presentados en el informe.<br>
             TP1: Para esta entrega, continue mi investigación para obtener la información necesaria para completar el objetivo del Sprint 2, que es desarrollar el front-end de nuestra aplicación. Específicamente, los bounded context de Interaction, Payment y Identity Access Management. Además de ayudar en los bounded context de mis compañeros cuando tenian dudas o problemas sobre el desarrollo de este.<br>
             TB2: Para esta entrega, mantuve mi investigación para completar con el objetivo del Sprint 3, que es finalizar los ultimos toques al front-end, y desarrollar el web services de nuestra aplicación. En mi caso, los backend de los bounded context de Interaction, Payment y Identity Access Management. Además, ayude a mis compañeros si es que surgia alguna duda sobre el proyecto.<br>
+            TF1: <br>
             - Aaron Alarcón<br>
             TB1: En este trabajo redacté de forma clara y precisa los análisis de requerimientos y planes para el desarrollo del proyecto de Software, demostrando nuestra capacidad para comunicar información técnica de manera efectiva a públicos diversos.<br>
             TP1: Para esta entrega, aprendí y comunique la información necesaria para completar el objetivo del Sprint 2, que es desarrollar el front-end de nuestra aplicación. Específicamente, el bounded context de Rooms Management. Además de ayudar en la revisión de los demás bounded context del equipo.<br>
             TB2: Para esta entrega, seguí con mi aprendizaje para completar con el objetivo del Sprint 3, que es corregir cualquier bug encontrado en el front-end, y desarrollar el web services de nuestra aplicación. En mi caso, el backend del bounded context de Rooms Management. Adicionalmente, supervisar los demás backends desarrollados por el equipo.<br>
+            TF1: <br>
             - Fernando Salgado<br>
             TB1: Para este trabajo me encargué de la redacción de los informes técnicos, asegurando que la comunicación fuera clara y precisa para todos los miembros del equipo y para los diferentes niveles jerárquicos involucrados en el proyecto.<br>
             TP1: Para esta entrega, conseguí la información necesaria para completar el objetivo del Sprint 2, que es desarrollar el front-end de nuestra aplicación. Específicamente, los bounded context de Profiles Management y Dashboard. Además de apoyar, en cualquier aspecto que podía, en el proyecto.<br>
             TB2: Para esta entrega, me encargue de aprender lo necesario para completar con el objetivo del Sprint 3, que es corregir cualquier bug encontrado en el front-end, y desarrollar el web services de nuestra aplicación. En mi caso, los backend de los bounded contexts de Profiles Management y Dashboard. Además de apoyar de en los demás backends desarrollados.<br>
+            TF1: <br>
             - Leonardo Linares<br>
             TB1: En este trabajo desarrollé presentaciones visuales para acompañar los informes, facilitando la comprensión de los resultados por parte de audiencias con diferentes especialidades y niveles jerárquicos.<br>
             TP1: En esta entrega, me encargue de aprender la información necesaria para cumplir con el objetivo del Sprint 2, que es desarrollar el front-end de nuestra aplicación. Específicamente, el bounded context de Supplies Management. Además de supervisar los demás bounded contexts desarrollados para el proyecto.<br>
-            TB2: En esta entrega, continue con mi investigación personal, para cumplir con el objetivo del Sprint 3, que es corregir los errores presentes en el front-end, y desarrollar el web services de nuestra aplicación. En mi caso, el backend para el bounded context de Supplies Management. Adicionalmente, ayude en cada aspecto que podía de los bounded context asignados a mis compañeros.
+            TB2: En esta entrega, continue con mi investigación personal, para cumplir con el objetivo del Sprint 3, que es corregir los errores presentes en el front-end, y desarrollar el web services de nuestra aplicación. En mi caso, el backend para el bounded context de Supplies Management. Adicionalmente, ayude en cada aspecto que podía de los bounded context asignados a mis compañeros.<br>
+            TF1: En esta entrega, siguiendo con mi invesitgación personal sobre la gestión hotelera, hice correcciones en el informe, y me asegure que mi API para Supplies, funcione correctamente.<br>
             </td>
             <td>
             - Conclusión TB1:
@@ -393,13 +406,17 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
             - Conclusión TP1:
             En conclusión, en este Sprint 2, hemos trabajado en conjunto para el desarrollo de todos los bounded contexty poder llegar al objetivo del Sprint 2. Adicionalmente, hacer los respectivos reviews y retroalimentaciones.<br>
             - Conclusión TB2:
-            En conclusión, en este Sprint 3, hemos trabajado en conjunto para el desarrollo detodos los bounded context y features para poder llegar a desarrollar por completo el API de Sweet Manager. Adicionalmnete, hacer review de los features del Sprint 3 y hacer retroalimentaciones.
+            En conclusión, en este Sprint 3, hemos trabajado en conjunto para el desarrollo detodos los bounded context y features para poder llegar a desarrollar por completo el API de Sweet Manager. Adicionalmnete, hacer review de los features del Sprint 3 y hacer retroalimentaciones.<br>
+            - Conclusión TF1:
+            En conclusión, en esta ultima entrega, hemos trabajado en conjunto para asegurar el funcionamiento de las APIs desarrolladas, y que funcionen en su unión con el frontend.<br>
             </td>
         </tr>
     </tbody>
 </table>
 
 # Capítulo I: Introducción
+
+Este capítulo se centrará en introducir nuestro proyecto, contando con el Startup Profile, y la introducción de los miembros de equipo. El problema que presentamos, junto a nuestra solución, el Lean UX Process y los segmentos objetivos.
 
 ## 1.1. Startup Profile
 
@@ -410,10 +427,10 @@ La gestión eficiente de un hotel es fundamental para garantizar una experiencia
 Sweet Manager es una solución integral que abarca desde el seguimiento de ingresos y gastos hasta la gestión de proveedores, inventarios e incluso recursos humanos. Con una interfaz intuitiva y fácil de usar, nuestra aplicación permite a los gerentes y propietarios de hoteles tener un control total sobre todas las facetas de su negocio, desde cualquier lugar y en cualquier momento.
 
 Destacamos las siguientes características:<br><br>
-Gestión de Ingresos y Gastos: Sweet Manager ofrece un seguimiento detallado de todos los ingresos y gastos del hotel, proporcionando informes en tiempo real para una toma de decisiones informada.<br><br>
-Control de Inventarios: Con nuestra aplicación, los hoteles pueden gestionar eficientemente sus inventarios de alimentos, bebidas, artículos de tocador y más, evitando escasez y desperdicios.<br><br>
-Gestión de Proveedores: Facilitamos la comunicación y la gestión de relaciones con los proveedores, permitiendo realizar pedidos de forma rápida y eficiente.<br><br>
-Gestión de Clientes: Mejoramos la organización y control de los clientes que reserven su estancia en el hotel implementando calendarios y agendas para una mejor gestión..
+- Gestión de Ingresos y Gastos: Sweet Manager ofrece un seguimiento detallado de todos los ingresos y gastos del hotel, proporcionando informes en tiempo real para una toma de decisiones informada.<br><br>
+- Control de Inventarios: Con nuestra aplicación, los hoteles pueden gestionar eficientemente sus inventarios de alimentos, bebidas, artículos de tocador y más, evitando escasez y desperdicios.<br><br>
+- Gestión de Proveedores: Facilitamos la comunicación y la gestión de relaciones con los proveedores, permitiendo realizar pedidos de forma rápida y eficiente.<br><br>
+- Gestión de Clientes: Mejoramos la organización y control de los clientes que reserven su estancia en el hotel implementando calendarios y agendas para una mejor gestión..
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
@@ -447,6 +464,8 @@ Además, la falta de herramientas adecuadas de gestión puede llevar a pérdidas
 En este contexto, la necesidad de soluciones innovadoras y eficientes para la gestión hotelera es más evidente que nunca. Los hoteles deben adaptarse rápidamente a las demandas del mercado y aprovechar las herramientas tecnológicas disponibles para optimizar sus operaciones y mantenerse competitivos en un entorno en constante cambio.
 
 **Problemática**
+
+Reconoceremos nuestra problemática mediante el método 5W y 2H.
 
 **What:** Sweet Manager es una solución integral diseñada para abordar estas complejidades al proporcionar una plataforma única para la gestión de todos los aspectos de un hotel, desde las finanzas hasta los recursos humanos.
 
@@ -499,7 +518,12 @@ Nos enfocamos inicialmente en hoteles independientes y pequeñas cadenas hoteler
 
 #### 1.2.2.2. Lean UX Assumptions.
 
+En esta sección, veremos los Assumptions que podemos esperar de nuestra solución, desde los Features que debe tener, hasta los Outcomes en nuestra perspectiva y la de los usuarios.
+
 **Features:**
+
+Aqui veremos las herramientas que planeamos implementar en nuestra solución.
+
 - **Seguimiento de Ingresos y Gastos en Tiempo Real:** Herramienta para registrar y analizar los flujos financieros del hotel, proporcionando una visión instantánea de la situación económica.
 - **Gestión de Inventarios y Relaciones con Proveedores:** Funcionalidades para mantener un control preciso de los suministros del hotel y facilitar la comunicación con los proveedores para realizar pedidos de manera eficiente.
 - **Módulos de Gestión de Personal:** Herramientas para gestionar horarios, nóminas y evaluaciones de desempeño del personal, optimizando así la gestión de recursos humanos.
@@ -507,17 +531,27 @@ Nos enfocamos inicialmente en hoteles independientes y pequeñas cadenas hoteler
 - **Integración con Sistemas de Gestión Hotelera Existentes:** Capacidad para integrarse sin problemas con sistemas de gestión hotelera ya implementados, asegurando una transición suave y una experiencia completa para los usuarios.
 
 **Business Outcomes:**
-- **Aumento de la Eficiencia Operativa:** Tras la implementación de Sweet Manager, se espera una reducción del 30% en el tiempo dedicado a tareas administrativas como la gestión de inventarios y recursos humanos, lo que se traducirá en una mejora tangible en la eficiencia operativa del hotel.
-- **Mejora en la Rentabilidad:** Anticipamos un aumento del 15% en el margen de beneficio neto del hotel dentro de seis meses, gracias a una gestión más efectiva de ingresos y recursos que optimiza los costos operativos y maximiza los ingresos.
-- **Mayor Satisfacción del Cliente:** Esperamos ver un aumento de 0.5 puntos en la calificación promedio de satisfacción del cliente en las reseñas en línea después de la implementación de Sweet Manager, lo que reflejará la mejora en la experiencia del cliente debido a una gestión más eficiente y una atención más personalizada.
-- **Retención de los clientes:** Prevemos un aumento del 20% en el número de clientes que realizan reservas repetidas dentro de un año, lo que indica una mayor fidelización gracias a una gestión más efectiva y una experiencia de calidad para los huéspedes.
-- **Reducción de costos:** Esperamos una disminución del 25% en los costos operativos totales del hotel, gracias a la reducción de desperdicios y la optimización de procesos facilitada por la automatización y centralización de la información.
+
+Aqui nos centraremos en, tanto lo que queremos lograr como solución de la gestión hotelera, como lo que debemos ver para saber que nuestra solución fue exitosa y tuvo el impacto que deseamos.
+
+- **Referente de Soluciones Tecnológicas para la Gestión Hotelera:** Queremos ser reconocidos como uno de los mayores referentes en el mercado de soluciones de software para la gestión hotelera, incorporando constantemente nuevas tecnologías, teniendo un sistema eficiente y productivo para el cliente, con funcionalidades que anticipen, o se adapten, y respondan a sus necesidades.
+- **Aumento de la Eficiencia Operativa:** Tras la implementación de Sweet Manager, esperamos una reducción del 30% en el tiempo dedicado a tareas administrativas como la gestión de inventarios y recursos humanos, lo que se traducirá en una mejora tangible en la eficiencia operativa del hotel.
+- **Mejora en la Rentabilidad:** Con el uso de Sweet Manager, anticipamos un aumento del 15% en el margen de beneficio neto del hotel dentro de seis meses, gracias a una gestión más efectiva de ingresos y recursos que optimiza los costos operativos y maximiza los ingresos.
+- **Mayor Satisfacción del Cliente:** Gracias a Sweet Manager, esperamos ver un aumento de 0.5 puntos en la calificación promedio de satisfacción del cliente en las reseñas en línea, lo que reflejaría la mejora en la experiencia del cliente, gracias a una gestión más eficiente y una atención más personalizada.
+- **Retención de los clientes:** Mediante el uso de Sweet Manager, prevemos un aumento del 20% en el número de clientes que realizan reservas repetidas dentro de un año, lo que indica una mayor fidelización gracias a una gestión más efectiva y una experiencia de calidad para los huéspedes.
+- **Reducción de costos:** Sabremos que nuestra solución es efectiva, cuando veamos una disminución del 25% en los costos operativos totales del hotel, gracias a la reducción de desperdicios y la optimización de procesos facilitada por la automatización y centralización de la información.
 
 **Users:**
+
+Estos son los usuarios a los que van dirigido nuestra solución.
+
 - **Propietarios y Gerentes de Hoteles:** Buscan soluciones tecnológicas para optimizar la gestión de sus establecimientos y mejorar la rentabilidad.
 - **Personal de Trabajo:** Encargado de tareas específicas dentro del hotel, como contabilidad, compras o recursos humanos, quienes buscan herramientas que simplifiquen y agilicen sus responsabilidades diarias.
 
 **User Outcomes & Benefits:**
+
+Estos son los beneficios inmediatos que obtendran los usuarios con nuestra solución.
+
 - **Acceso Conveniente a la Plataforma:** Los usuarios pueden acceder fácilmente a todas las herramientas necesarias para la gestión hotelera desde una sola plataforma.
 - **Toma de Decisiones Basada en Datos en Tiempo Real:** La disponibilidad de información actualizada permite a los usuarios tomar decisiones informadas y estratégicas en el momento adecuado.
 - **Reducción del estrés y la Carga de Trabajo:** Al automatizar procesos y simplificar tareas, Sweet Manager ayuda a reducir la carga de trabajo y el estrés asociado con la gestión manual de procesos.
@@ -526,6 +560,9 @@ Nos enfocamos inicialmente en hoteles independientes y pequeñas cadenas hoteler
 - **Transparencia de acciones y mayor confianza:** Generando una experiencia sin contratiempos que satisface a los huéspedes, especialmente en las transacciones y las reservas.
 
 **Business Assumptions:**
+
+Estos son los puntos que podemos asumir de nuestro negocio.
+
 1. Creemos que los hoteles tienen una necesidad creciente de soluciones tecnológicas que mejoren la eficiencia operativa y la rentabilidad del negocio.
 2. Esta necesidad puede ser abordada con éxito mediante Sweet Manager, que ofrece una plataforma integral y fácil de usar para la gestión hotelera.
 3. El valor principal que nuestros clientes buscan es una solución que simplifique la gestión diaria del hotel y mejore la experiencia del cliente.
@@ -537,27 +574,39 @@ Nos enfocamos inicialmente en hoteles independientes y pequeñas cadenas hoteler
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
+Usando la información recolectada en los Business Outcomes, Usuarios, Beneficios y Features. Podemos formular nuestras hipótesis, cada una centrada en un Feature a desarrollar.
+
 - **Hipótesis 1:**
 
-**Creemos que** al ofrecer una plataforma integral y fácil de usar para la gestión hotelera, aumentaremos la eficiencia operativa y la rentabilidad de los hoteles. **Se cumplirá si** los propietarios y gerentes **persiban** una disminución visible en el tiempo dedicado a tareas administrativas manuales y un aumento en la utilización activa de Sweet Manager.
+Creemos que podemos ser reconocidos como un referente de soluciones tecnológicas para la gestión hotelera, cuando los propietarios y gerentes de hoteles obtengan una experiencia de usuario fluida y personalizada mediante nuestra interfaz intuitiva y personalizable.
 
 - **Hipótesis 2:**
 
-**Creemos que** al proporcionar herramientas de análisis en tiempo real para la toma de decisiones informadas, mejoraremos la gestión estratégica de los hoteles. **Se cumplirá si** los empleados **persiban** una mayor implementación de cambios basados en datos en la gestión hotelera y una mejora significativa en la eficiencia operativa.
+Creemos que obtendremos un aumento en la eficiencia operativa, si los gerentes y propietarios de hoteles obtienen datos financieros precisos y en tiempo real, mediante el seguimiento de ingresos y gastos en tiempo real.
 
 - **Hipótesis 3:**
 
-**Creemos que** al optimizar la gestión de inventarios y recursos humanos a través de Sweet Manager, mejoraremos la experiencia del cliente en los hoteles. **Se cumplirá si** los propietarios y gerentes **obtengan** un aumento en las calificaciones y comentarios positivos de los huéspedes, así como una mayor fidelización y repetición de negocios.
+Creemos que la mejora en la rentabilidad se logrará si los gerentes de hotel obtienen una gestión optimizada de inventarios y proveedores, mediante la función de gestión de inventarios y relaciones con proveedores de nuestra solución.
 
 - **Hipótesis 4:**
 
-**Creemos que** al facilitar la comunicación y la colaboración entre el personal del hotel mediante Sweet Manager, mejoraremos la coordinación operativa y la satisfacción laboral. **Se cumplirá si** los trabajodes del hotel **noten** una reducción en los malentendidos y errores de comunicación interna, así como un aumento en la productividad y el compromiso del personal.
+Creemos que obtendremos la mayor satisfacción del cliente, si los gerentes de hotel obtienen una administración más eficiente del personal, que podría lograrse mediante nuestros módulos de gestión de personal de nuestra solución.
 
 - **Hipótesis 5:**
 
-**Creemos que** al ofrecer una experiencia transparente de usuario, que mantenga un seguimiento claro de las transacciones y reservas del hotel, aumentaremos la adopción y retención de usuarios. **Se cumplirá si** los propietarios y gerentes **observen** una disminución en la tasa de abandono de la plataforma y un aumento en el número de usuarios activos que utilizan regularmente todas las características disponibles.
+Creemos que la retención de los clientes se logrará, si los gerentes y propietarios de hoteles obtienen una mejor experiencia de gestión centralizada y eficiente, mediante la integración nativa con otros sistemas de gestión hotelera existentes.
+
+- **Hipótesis 6:**
+
+Creemos que la reducción de costos operativos, se conseguirá si los gerentes de hotel obtienen una coordinación y control eficiente de inventarios, mediante la función de gestión de inventarios y relaciones con proveedores de nuestra solución.
+
+- **Hipótesis 7:**
+
+Creemos que la expansión de nuestra presencia en el mercado se logrará si los hoteles de diferentes tamaños obtienen una solución adaptable a sus necesidades específicas con la interfaz intuitiva y personalizable.
 
 #### 1.2.2.4. Lean UX Canvas.
+
+A partir de todo lo que hemos investigado, creamos el Lean UX Canvas.
 
 <TABLE BORDER>
 	<TR>
@@ -592,11 +641,12 @@ La gestión eficiente de hoteles presenta desafíos significativos, incluyendo l
 
 **2. Business Outcomes:**
 
-- **Aumento de la Eficiencia Operativa:** Tras la implementación de Sweet Manager, se espera una reducción del 30% en el tiempo dedicado a tareas administrativas como la gestión de inventarios y recursos humanos, lo que se traducirá en una mejora tangible en la eficiencia operativa del hotel.
-- **Mejora en la Rentabilidad:** Anticipamos un aumento del 15% en el margen de beneficio neto del hotel dentro de seis meses, gracias a una gestión más efectiva de ingresos y recursos que optimiza los costos operativos y maximiza los ingresos.
-- **Mayor Satisfacción del Cliente:** Esperamos ver un aumento de 0.5 puntos en la calificación promedio de satisfacción del cliente en las reseñas en línea después de la implementación de Sweet Manager, lo que reflejará la mejora en la experiencia del cliente debido a una gestión más eficiente y una atención más personalizada.
-- **Retención de los clientes:** Prevemos un aumento del 20% en el número de clientes que realizan reservas repetidas dentro de un año, lo que indica una mayor fidelización gracias a una gestión más efectiva y una experiencia de calidad para los huéspedes.
-- **Reducción de costos:** Esperamos una disminución del 25% en los costos operativos totales del hotel, gracias a la reducción de desperdicios y la optimización de procesos facilitada por la automatización y centralización de la información.
+- **Referente de Soluciones Tecnológicas para la Gestión Hotelera:** Queremos ser reconocidos como uno de los mayores referentes en el mercado de soluciones de software para la gestión hotelera, incorporando constantemente nuevas tecnologías, teniendo un sistema eficiente y productivo para el cliente, con funcionalidades que anticipen, o se adapten, y respondan a sus necesidades.
+- **Aumento de la Eficiencia Operativa:** Tras la implementación de Sweet Manager, esperamos una reducción del 30% en el tiempo dedicado a tareas administrativas como la gestión de inventarios y recursos humanos, lo que se traducirá en una mejora tangible en la eficiencia operativa del hotel.
+- **Mejora en la Rentabilidad:** Con el uso de Sweet Manager, anticipamos un aumento del 15% en el margen de beneficio neto del hotel dentro de seis meses, gracias a una gestión más efectiva de ingresos y recursos que optimiza los costos operativos y maximiza los ingresos.
+- **Mayor Satisfacción del Cliente:** Gracias a Sweet Manager, esperamos ver un aumento de 0.5 puntos en la calificación promedio de satisfacción del cliente en las reseñas en línea, lo que reflejaría la mejora en la experiencia del cliente, gracias a una gestión más eficiente y una atención más personalizada.
+- **Retención de los clientes:** Mediante el uso de Sweet Manager, prevemos un aumento del 20% en el número de clientes que realizan reservas repetidas dentro de un año, lo que indica una mayor fidelización gracias a una gestión más efectiva y una experiencia de calidad para los huéspedes.
+- **Reducción de costos:** Sabremos que nuestra solución es efectiva, cuando veamos una disminución del 25% en los costos operativos totales del hotel, gracias a la reducción de desperdicios y la optimización de procesos facilitada por la automatización y centralización de la información.
 </TD> 
 	</TR>
 	<TR>
@@ -613,15 +663,19 @@ La gestión eficiente de hoteles presenta desafíos significativos, incluyendo l
 
 **6. Hypotheses**
         
-- **Creemos que** al ofrecer una plataforma integral y fácil de usar para la gestión hotelera, aumentaremos la eficiencia operativa y la rentabilidad de los hoteles. **Se cumplirá si** los propietarios y gerentes **persiban** una disminución visible en el tiempo dedicado a tareas administrativas manuales y un aumento en la utilización activa de Sweet Manager.
+- Creemos que podemos ser reconocidos como un referente de soluciones tecnológicas para la gestión hotelera, cuando los propietarios y gerentes de hoteles obtengan una experiencia de usuario fluida y personalizada mediante nuestra interfaz intuitiva y personalizable.
 
-- **Creemos que** al proporcionar herramientas de análisis en tiempo real para la toma de decisiones informadas, mejoraremos la gestión estratégica de los hoteles. **Se cumplirá si** los empleados **persiban** una mayor implementación de cambios basados en datos en la gestión hotelera y una mejora significativa en la eficiencia operativa.
+- Creemos que obtendremos un aumento en la eficiencia operativa, si los gerentes y propietarios de hoteles obtienen datos financieros precisos y en tiempo real, mediante el seguimiento de ingresos y gastos en tiempo real.
 
-- **Creemos que** al optimizar la gestión de inventarios y recursos humanos a través de Sweet Manager, mejoraremos la experiencia del cliente en los hoteles. **Se cumplirá si** los propietarios y gerentes **obtengan** un aumento en las calificaciones y comentarios positivos de los huéspedes, así como una mayor fidelización y repetición de negocios.
+- Creemos que la mejora en la rentabilidad se logrará si los gerentes de hotel obtienen una gestión optimizada de inventarios y proveedores, mediante la función de gestión de inventarios y relaciones con proveedores de nuestra solución.
 
-- **Creemos que** al facilitar la comunicación y la colaboración entre el personal del hotel mediante Sweet Manager, mejoraremos la coordinación operativa y la satisfacción laboral. **Se cumplirá si** los trabajodes del hotel **noten** una reducción en los malentendidos y errores de comunicación interna, así como un aumento en la productividad y el compromiso del personal.
+- Creemos que obtendremos la mayor satisfacción del cliente, si los gerentes de hotel obtienen una administración más eficiente del personal, que podría lograrse mediante nuestros módulos de gestión de personal de nuestra solución.
 
-- **Creemos que** al ofrecer una experiencia transparente de usuario, que mantenga un seguimiento claro de las transacciones y reservas del hotel, aumentaremos la adopción y retención de usuarios. **Se cumplirá si** los propietarios y gerentes **observen** una disminución en la tasa de abandono de la plataforma y un aumento en el número de usuarios activos que utilizan regularmente todas las características disponibles.</TD>
+- Creemos que la retención de los clientes se logrará, si los gerentes y propietarios de hoteles obtienen una mejor experiencia de gestión centralizada y eficiente, mediante la integración nativa con otros sistemas de gestión hotelera existentes.
+
+- Creemos que la reducción de costos operativos, se conseguirá si los gerentes de hotel obtienen una coordinación y control eficiente de inventarios, mediante la función de gestión de inventarios y relaciones con proveedores de nuestra solución.
+
+- Creemos que la expansión de nuestra presencia en el mercado se logrará si los hoteles de diferentes tamaños obtienen una solución adaptable a sus necesidades específicas con la interfaz intuitiva y personalizable.</TD>
 
 <TD ROWSPAN=2>
 
@@ -674,6 +728,8 @@ Definir claramente los objetivos y métricas de éxito: Antes de avanzar en el d
 
 ## 1.3. Segmentos objetivo.
 
+A partir de nuestros usuarios asumidos, logramos encontrar nuestros segmentos objetivos a los que va dirigido nuestra solución.
+
 **Usuarios:**
 
 - **Propietarios y Gerentes de Hoteles:** 
@@ -698,7 +754,11 @@ Definir claramente los objetivos y métricas de éxito: Antes de avanzar en el d
 
 # Capítulo II: Requirements Elicitation & Analysis
 
+En este capítulo, nos centraremos en los requerimientos que necesita cumplir nuestra solución para que sea viable, y los análisis necesarios.
+
 ## 2.1. Competidores.
+
+Empezando con los competidores a los que nos enfrentaremos con nuestra solución, su análisis competitivo, junto a nuestras estrategias y tácticas para hacerlas frente.
 
 Facebook (Indirecto): <br>
 En Facebook, los usuarios pueden crear perfiles personales, agregar amigos, publicar actualizaciones de estado, compartir fotos y videos, unirse a grupos y páginas, enviar mensajes privados, participar en eventos, jugar juegos y muchas otras actividades. La plataforma se ha expandido enormemente con el tiempo, integrando funciones como Facebook Marketplace (un mercado en línea), Facebook Watch (una plataforma de vídeo), y Facebook Messenger (una aplicación de mensajería instantánea). Lo cual implica que los gerentes de hoteles busquen empresas que brinden soluciones por medio de publicaciones en dicha plataforma.
@@ -793,6 +853,8 @@ En esta sección, se registrarán las acciones tomadas para la realización de l
 
 ### 2.2.1. Diseño de entrevistas.
 
+En esta sección, se documentarán las preguntas que se utilizaron en nuestras entrevistas, contiendo las preguntas generales que se comparten entre los segmentos objetivos, y las preguntas que fueron creadas específicamente para cada una.
+
 **Preguntas complementarias generales**
 - ¿Qué navegador usas con más frecuencia?<br>
 - ¿Qué dispositivo tecnológico usas con más frecuencia?<br>
@@ -830,6 +892,8 @@ En esta sección, se registrarán las acciones tomadas para la realización de l
 - ¿Qué herramientas o recursos adicionales les ayudarán a ofrecer un mejor servicio a los huéspedes y mejorar su experiencia general en el hotel?
 
 ### 2.2.2. Registro de entrevistas.
+
+A continuación, se registraron todas las entrevistas realizadas para nuestra solución, categorizadas según su segmento objetivo, y con un resumen que destaca las características y críticas realizadas sobre nuestro proyecto.
 
 **Entrevista 1 (Gerentes)**
 URL del Vídeo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211572_upc_edu_pe/EWoNpMhrd09Epsgdo-svB8EBZ-qMZUkK4yBkZVo10PFfYg?e=4nV4OI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
@@ -904,7 +968,7 @@ Duracion de la entrevista: 0:35 - 7:44<br>
 <br>En resumen, Leonardo Ruiz es una empleado de hotel con poca experiencia laboral en el mercado, sin embargo, demuestra su incomodidad por la falta de herramientas que requiere para facilitar su trabajo ya sea individual o colectivo, lo cual ayudaria a mejorar la produccion en el hotel.El trabajador menciona que llevar un control de inventario y las asignaciones ayudarian a aliviar su carga laboral y mejorar su produccion en el hotel.
 
 ### 2.2.3. Análisis de entrevistas.
-
+Para concluir, en el apartado de análisis, usamos métricas obtenidas a partir de las preguntas que fueron respondidas, y la frecuencia de ciertas respuestas encontradas en las entrevistas.<br>
 A continuación, se mostraran las preguntas complementarias generales realizadas, juntos a los porcentajes de las respuestas:<br>
 - **Preguntas complementarias generales**
 
@@ -960,35 +1024,37 @@ Estas fichas de User Persona se basan en el análisis de entrevistas y en el est
 
 Tareas con mayor frecuencia e importancia:<br>
 
-Supervisión del staff: Esta tarea es crucial tanto para el gerente como para el trabajador, ya que garantiza que todas las funciones y roles asignados se cumplan de manera organizada, eficiente y correcta.<br>
+- Supervisión del staff: Esta tarea es crucial tanto para el gerente como para el trabajador, ya que garantiza que todas las funciones y roles asignados se cumplan de manera organizada, eficiente y correcta.<br>
 
-Distribución de recursos a las habitaciones: Esta tarea es de alta importancia para el gerente, ya que implica que el cliente se sienta satisfecho y cumpla con sus expectativas que tiene sobre el hotel. Para el empleado, es tarea de alta importancia porque facilita el control de distribución para cada área del hotel.<br>
+- Distribución de recursos a las habitaciones: Esta tarea es de alta importancia para el gerente, ya que implica que el cliente se sienta satisfecho y cumpla con sus expectativas que tiene sobre el hotel. Para el empleado, es tarea de alta importancia porque facilita el control de distribución para cada área del hotel.<br>
 
-Evaluación de desempeño del staff: Tanto el gerente como el empleado realizan esta tarea con alta frecuencia e importancia, ya que asegura que el hotel tenga trabajadores y administradores que cumplan correctamente con su rol y función de manera rápida y organizada siguiendo los estándares del hotel.<br>
+- Evaluación de desempeño del staff: Tanto el gerente como el empleado realizan esta tarea con alta frecuencia e importancia, ya que asegura que el hotel tenga trabajadores y administradores que cumplan correctamente con su rol y función de manera rápida y organizada siguiendo los estándares del hotel.<br>
 
-Cumplimiento normativo: Esta tarea es de alta importancia para el gerente, ya que garantiza tanto para el trabajador como para el gerente de hotel, el cumplimiento normativo implica seguir los procedimientos y políticas establecidos, así como garantizar que todas las actividades se realicen de acuerdo con las normativas y regulaciones aplicables en la industria hotelera.
+- Cumplimiento normativo: Esta tarea es de alta importancia para el gerente, ya que garantiza tanto para el trabajador como para el gerente de hotel, el cumplimiento normativo implica seguir los procedimientos y políticas establecidos, así como garantizar que todas las actividades se realicen de acuerdo con las normativas y regulaciones aplicables en la industria hotelera.
 
-Programacion turnos de trabajo: La programación de turnos de trabajo implica coordinar las necesidades del hotel con la disponibilidad del personal para asegurar un funcionamiento eficiente y efectivo del hotel. Tanto los trabajadores como los gerentes de hotel juegan un papel importante en este proceso, cada uno con diferentes niveles de responsabilidad y autoridad.
+- Programacion turnos de trabajo: La programación de turnos de trabajo implica coordinar las necesidades del hotel con la disponibilidad del personal para asegurar un funcionamiento eficiente y efectivo del hotel. Tanto los trabajadores como los gerentes de hotel juegan un papel importante en este proceso, cada uno con diferentes niveles de responsabilidad y autoridad.
 
-Capacitación del staff: La capacitación del personal es fundamental tanto para los trabajadores como para los gerentes de hotel para garantizar que el personal esté bien preparado y tenga las habilidades necesarias para brindar un servicio de calidad a los huéspedes y contribuir al éxito general del hotel.<br>
+- Capacitación del staff: La capacitación del personal es fundamental tanto para los trabajadores como para los gerentes de hotel para garantizar que el personal esté bien preparado y tenga las habilidades necesarias para brindar un servicio de calidad a los huéspedes y contribuir al éxito general del hotel.<br>
 
-Control el check-in y el check-out del huésped: Estas tareas son cruciales para ambos segmentos, ya que permite llevar un control de los huéspedes y asignaciones de habitaciones de tal manera que se facilite la limpieza, mantenimiento en la habitación, distribución y/o asignación de nuevos recursos.
+- Control el check-in y el check-out del huésped: Estas tareas son cruciales para ambos segmentos, ya que permite llevar un control de los huéspedes y asignaciones de habitaciones de tal manera que se facilite la limpieza, mantenimiento en la habitación, distribución y/o asignación de nuevos recursos.
 
 Principales diferencias y coincidencias entre lo realizado por los User Personas:<br>
 
 Diferencias:<br>
 
-La negociación con proveedores es una tarea de alta importancia para el gerente pero de baja importancia para el personal de trabajo. Esto refleja el nivel de responsabilidad y la naturaleza estratégica de las decisiones que el gerente toma en comparación con las tareas más operativas del empleado.<br>
+- La negociación con proveedores es una tarea de alta importancia para el gerente pero de baja importancia para el personal de trabajo. Esto refleja el nivel de responsabilidad y la naturaleza estratégica de las decisiones que el gerente toma en comparación con las tareas más operativas del empleado.<br>
 
-La respuesta de preguntas y solicitudes es una tarea de alta importancia para el personal de trabajo, ya que son los que más interactúan con los huéspedes y tienen una mayor facilidad de atender dichas preguntas y solicitudes por parte de los huéspedes. Por otra parte, es de baja importancia para el gerente porque su función va más relacionada a la parte lógica y administrativa del negocio.<br>
+- La respuesta de preguntas y solicitudes es una tarea de alta importancia para el personal de trabajo, ya que son los que más interactúan con los huéspedes y tienen una mayor facilidad de atender dichas preguntas y solicitudes por parte de los huéspedes. Por otra parte, es de baja importancia para el gerente porque su función va más relacionada a la parte lógica y administrativa del negocio.<br>
 
 Coincidencias:<br>
 
-Tanto el gerente como el empleado participan en la evaluación del desempeño del personal, lo que destaca la importancia compartida de garantizar un equipo bien capacitado y motivado para brindar un servicio de calidad.
+- Tanto el gerente como el empleado participan en la evaluación del desempeño del personal, lo que destaca la importancia compartida de garantizar un equipo bien capacitado y motivado para brindar un servicio de calidad.
 
-La elaboración de informes financieros y contables es una tarea de alta importancia para ambos roles, lo que resalta la necesidad de tomar decisiones basadas en datos para mejorar la eficiencia operativa y la experiencia del huésped.
+- La elaboración de informes financieros y contables es una tarea de alta importancia para ambos roles, lo que resalta la necesidad de tomar decisiones basadas en datos para mejorar la eficiencia operativa y la experiencia del huésped.
 
 ### 2.3.3. User Journey Mapping.
+
+En esta sección se presentarán los User Journey Mapping para cada user persona, detallando las etapas clave de interacción con SweetManager, sus puntos de contacto, y las experiencias y emociones asociadas en cada paso. El objetivo es identificar oportunidades de mejora y optimizar la experiencia del usuario. A continuación se describen los User Journey Maps para cada perfil de usuario:
 
 User Journey Map - Carlos Rebagliati - Gerente (As-Is):<br>
 Inicio del día: El gerente comienza el día revisando los informes financieros y preparando la agenda para el día. Se siente estresado por la cantidad de tareas pendientes y la presión para garantizar que todo funcione sin problemas.<br>
@@ -1024,7 +1090,7 @@ En resumen, los trabajadores ven a sus compañeros de trabajo cansados e incómo
 
 ### 2.3.5. As-is Scenario Mapping.
 
-En esta sección presentamos los 2 As-Is Scenario Mapping, 1 para cada segmento.<br>
+En esta seccion se presentan los Scenario Mapping para los segmentos de gerentes y trabajadores, que describen cómo son las experiencias actuales de los usuarios en sus tareas diarias.<br>
 
 El link para ambos Scenario Mapping es: https://lucid.app/lucidspark/6d541f3f-440a-40fc-b3a7-1461742dc65e/edit?viewport_loc=2162%2C964%2C2846%2C1413%2C0_0&invitationId=inv_0e4e4622-20f9-43c4-ac8a-c034737fb585
 
@@ -1039,6 +1105,8 @@ En resumen, Carlos Rebagliati (User Persona) del segmento gerentes, realiza los 
 En resumen, Juan Perez (User Persona) del segmento trabajadores, realiza los escenarios mostrados anteriormente. Entre ellos, ser asignado a un rol de trabajador por un determinado tiempo, recibir instrucciones sobre sus tareas diarias como limpieza, presentar problemas, identificación de solución y ejecución de soluciones. 
 
 ## 2.4. Ubiquitous Language.
+
+En esta sección, nos centraremos en definir el significado de ciertos términos utilizados en el ambiente de nuestra solución en la gestión hotelera.
 
 Check - In :
 Definition: Process by which a guest registers their arrival at the hotel, provides the necessary information and receives the key to their room.<br>
@@ -1076,10 +1144,70 @@ Definition: The practice of monitoring and managing the hotel's physical assets,
 Task management:
 Definition: The organization and tracking of tasks and responsibilities within the hotel, ensuring that deadlines are met and workflows are optimized.
 
+Check - Out:
+Definition: Process by which a guest completes their stay at the hotel, makes final payment, and returns the room key.<br>
+
+Role:
+Definition: Worker role to a specific area.<br>
+
+Staff:
+Definition: They represent all hotel workers. They perform various tasks and responsibilities needed for the organization to operate.<br>
+
+Reservation:
+Definition: Booking of a room by a guest.<br>
+
+Occupancy:
+Definition: The percentage of rooms occupied in the hotel over a specified period of time.<br>
+
+Rate:
+Definition: The price per night for a room.<br>
+
+House Rules:
+Definition: Policies and regulations of the hotel that guests are required to follow.<br>
+
+Type of Reservation:
+Definition: List of types of reservations.<br>
+
+Housekeeping:
+Definition: The department responsible for cleaning and maintaining the rooms.<br>
+
+Inventory management:
+Definition: The process of overseeing and controlling the hotel's supply of goods and materials, ensuring that adequate stock levels are maintained while minimizing costs and waste.<br>
+
+Asset tracking:
+Definition: The practice of monitoring and managing the hotel's physical assets, such as furniture, equipment, and fixtures, to ensure they are utilized efficiently and maintained properly.<br>
+
+Staff scheduling:
+Definition: The process of creating and managing work schedules for hotel employees, taking into account factors such as shift rotations, staffing levels, and employee availability.<br>
+
+Task management:
+Definition: The organization and tracking of tasks and responsibilities within the hotel, ensuring that deadlines are met and workflows are optimized.<br>
+
+Resource allocation:
+Definition: The allocation and distribution of resources, such as staff, equipment, and funds, to different areas of the hotel based on operational needs and priorities.<br>
+
+Vendor management:
+Definition: The coordination and oversight of relationships with external suppliers and vendors, including negotiating contracts, monitoring performance, and ensuring timely delivery of goods and services.<br>
+
+Quality control:
+Definition: The process of monitoring and evaluating the quality of products and services offered by the hotel, identifying areas for improvement, and implementing measures to maintain or enhance quality standards.<br>
+
+Cost management:
+Definition: The control and optimization of expenses within the hotel, including labor costs, operating expenses, and capital expenditures, to maximize profitability and efficiency.<br>
+
+Data analytics:
+Definition: The use of data analysis techniques to extract insights and patterns from hotel operations data, enabling informed decision-making and strategic planning.<br>
+
+Risk management:
+Definition: The identification, assessment, and mitigation of risks when resources are limited at any moment.<br>
 
 # Capítulo III: Requirements Specification
 
+En este capítulo, nos centraremos en definir los requerimientos que debemos cumplir para el exito de nuestra solución.
+
 ## 3.1. To-Be Scenario Mapping.
+
+En este apartado se presentan los To-Be Scenario Mapping para los segmentos de gerentes y trabajadores, que describen cómo serán las interacciones y tareas de los usuarios con el sistema de gestión hotelera una vez implementado. Estos mapas proporcionan una visión general de las funcionalidades y características que se espera que tenga el producto final, y sirven como guía para el diseño y desarrollo del sistema.
 
 Segmento 1:
 
@@ -1093,71 +1221,54 @@ Segmento 2:
 
 El To-Be Scenario Mapping para el segmento Trabajadores.
 
-
 ## 3.2. User Stories.
 
-## 3.2. User Stories.
+Redactamos las historias de usuario para el sistema de gestión hotelera basándonos en las necesidades y desafíos identificados en las entrevistas y el análisis de los segmentos de gerentes y trabajadores. Las historias de usuario describen las funcionalidades y características que los usuarios finales esperan del sistema, y se utilizan para guiar el diseño y desarrollo del producto.
 
-| Story ID | Título | Descripción | Criterios de Aceptación | Epic ID |
-|----------|--------|-------------|--------------------------|---------|
-| HU01 | Actualización de las habitaciones disponibles | Como gerente deseo un sistema que automáticamente cambie el estado de los dormitorios dependiendo si alguien la reservó o no para mantener actualizado su estado. | **Given:** el sistema tiene información sobre las habitaciones <br> **When:** un usuario ingresa la información de una nueva habitación o modifica el estado de una habitación existente. <br> **Then:** El sistema valida la información ingresada y actualiza en la base de datos. | EPIC01 |
-| HU02 | Asignamiento de tareas a empleados | Como gerente, deseo asignar tareas a los empleados para distribuir eficientemente las responsabilidades y mejorar la productividad. | **Given:** el sistema tiene información sobre los empleados. <br> **When:** un gerente selecciona un empleado y le asigna una tarea. <br> **Then:** El sistema asigna la tarea al empleado y se registra en la base de datos. El sistema envía una notificación al empleado sobre la tarea. | EPIC01 |
-| HU03 | Notificaciones de baja en el inventario | Como gerente, deseo recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros. | **Given:** el sistema tiene información del inventario <br> **When:** el nivel de inventario de un artículo es bajo <br> **Then:** El sistema envía una notificación al gerente con la información del artículo. | EPIC01 |
-| HU04 | Ocupación de habitaciones en tiempo real | Como gerente, deseo visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones. | **Given:** el usuario quiere visualizar el estado de las habitaciones. <br> **When:** el usuario ingresa a la inversa de habitaciones <br> **Then:** El sistema muestra una vista en tiempo real de la ocupación de las habitaciones. | EPIC01 |
-| HU05 | Alertas de mantenimiento programado | Como gerente, deseo recibir alertas de mantenimiento programado para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados. | **Given:** dado que el sistema tiene los mantenimientos <br> **When:** se acerca la fecha programada <br> **Then:** el sistema envía la alerta del evento programado. | EPIC01 |
-| HU06 | Administración de permisos de los empleados | Como gerente, deseo gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio. | **Given:** acceso al sistema <br> **When:** un gerente accede a la interfaz de administración de permisos. <br> **Then:** El sistema muestra una lista de empleados con sus roles y permisos actuales para que estos puedan ser editados. | EPIC01 |
-| HU07 | Programación de turnos de trabajo | Como gerente, deseo programar turnos de trabajo automáticamente para optimizar la asignación de personal y evitar conflictos de horarios. | **Given:** el sistema información sobre los empleados <br> **When:** un gerente accede a la interfaz de programación de turnos. <br> **Then:** El gerente puede seleccionar un empleado y asignarle un turno en un horario disponible. | EPIC01 |
-| HU08 | Seguimiento de gastos | Como gerente, deseo poder realizar seguimiento de gastos implementados para controlar los costos y optimizar la rentabilidad del negocio. | **Given:** el sistema tiene información sobre los gastos realizados. <br> **When:** el usuario ingresa al panel de gastos. <br> **Then:** el sistema muestra el seguimiento de los gastos. | EPIC01 |
-| HU09 | Gestión de servicios adicionales | Como gerente, deseo gestionar la disponibilidad de servicios adicionales para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente. | **Given:** cuando el gerente desea gestionar los servicios adicionales. <br> **When:** cuando se ingresa a la interfaz de servicios adicionales. <br> **Then:** el sistema actualiza los servicios adicionales. | EPIC01 |
-| HU10 | Notificaciones de comentarios | Como gerente, deseo recibir notificaciones de comentarios y opiniones de clientes para responder rápidamente a las necesidades y preocupaciones de los clientes. | **Given:** el gerente tiene permisos para ver y responder a los comentarios de los clientes. <br> **When:** el cliente envía un comentario a través del sistema. <br> **Then:** el sistema envía una notificación al gerente sobre el nuevo comentario. | EPIC01 |
-| HU11 | Creación de promociones | Como gerente, deseo poder crear promociones y ofertas especiales para atraer a más clientes y aumentar las ventas. | **Given:** el sistema cuenta con módulo para administrar promociones. <br> **When:** El gerente accede a la interfaz de creación de promociones. <br> **Then:** El sistema guarda la promoción en la base de datos. El sistema muestra la promoción en la interfaz de usuario para los clientes. | EPIC01 |
-| HU12 | Registro de proveedores | Como gerente, deseo mantener un registro de los proveedores para gestionar eficientemente las relaciones comerciales y los suministros. | **Given:** El sistema tiene un módulo para gestionar el registro de proveedores. <br> **When:** El gerente accede a la interfaz de registro de proveedores. <br> **Then:** El sistema permite al gerente ingresar la información del proveedor | EPIC01 |
-| HU13 | Seguimiento del cliente | Como gerente, deseo poder realizar seguimiento de la satisfacción del cliente para identificar áreas de mejora y garantizar una experiencia de calidad. | **Given:** El sistema tiene información sobre las reservas de los clientes y sus experiencias en el hotel. <br> **When:** Un cliente se hospeda en el hotel. <br> **Then:** El sistema permite al gerente acceder a la información del cliente, incluyendo su historial de reservas, comentarios y solicitudes. | EPIC01 |
-| HU14 | Administración de facturas de servicios | Como gerente, deseo poder generar facturas para los servicios adicionales para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes. | **Given:** El sistema tiene información sobre los servicios adicionales consumidos por los huéspedes. <br> **When:** El huésped realiza el check-out. <br> **Then:** El sistema genera una factura de servicios para el huésped, incluyendo la descripción del servicio, el precio y el total. | EPIC01 |
-| HU15 | Notificaciones de cambio de agenda | Como empleado, deseo recibir notificaciones de cambios en mi agenda laboral para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia. | **Given:** El sistema tiene información sobre los turnos de trabajo de los empleados. <br> **When:** El gerente modifica un turno de trabajo asignado a un empleado. <br> **Then:** El sistema envía una notificación al empleado sobre el cambio de turno. | EPIC02 |
-| HU16 | Automatización de cambio de estado de las habitaciones | Como empleado, deseo registro automático de estado de limpieza de las habitaciones para tener actualizado el estado de limpieza de todas las habitaciones. | **Given:** Los empleados de limpieza tienen permisos para registrar el estado de las habitaciones. <br> **When:** Un empleado limpia una habitación. <br> **Then:** El sistema actualiza el estado de la habitación en la base de datos. | EPIC02 |
-| HU17 | Información de procedimientos según el caso | Como empleado, deseo poder acceder a manuales de procedimientos para aprender a ejecutar procedimientos según el caso. | **Given:** El sistema tiene una biblioteca de manuales de procedimientos. <br> **When:** Un empleado accede a la biblioteca de procedimientos. <br> **Then:** El sistema muestra una lista de manuales de procedimientos disponibles. | EPIC02 |
-| HU18 | Registro de estado de suministros | Como empleado, deseo poder registrar el estado de los suministros para mantener un control preciso del inventario. | **Give:** El sistema tiene información sobre el nivel de inventario de los suministros. <br> **When:** Un empleado utiliza un suministro. <br> **Then:** El sistema permite al empleado registrar la cantidad de suministro utilizada. El sistema actualiza el nivel de inventario del suministro en la base de datos. | EPIC02 |
-| HU19 | Reporte de problemas a la gerencia | Como empleado, deseo poder reportar problemas para comunicar a los gerentes del problema. | **Given:** El sistema tiene un módulo para reportar problemas. <br> **When:** Un empleado observa un problema en el hotel. <br> **Then:** El sistema guarda el reporte del problema en la base de datos. | EPIC02 |
-| HU20 | Registro de check-in del huésped | Como empleado, deseo registrar el check-in del huésped para registrar y confirmar su estadía en el hotel. | **Given:** El sistema tiene información sobre las reservas de los huéspedes. <br> **When:** Un cliente hace check-in <br> **Then:** El sistema valida la reserva | EPIC02 |
-| HU21 | Registro de check-out del huésped | Como empleado, deseo registrar el check-out del huésped para registrar y confirmar su salida del hotel. | **Given:** El sistema tiene información sobre las reservas de los huéspedes y los cargos pendientes. <br> **When:** Un huésped desea realizar el check-out del hotel. <br> **Then:** El sistema libera la habitación para que sea asignada a otro huésped. El sistema imprime una factura final para el huésped. | EPIC02 |
-| HU22 | Perfil de usuario en Front-End Application | Cómo developer, deseo mostrar el perfil del usuario para informar al usuario su información personal registrada. | **Given:** El sistema tiene la información de todos los usuarios <br> **When:** Él developer requiere la información de un usuario en específico. <br> **Then:** El sistema filtra los usuarios y le regresara el usuario requerido | EPIC03 |
-| HU23 | Inicio de Sesión en Front-End Application | Como developer, deseo mostrar inicio de sesión. para permitir al usuario ingresar sus credenciales e ingresar. | **Given:** El sistema tiene la información de acceso el sistema <br> **When:** Se da click en iniciar secion se envian los datos al sistema y me valida el inicio de sesión <br> **Then:** Si el inicio es correcto se permite ingresar a la aplicación | EPIC03 |
-| HU24 | Registro de cuenta en Front-End Application | Como developer, deseo mostrar el registro de cuenta para permitir a la organización ingresar sus credenciales y crear cuenta. | **Given:** El sistema recibe un registro de nuevo usuario. <br> **When:** El usuario ingresa sus datos y se registra en la aplicación <br> **Then:** El sistema crea la cuenta de usuario | EPIC03 |
-| HU25 | Planes de suscripción en Front-End Application | Como developer, deseo mostrar los planes de suscripción para permitir al usuario seleccionar su plan de suscripción. | **Given:** El sistema tiene almacenado todas las suscripciones disponibles <br> **When:** El usuario usa el apartado de suscripciones <br> **Then:** El sistema me dará todas las suscripciones a | EPIC03 |
-| HU26 | Proceso de pago en Front-End Application. | Cómo developer, deseo mostrar el proceso de pago para permitir al usuario ingresar sus datos bancarios y confirmar el pago. | **Given:** El sistema es la conexión con el sistemas de pagos <br> **When:** El usuario debe realizar algún pago <br> **Then:** El sistema genera el link de pago, si el pago es exitoso se confirma la compra, de caso contrario se informa al usuario el error de proceso de compra | EPIC03 |
-| HU27 | Dashboard en Front-End Application  | Cómo developer, deseo mostrar un dashboard en la página principal para mostrar al usuario los resúmenes de actividades y movimientos recientes. | **Given:** El sistema tiene la información de cada usuario <br> **When:** El usuario quiere saber su resumen de actividades <br> **Then:** El sistema obtendrá las actividades del usuario. En caso el usuario no tenga actividad recientes no se mostrará, de caso contrario se mostrará el resumen de las actividades. | EPIC03 |
-| HU28 | Reportes Estadísticos en Front-End Application | Cómo developer, deseo mostrar reportes estadísticos para informar al usuario de manera gráfica. | **Given:** El sistema tiene la información de los reportes <br> **When:** La aplicación debe mostrar los reportes estadísticos <br> **Then:** El sistema debe responder los valores filtrados para realizar las estadísticas. | EPIC03 |
-| HU29 | Control de Inventarios en Front-End Application | Cómo developer, deseo mostrar un control de inventarios para informar al usuario sobre la cantidad de productos o recursos restantes en su inventario. | **Given:** El sistema tiene información de la cantidad de productos <br> **When:** Se requiere información sobre el inventario <br> **Then:** El sistema debe responder con la información de productos restante. | EPIC03 |
-| HU30 | Gestión de Proveedores en Front-End Application  | Cómo developer, deseo mostrar tabla de proveedores para permitir al usuario ver, agregar, editar y eliminar un registro. | **Given:** El sistema tiene información sobre los proveedores <br> **When:** Se agregue o elimine registros <br> **Then:** El sistema valida la información para agregar o eliminar, si el proveedor ya existe no se podrá agregar, asi mismo no se podrá eliminar si se proporciona un proveedor no valido (id). | EPIC03 |
-| HU31 | Gestión de clientes en Front-End Application | Cómo developer, deseo mostrar tabla de clientes para permitir al usuario ver y manipular los registros. | **Given:** El sistema almacena el registro de los clientes <br> **When:** El usuario entre al apartado de registros. <br> **Then:** La aplicación mostrará en pantalla la tabla de clientes. | EPIC03 |
-| HU32 | Solicitud de Abastecimiento en Front-End Application | Cómo developer, deseo mostrar  información de la solicitud para permitir al usuario ver y manipular su información. | **Given:** El sistema tiene la información de todas las solicitudes <br> **When:** Se requiere información de una solicitud <br> **Then:** El sistema busca la solicitud, si se encontró se responde con la información de esta, de caso contrario se responde con el error 404. | EPIC03 |
-| HU33 | Lista de Productos en Front-End Application | Cómo developer, deseo mostrar tabla de productos para permitir al usuario ver y manipular los registros. | **Given:** El sistema tiene información de todos los productos <br> **When:** Se requiere todos los productos <br> **Then:** El sistema le responde con la información de todos los productos | EPIC03 |
-| HU34 | Internacionalización (i18n) en Front-End Application. | Como developer deseo i18n en la aplicación para volver el software accesible a cualquier persona. | **Given:** El sistema tiene internacionalización implementada. <br> **When:** El usuario deslice el switch de idioma. <br> **Then:** La aplicación cambiará el idioma del contenido. | EPIC03 |
-| HU35 | Barra de navegación en Landing Page | Como usuario, deseo navegar fácilmente en una página mediante barra de navegación para acceder a la información de la aplicación fácilmente. | **Given:**El usuario desea tener una buena experiencia con la interfaz. <br> **When:** El usuario navegue por la barra de tareas. <br> **Then:** La interfaz y su fácil lectura facilitará el acceso a la información. | EPIC04 |
-| HU36 | Redes sociales en sección footer en Landing Page | Como usuario deseo visualizar el contacto y redes sociales de Sweet Manager para tener más información. | **Given:** El usuario llega al final de la página <br> **When:** Se hace scroll en la landing page <br> **Then:** Se mostrará el footer proporcionado una información extra. | EPIC04 |
-| HU37 | Sección “Conoce Más” en la Landing Page | Como usuario deseo una sección “Conoce Más” para entender lo que ofrece la aplicación. | **Given:** El usuario desea conocer todo sobre el servicio. <br> **When:** Al darle click en “Conoce Más” <br> **Then:** La aplicación mostrará información importante del servicio. | EPIC04 |
-| HU38 | Sección “Beneficios” en Landing Page | Como usuario, deseo una sección “beneficios” para conocer distintas características que aseguran beneficios. | **Given:** El usuario quiere saber los “pros” de la aplicación. <br> **When:** El usuario use el apartado de “beneficios” <br> **Then:** El sistema mostrará en pantalla todos los beneficios ofrecidos. | EPIC04 |
-| HU39 | Sección Hero en la Landing Page  | Como usuario, deseo una sección hero para tener una idea visual del servicio que ofrece Sweet Manager. | **Given:** El usuario quiere ver lo ofrecido por el servicio. <br> **When:** Entre a la sección hero. <br> **Then:** La aplicación se redirigirá a la landing page del servicio. | EPIC04 |
-| HU40 | Sección “planes” en la Landing Page | Como usuario, deseo una sección “planes” para conocer los planes que ofrece la aplicación y sus características.  | **Given:** El sistema tiene distintos planes para ofrecer. <br> **When:** El usuario entre al apartado de “planes” <br> **Then:** El sistema mostrará los distintos planes con todo lo que ofrece. | EPIC04 |
-| HU41 | Web Design Responsive para Landing Page | Como usuario, deseo responsivo el diseño de la landing page para no tener complicaciones de ver la información en ningún dispositivo. | **Given:** La aplicación puede abrirse de distintos dispositivos <br> **When:** El usuario decida abrir la aplicación. <br> **Then:** El sistema ajustará la vista de acuerdo a las dimensiones de la pantalla. | EPIC04 |
-| HU42 | Autenticación por Roles vía Restful  API | Como developer, deseo autenticación por roles para restringir las vistas y los recursos. | **Given:** El sistema tiene información por roles <br> **When:** El usuario se autentique en la aplicación <br> **Then:** El sistema muestra solo lo designado para el rol específico. | EPIC05 |
-| HU43 | Inicio de sesión vía Restful API | Como developer, deseo iniciar sesión mediante Restful API para validar la información recibida y permitir acceso al servicio. | **Given:** El usuario deseas iniciar sesión <br> **When:** Se envía la solicitud de inicio de sesión <br> **Then:** El sistema valida el inicio de sesión si falla en alguna validación responde como solicitud inválida, de caso contrario se genera la sesión de usuario. | EPIC05 |
-| HU44 | Método de pago para suscripcion via Restful  API | Como developer, deseo la funcionalidad de pago Paypal vía Api Restful para asegurar el pago en la suscripción del consumidor. | **Given:** Se ejecuta el proceso de pago <br> **When:** Se paga alguna suscripción <br> **Then:** El sistema ejecuta el proceso de pago, y espera por la confirmación de este, en caso de errores el sistema informa por medio de “response”, si la transacción es correcta se registra la información y se responde con la confirmación del pago. | EPIC06 |
-| HU45 | Registro de hoteles mediante Restful API  | Como developer, deseo registrar  hoteles  para que las  organizaciones interesadas se suscriban al servicio. | **Given:** La aplicación puede almacenar distintas empresas <br> **When:** Un hotel se suscribe mediante el pago de suscripción. <br> **Then:** El sistema agrega la información del hotel y le da permisos de uso de la aplicación. | EPIC06 |
-| HU46 | Pago para realizar Check-Out mediante Restful API | Como developer, deseo  funcionalidad pago con Paypal a través de Restful API para el  checkout del hotel. | **Given:** El usuario hace checkout <br> **When:** Se confirma la acción de checkout <br> **Then:** El sistema verifica algún consumo de cliente, en caso hayan consumo se debe proceder a realizar el pago de estos, de caso contrario el sistema registrar el check-out exitosos. | EPIC06 |
-| HU47 | Información de Perfil mediante Restful API | Como developer, deseo obtener información de perfil mediante Restful API para devolver información de una organización en concreto.   | **Given:** Se requiere información del usuario. <br> **When:** Se hace la petición hacia el sistema. <br> **Then:** Se obtiene el usuario, y se responde con la información de este, si en caso no se encuentre el usuario responde con error de “user not found”. | EPIC06 |
-| HU48 | Información de trabajadores con Restful API | Como developer deseo obtener la información de trabajadores mediante Restful API para mostrar o manipular la información en operaciones. | **Given:** El sistema guarda la información de los trabajadores <br> **When:** Se requiera manipular la información <br> **Then:** Se ejecutará una operación con la información brindada vía Restful API. | EPIC06 |
-| HU49 | Notificaciones con Restful API | Como developer deseo obtener lista de notificaciones mediante Restful API para mostrar las notificaciones. | **Given:** Se desea el envío de notificaciones. <br> **When:** Se detecta el requerimiento de envío de notificación. <br> **Then:** El sistema envía la notificación al cliente, este debe contener la razón de notificación, así como información adicional. | EPIC06 |
-| HU50 | Lista de Proveedores con Restful API | Como developer deseo recuperar información de proveedores mediante Restful API para devolver lista de proveedores de cierta compañía. | **Given:** El sistema almacene la información de proveedores vía Restful API. <br> **When:** El gerente acceda a la sección proveedores. <br> **Then:** El sistema mostrará una lista donde estarán los proveedores de cierta compañía. | EPIC06 |
-| HU51 | Detalle de recursos con Restful API | Como developer deseo obtener detalle de recursos mediante Restful API para mostrar el detalle de recursos en pantalla. | **Given:** Se requiere la información de recursos <br> **When:** Se desee ver detalles de recursos <br> **Then:** El sistema mostrará con detalles la información solicitada vía Restful API. | EPIC06 |
-| HU52 | Ganancias y pérdidas de dinero dentro de un lapso de tiempo con Restful API | Como developer deseo recibir información de ganancias y pérdidas dependiendo de cualquier lapso de tiempo para implementarlo en algún módulo. | **Given:** Se solicita información económica de la compañía. <br> **When:** Se seleccione un lapso de tiempo <br> **Then:** El sistema mostrará de acuerdo a las fechas seleccionadas las ganancias y pérdidas. | EPIC06 |
-| HU53 | Lista de clientes con Restful API | Como developer deseo recibir una lista de clientes mediante Restful API para mostrar o manipular la información. | **Given:** Se requiere la lista de cliente <br> **When:** Se desea mostrar la vista de todos los clientes. <br> **Then:** El sistema responde con la lista de todos los clientes, en caso existiera algún filtro se aplica el respectivo filtro. | EPIC06 |
-| HU54 | Funcionalidad para Check In con Restful API | Como developer deseo obtener información de las habitaciones mediante Restful API para procesar ocupación de habitación y actualizar estado. | **Given:** Se requiere el check-in <br> **When:** El usuario ingresa la información para el check-in <br> **Then:** El sistema le pide información al usuario de su tarjeta de crédito, el sistema valida que la tarjeta sea válida, de caso contrario se rechaza la tarjeta al usuario y se le pide una tarjeta valida. | EPIC06 |
-| HU55 | Lista de Productos con Restful API | Como developer, deseo obtener lista de productos dependiendo de la organización mediante Restful API para mostrar o manipular la información. | **Given:** Se requiere la lista de productos filtrada <br> **When:** Se requiere productos específicos <br> **Then:** Se obtienen los filtros mediante la petición, si no existe filtros se responden con todos los productos, de caso contrario se aplican los filtros específicos y se responde con los productos ya filtrados. | EPIC06 |
-| HU56 | Pedido de Abastecimiento mediante Restful API | Como developer, deseo realizar pedido de abastecimiento mediante Restful API para procesar correctamente el pedido en una operación. | **Given:** Se requiere abastecimiento de productos <br> **When:** Se ejecuta el proceso de abastecimientos <br> **Then:** El servidor obtiene los pedidos de abastecimientos y envía la solicitudes correspondiente a cada proveedor, en caso de algún error antes la solicitud se envía correo al manager que no se pudo solicitar el ítem especifico. | EPIC06 |
+| HUX/EPX | Historia de Usuario / Épica                                   | Descripción                                                                                                                                            | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                          | Relacionado con (Epic ID) |
+|---------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| EP01    | Información del producto                                      | Como visitante del sitio web, quiero obtener información relacionada al producto que se ofrece.                                                        | Dado que el visitante está en la página de inicio <br> Cuando observa la información del producto que se está ofreciendo <br> Entonces obtiene una mejor visión de lo que ofrece la empresa. <br> Y se registra o considera registrarse como usuario.                                                                                                            |                           | 
+| HU01    | Obtener información de la empresa                           | Como visitante del sitio web, quiero obtener más información sobre la empresa a cargo del producto.                                                    | Dado que el visitante se encuentra en la sección de nosotros <br> Cuando observa la información relevante sobre la empresa <br> Entonces se interesa en saber más del producto <br> Y se registra como usuario.                                                                                                                    | EP01                      | 
+| HU02    | Informarse sobre los beneficios del producto                  | Como visitante del sitio web, quiero informarme sobre los beneficios del producto ofrecido.                                                            | Dado que el visitante se encuentra en la sección de beneficios <br> Cuando observa los beneficios que se ofrecen al usar nuestra solución <br> Entonces se interesa en saber más del producto <br> Y se registra como usuario.                                                 | EP01                      |
+| HU03    | Conocer los testimonios de los clientes pasados               | Como visitante, quiero acceder a testimonios de clientes anteriores para evaluar la experiencia y el desempeño del personal.      | Dado que el visitante se encuentra en la sección de testimonios <br> Cuando observa los diferentes testimonios <br> Entonces evalúa la experiencia y desempeño del personal basado en los comentarios de clientes previos. <br> Y considera registrarse como usuario.                                                                               | EP01                      |
+| HU04    | Informarse sobre los diferentes planes de precio del producto | Como visitante, quiero conocer los diferentes planes de precio disponibles para el producto ofrecido. | Dado que el visitante se encuentra en la sección de planes de precios disponibles <br> Cuando visualiza los diferentes planes <br> Entonces puede entender las opciones disponibles y tomar decisiones informadas sobre el producto. <br> Y registrarse como usuario.                                                                                                    | EP01                      |
+| HU05    | Contactar con la empresa                                      | Como visitante, quiero poder contactarme fácilmente con la empresa desde la página de inicio.                 | Dado que el visitante accede a la sección de contacto <br> Cuando observa los diferentes medios para contactarse con nosotros <br> Entonces se comunicará con nosotros rápidamente.                                                                                       | EP01                      |
+| EP02    | Crear cuenta                                                  | Como gerente del hotel/hostal quiero crear una cuenta para utilizar InnControl (aplicación).                                                           | Dado que el usuario se encuentra en el Login <br> Cuando presiona en el botón "SignUp". <br> E ingresa sus datos. <br> Entonces se le presentará con el plan que se acomoda mejor a las necesidades del negocio <br> Y realiza el pago.<Y> Crea su cuenta de gerente.                                                                       | -                         |
+| HU01    | Crear cuenta empleado                                         | Como empleado, quiero crear mi cuenta de empleado.                                                                  | Dado que el usuario se encuentra en el login <br> Cuando selecciona que quiere crear una cuenta con el botón signup <br> E ingresa el correo del hotel <br> E ingresa sus datos <br> Entonces se muestra un mensaje de bienvenida <br> Y se muestra el dashboard de empleado.                                                                    | EP02                      |
+| HU02    | Crear cuenta gerente                                          | Como gerente, quiero crear mi cuenta de gerente para poder gestionar a mis empleados.                                                | Dado que se paga el plan <br> Cuando el usuario ingrese sus datos de hotel y gerente <br> Entonces se muestra un mensaje de bienvenida <br> Y se muestra el dashboard de gerente.                                                                                                   | EP02                      |
+| EP03    | Gestionar Habitaciones del Hotel                              | Como gerente, quiero poder revisar el estado de las habitaciones.                                                                                      | Dado que el usuario está en la ruta de habitaciones <br> Cuando revisa las habitaciones creadas <br> Entonces puede ver los estados, reservaciones, el tipo de habitación, el número de habitación y el cliente <br> Y se muestra también un botón para crear habitaciones. | -                         |
+| HU01    | Cambiar estado de habitación                                  | Como gerente, quiero realizar un cambio al estado de la habitación.                                                                                    | Dado que el usuario ingresa a la ruta de Habitaciones<br> Cuando el usuario usa el botón para editar <br> Y selecciona uno de los estados en el popup <br> Entonces el estado de la habitación se actualiza.                                                                                                                                          | EP03                      |
+| HU02    | Cambiar estado de habitación (Empleado)                                  | Como empleado, quiero cambiar el estado de la habitación de mi tarea para notificar que ya terminé mi tarea.                                           | Dado que el usuario se encuentra en la ruta de habitaciones. <br> Cuando el usuario termina con su tarea <br> Y usa el botón para cambiar el estado de la habitación.<br> Entonces el estado de la habitación se actualiza.                                                                                                                    | EP03                      |
+| HU03    | Crear habitaciones                                            | Como gerente, quiero crear nuevas habitaciones en el sistema.                                                                                          | Dado que el usuario tiene acceso para crear nuevas habitaciones en la ruta habitaciones <br> Cuando ingresa los detalles de la habitación (tipo, número, etc.) <br> Entonces la habitación se añade al sistema y se refleja en la lista de habitaciones.                                                                                                                                 | EP03                      |
+| EP04    | Gestionar Inventario                                          | Como gestor, quiero gestionar el inventario del hotel.                                                                                                 | Dado que el usuario tiene acceso al sistema de gestión de inventario en la ruta inventario <br> Cuando revisa los niveles de inventario <br> Entonces puede agregar, actualizar o eliminar elementos del inventario <br> Y se reflejan los cambios en tiempo real.                                                                                                                   | -                         |
+| HU01    | Crear ítem                                                    | Como gestor, quiero agregar un nuevo ítem al inventario.                                                                                               | Dado que el usuario tiene acceso para agregar ítems al inventario en la ruta de inventario <br> Cuando ingresa los detalles del nuevo ítem (nombre, cantidad, etc.) <br> Entonces el ítem se añade al inventario.<br> Y se muestra en la ruta Inventario.                                                                                                                                                                          | EP04                      |
+| HU02    | Actualizar ítem                                               | Como gestor, quiero actualizar la información de un ítem en el inventario.                                                                             | Dado que el usuario tiene acceso para actualizar la información de un ítem <br> Cuando selecciona el ítem a actualizar <br> Y modifica sus detalles (cantidad, descripción, etc.) <br> Entonces los cambios se reflejan en el inventario.                                                                                                               | EP04                      |
+| HU03    | Eliminar ítem                                                 | Como gestor, quiero eliminar un ítem del inventario.                                                                                                   | Dado que el usuario tiene acceso para eliminar ítems del inventario <br> Cuando selecciona el ítem a eliminar <br> Y confirma que quiere eliminar el ítem <br> Entonces el ítem se elimina del inventario.                                                                                                                                                                                                   | EP04                      |
+| HU04    | Actualizar ítem                                               | Como empleado, quiero actualizar la información de un ítem en el inventario asignado a mi tarea.                                                       | Dado que el usuario está en Inventario <br> Cuando el usuario selecciona la opción de editar un ítem asignado <br> Y modifica los detalles permitidos (cantidad) <br> Entonces los cambios se reflejan en el sistema de gestión de inventario.                                                                                                                       | EP04                      |
+| EP05    | Gestionar Tareas                                              | Como gerente, quiero gestionar las tareas asignadas a los empleados.                                                                                   | Dado que el usuario tiene acceso para crear, editar, finalizar o eliminar tareas <br> Cuando revisa la ruta de tareas <br> Entonces puede realizar las acciones necesarias para gestionarlas.                                                                                                                                                                   | -                         |
+| HU01    | Crear tarea                                                   | Como gerente, quiero crear una nueva tarea para asignar a un empleado.                                                                                 | Dado que el usuario se encuentra en la ruta tareas <br> Cuando presiona el botón para agregar una tarea <br> Y define los detalles de la tarea (descripción, empleado asignado, fecha límite, etc.) <br> Entonces la tarea se añade a la ruta de tareas.                                                                                                                                                 | EP05                      |
+| HU02    | Finalizar tarea                                               | Como empleado, quiero marcar una tarea como completada una vez que la haya finalizado.                                                                 | Dado que el usuario se encuentra en la ruta tareas <br> Cuando selecciona una tarea <br> Y cambia su estado a "DONE" <br> Entonces se actualiza en la ruta tareas.                                                                                                                                                                                                                                   | EP05                      |
+| HU03    | Eliminar tarea                                                | Como gerente, quiero eliminar una tarea que ya no sea necesaria.                                                                                       | Dado que el usuario se encuentra en tareas <br> Cuando selecciona eliminar una tarea <br> Y presiona en el botón para eliminar <br> Entonces la tarea se elimina.                                                                                                                                                                                                                                           | EP05                      |
+| HU04    | Asignar/Editar tarea                                          | Como gerente, quiero asignar o editar tareas para distribuir las responsabilidades entre los empleados.                                                | Dado que el usuario tiene acceso para asignar o editar tareas, en la ruta tareas <br> Cuando selecciona una tarea existente o crea una tarea <br> E ing resa o modifica los detalles (empleado asignado, descripción, etc.) <br> Entonces la tarea se actualiza o se asigna a un empleado.                                                                                                                                       | EP05                      |
+| HU05    | Actualizar estado de tarea                                     | Como empleado, quiero cambiar el estado de una tarea asignada para reflejar su progreso.                                                               | Dado que el usuario se encuentra en la ruta tareas <br> Cuando selecciona una tarea asignada <br> Y cambia el estado de la tarea a "In Progress" o "Completed" <br> Entonces la tarea se actualiza en la ruta tareas.                                                                                                                                                              | EP05                      |
+| HU06    | Asignar tareas                                                | Como gerente, quiero asignar una tarea a un empleado específico.                                                                                       | Dado que el usuario tiene acceso para asignar tareas <br> Cuando selecciona una tarea <br> Y especifica el empleado asignado en el diálogo <br> Entonces la tarea se asigna a un empleado específico y los detalles se actualizan.                                                                                                                                                              | EP05                      |
+| EP06    | Gestionar Mensajes                                            | Como gerente, quiero gestionar los mensajes enviados entre empleados.                                                                       | Dado que el usuario tiene acceso para crear, revisar o eliminar mensajes <br> Cuando accede a la ruta de mensajes <br> Entonces puede realizar las acciones necesarias para gestionarlos.                                                                                                                                                                       | -                         |
+| HU01    | Enviar mensaje                                                 | Como gerente, quiero enviar un mensaje a un empleado.                                                                                        | Dado que el usuario tiene acceso para redactar mensajes en la ruta mensajes <br> Cuando redacta <br> Y envía el mensaje <br> Entonces el mensaje se envía con éxito. <br> Y se muestra en la ruta de mensajes del remitente.                                                                                                                                                                                                                      | EP06                      |
+| HU02    | Enviar mensaje                                                 | Como empleado, quiero enviar un mensaje a un gerente.                                                                                         | Dado que el usuario tiene acceso para redactar mensajes en la ruta mensajes <br> Cuando redacta <br> Y envía el mensaje <br> Entonces el mensaje se envía con éxito. <br> Y se muestra en la ruta de mensajes del remitente.                                                                                                                                                                                                                       | EP06                      |
+| HU03    | Revisar mensaje                                               | Como gerente, quiero revisar los mensajes recibidos de empleados.                                                                           | Dado que el usuario tiene acceso para la ruta mensajes <br> Cuando presiona la campana <br> Entonces puede ver los mensajes recibidos y sus detalles filtrados.                                                                                                                                                                                                  | EP06                      |
+| HU04    | Revisar mensaje                                               | Como empleado, quiero revisar los mensajes recibidos del gerente.                                                                                      | Dado que el usuario tiene acceso para la ruta mensajes <br> Cuando presiona la campana <br> Entonces puede ver los mensajes recibidos y sus detalles filtrados.                                                                                                                                                                                                  | EP06                      |
+| HU05    | Eliminar mensaje                                              | Como gerente, quiero eliminar un mensaje específico de la bandeja de entrada.                                                                          | Dado que el usuario tiene acceso a la ruta mensajes <br> Cuando presiona en eliminar un mensaje <br> Entonces el mensaje se elimina correctamente.                                                                                                                                                                                                                | EP06                      |
+| HU06    | Eliminar mensaje                                              | Como empleado, quiero eliminar un mensaje específico de la bandeja de entrada.                                                                          | Dado que el usuario tiene acceso a la ruta mensajes <br> Cuando presiona en eliminar un mensaje <br> Entonces el mensaje se elimina correctamente.                                                                                                                                                                                                                 | EP06                      |
+| EP07    | Uso de APIs/BD                                                | Como desarrollador de InnControl, quiero tener acceso a la información de la base de datos para poder realizar las operaciones CRUD.                       | Dado que el usuario necesita realizar operaciones CRUD <br> Cuando realiza la conexión con la Base de datos en MySql <br> Entonces se aplican la conexión y se permite el acceso en la base de datos.                                                                                                                                                                                                              |                           |
+| HU01    | API de Servicios de la aplicación                                                     | Como desarrollador, quiero integrar la API en InnControl para procesar transacciones necesarias para el funcionamiento del proyecto.                                                              | Dado que el usuario desea integrar una API <br> Y tiene acceso a la base de datos <br> Cuando ingresa los métodos necesarios para los bounded context <br> Y realiza la conexión con el front end  <br> Entonces se muestra el status code exitoso al realizar operaciones CRUD en el front end.                                                                                                                               | EP07                      |
+| HU02    | API de Autenticación                                          | Como desarrollador, quiero utilizar la API de autenticación en InnControl para gestionar el inicio de sesión de usuarios.                                  | Dado que el usuario desea utilizar la API de autenticación <br> Y tiene acceso a su cuenta de empleado <br> Cuando ingresa sus credenciales de inicio de sesión <br> Y se comprueba de que es un usuario registrado <br> Entonces se devuelve un código con el status respectivo. <br> Y Se logra iniciar sesión.                                                                                                                        | EP07                      |
+| HU03    | API de Verificación Clave JWT Gerente                                          | Como desarrollador, quiero incorporar la API de verificación JWT en InnControl para asegurar la autenticidad de los usuarios para que ingresen la clave JWT.                                  | Dado que el usuario desea incorporar la API de verificación JWT <br> Y tiene acceso a su cuenta de empleado <br> Cuando ingresa sus credenciales de inicio de sesión <br> Y se realizan las validaciones necesarias <br> Entonces se realiza el proceso de verificación del JWT.                                                                                                                       | EP07                      |
+| EP08    | Seguridad de datos                                            | Como gerente, quiero que la información del hotel esté asegurada así como mi cuenta.                                                                   | Dado que el usuario tiene una cuenta <br> Cuando decide ingresar a la aplicación <br> Y se realiza la verificación exitosa JWT. <br> Entonces logra iniciar sesión de manera correcta.                                                                                                                                                                                                 | -                         |
+| HU01    | Seguridad de usuario                                         | Como usuario, quiero ingresar a InnControl con mi cuenta.                                                                                  | Dado que el usuario se encuentra en Sign In <br> Cuando ingresa sus datos de login <br> Y se realiza la verificación exitosa de JWT. <br> Entonces logra iniciar sesión de manera correcta. <br> Y se le redirecciona a su dashboard.| EP08                      |
 
 ## 3.3. Impact Mapping.
+
+En esta sección se explican y se presentan los Impact Mappings. Creados a partir de los User Personas, incluyendo los Business Goals de cada uno, para obtener los features que ayudarán a producir los Deliverables identificados.
 
 ![Impact Mapping-1](assets/impact-mapping-1.png)
 
@@ -1165,68 +1276,55 @@ El To-Be Scenario Mapping para el segmento Trabajadores.
 
 ## 3.4. Product Backlog.
 
-| #Orden | User Story ID | Título | Descripción | Story Points |
-| ----- | ------------- | ------ | ----------- | ------------ |
-| 1 | HU01 | Actualización de las habitaciones disponibles | Como gerente deseo un sistema que automáticamente cambie el estado de los dormitorios dependiendo si alguien la reservó o no para mantener actualizado su estado. | 3 |
-| 2 | HU02 | Asignamiento de tareas a empleados | Como gerente, deseo asignar tareas a los empleados para distribuir eficientemente las responsabilidades y mejorar la productividad. | 3 |
-| 3 | HU03 | Notificaciones de baja en el inventario | Como gerente, deseo recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros. | 5 |
-| 4 | HU04 | Ocupación de habitaciones en tiempo real | Como gerente, deseo visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones. | 5 |
-| 5 | HU05 | Alertas de mantenimiento programado | Como gerente, deseo recibir alertas de mantenimiento programado para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados. | 5 |
-| 6 | HU06 | Administración de  permisos de los empleados | Como gerente, deseo gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio. | 3 |
-| 7 | HU07 | Programación de turnos de trabajo | Como gerente, deseo programar turnos de trabajo automáticamente para optimizar la asignación de personal y evitar conflictos de horarios. | 2 |
-| 8 | HU08 | Seguimiento de gastos | Como gerente, deseo poder realizar seguimiento de gastos implementados para controlar los costos y optimizar la rentabilidad del negocio. | 3 |
-| 9 | HU09 | Gestión de  servicios adicionales | Como gerente, deseo gestionar la disponibilidad de servicios adicionales para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente. | 3 |
-| 10 | HU10 | Notificaciones de comentarios | Como gerente, deseo recibir notificaciones de comentarios y opiniones de clientes para responder rápidamente a las necesidades y preocupaciones de los clientes. | 3 |
-| 11 | HU11 | Creación de  promociones | Como gerente, deseo poder crear promociones y ofertas especiales para atraer a más clientes y aumentar las ventas. | 2 |
-| 12 | HU12 | Registro de proveedores | Como gerente, deseo mantener un registro de los proveedores para gestionar eficientemente las relaciones comerciales y los suministros. | 2 |
-| 13 | HU13 | Seguimiento del cliente | Como gerente, deseo poder realizar seguimiento de la satisfacción del cliente para identificar áreas de mejora y garantizar una experiencia de calidad. | 3 |
-| 14 | HU14 | Administración de facturas de servicios | Como gerente, deseo poder generar facturas para los servicios adicionales para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes. | 5 |
-| 15 | HU15 | Notificaciones de cambio de agenda | Como empleado, deseo recibir notificaciones de cambios en mi agenda laboral para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia. | 3 |
-| 16 | HU16 | Automatización de cambio de estado de las habitaciones | Como empleado, deseo registro automático de estado de limpieza de las habitaciones para tener actualizado el estado de limpieza de todas las habitaciones. | 3 |
-| 17 | HU17 | Información de procedimientos según el caso | Como empleado, deseo poder acceder a manuales de procedimientos para saber cómo actuar dependiendo del caso que se presente. | 2 |
-| 18 | HU18 | Registro de estado de suministros | Como empleado, deseo poder registrar el estado de los suministros para mantener un control preciso del inventario. | 2 |
-| 19 | HU19 | Reporte de  problemas a la gerencia | Como empleado, deseo poder reportar problemas para comunicar a los gerentes del problema. | 3 |
-| 20 | HU20 | Registro de  check-in del huésped. | Como empleado deseo registrar el check-in del huésped para registrar y confirmar su estadía en el hotel. | 3 |
-| 21 | HU21 | Registro de check-out del huésped. | Como empleado deseo registrar el check-out del huésped para registrar y confirmar su salida del hotel. | 3 |
-| 22 | HU22 | Perfil de usuario en Front-End Application | Cómo developer,deseo mostrar el perfil del usuario para informar al usuario su información personal registrada. | 2 |
-| 23 | HU23 | Inicio de Sesión en Front-End Application | Como developer, deseo mostrar inicio de sesión. para permitir al usuario ingresar sus credenciales e ingresar.  | 2 |
-| 24 | HU24 | Registro de cuenta en Front-End Application | Como developer, deseo mostrar el registro de cuenta para permitir a la organización ingresar sus credenciales y crear cuenta. | 2 |
-| 25 | HU25 | Planes de suscripción  en Front-End Application | Como developer, deseo mostrar los planes de suscripción para permitir al usuario seleccionar su plan de suscripción.  | 2 |
-| 26 | HU26 | Proceso de pago en Front-End Application. | Cómo developer, deseo mostrar el proceso de pago para permitir al usuario ingresar sus datos bancarios y confirmar el pago. | 2 |
-| 27 | HU27 | Dashboard en Front-End Application  | Cómo developer, deseo mostrar un dashboard en la página principal para mostrar al usuario los resúmenes de actividades y movimientos recientes. | 5 |
-| 28 | HU28 | Reportes Estadísticos en Front-End Application | Cómo developer, deseo mostrar reportes estadísticos para informar al usuario de manera gráfica. | 3 |
-| 29 | HU29 | Control de Inventarios en Front-End Application | Cómo developer, deseo mostrar un control de inventarios para informar al usuario sobre la cantidad de productos o recursos restantes en su inventario. | 2 |
-| 30 | HU30 | Gestión de Proveedores en Front-End Application  | Cómo developer, deseo mostrar tabla de proveedores para permitir al usuario ver, agregar, editar y eliminar un registro. | 2 |
-| 31 | HU31 | Gestion de clientes en Front-End Application | Cómo developer, deseo mostrar tabla de clientes para permitir al usuario ver y manipular los registros. | 2 |
-| 32 | HU32 | Solicitud de Abastecimiento en Front-End Application | Cómo developer, deseo mostrar  información de la solicitud para permitir al usuario ver y manipular su información. | 2 |
-| 33 | HU33 | Lista de Productos en Front-End Application | Cómo developer, deseo mostrar tabla de productos para permitir al usuario ver y manipular los registros.  | 2 |
-| 34 | HU34 | Internacionalización (i18n) en Front-End Application. | Como developer deseo i18n en la aplicación para volver el software accesible a cualquier persona. | 3 |
-| 35 | HU35 | Barra de navegación en Landing Page | Como usuario, deseo navegar fácilmente en una página mediante barra de navegación para acceder a la información de la aplicación fácilmente. | 1 |
-| 36 | HU36 | Redes sociales en sección footer en Landing Page | Como usuario deseo visualizar el contacto y redes sociales de Sweet Manager para tener más información. | 1 |
-| 37 | HU37 | Sección “Conoce Más” en la Landing Page | Como usuario deseo una sección “Conoce Más” para entender lo que ofrece la aplicación. | 1 |
-| 38 | HU38 | Sección “Beneficios” en Landing Page | Como usuario, deseo una sección “beneficios” para conocer distintas características que aseguran beneficios.| 1 |
-| 39 | HU39 | Sección Hero en la Landing Page  | Como usuario, deseo una sección hero para tener una idea visual del servicio que ofrece Sweet Manager. | 1 |
-| 40 | HU40 | Sección “planes” en la Landing Page | Como usuario, deseo una sección “planes” para conocer los planes que ofrece la aplicación y sus características. | 1 |
-| 41 | HU41 | Web Design Responsive para Landing Page | Como usuario, deseo responsivo el diseño de la landing page para no tener complicaciones de ver la información en ningún dispositivo. | 3 |
-| 42 | HU42 | Autenticación por Roles vía Restful  API | Como developer, deseo autenticación por roles para restringir las vistas y los recursos. | 3 |
-| 43 | HU43 | Inicio de sesión vía Restful API | Como developer, deseo iniciar sesión mediante Restful API para validar la información recibida y permitir acceso al servicio. | 2 |
-| 44 | HU44 | Método de pago para suscripcion via Restful  API | Como developer, deseo la funcionalidad de pago Paypal vía Api Restful para asegurar el pago en la suscripción del consumidor. | 5 |
-| 45 | HU45 | Registro de hoteles mediante Restful API  | Como developer, deseo registrar  hoteles  para que las  organizaciones interesadas se suscriban al servicio. | 2 |
-| 46 | HU46 | Pago para realizar Check-Out mediante Restful API | Como developer, deseo  funcionalidad pago con Paypal a través de Restful API para el  checkout del hotel. | 5 |
-| 47 | HU47 | Información de Perfil mediante Restful API | Como developer, deseo obtener información de perfil mediante Restful API para devolver información de una organización en concreto.   | 2 |
-| 48 | HU48 | Información de trabajadores con Restful API|Como developer deseo obtener la información de trabajadores mediante Restful API para mostrar o manipular la información en operaciones. | 2 |
-| 49 | HU49 | Notificaciones con Restful API | Como developer deseo obtener lista de notificaciones mediante Restful API para mostrar las notificaciones. | 2 |
-| 50 | HU50 | Lista de Proveedores con Restful API | Como developer deseo recuperar información de proveedores mediante Restful API para devolver lista de proveedores de cierta compañía. | 2 |
-| 51 | HU51 | Detalle de recursos con Restful API | Como developer deseo obtener detalle de recursos mediante Restful API para mostrar el detalle de recursos en pantalla. | 3 |
-| 52 | HU52 | Ganancias y pérdidas de dinero dentro de un lapso de tiempo con Restful API | Como developer deseo recibir información de ganancias y pérdidas dependiendo de cualquier lapso de tiempo para implementarlo en algún módulo.  | 5 |
-| 53 | HU53 | Lista de clientes con Restful API  | Como developer deseo recibir una lista de clientes mediante Restful API para mostrar o manipular la información. | 2 |
-| 54 | HU54 | Funcionalidad para Check In con Restful API | Como developer deseo obtener información de las habitaciones mediante Restful API para procesar ocupación de habitación y actualizar estado. | 3 |
-| 55 | HU55 | Lista de Productos con Restful API  | Como developer, deseo obtener lista de productos dependiendo de la organización mediante Restful API para mostrar o manipular la información. | 2 |
-| 56 | HU56 | Pedido de Abastecimiento mediante Restful API  | Como developer, deseo realizar pedido de abastecimiento mediante Restful API para procesar correctamente el pedido en una operación. | 2 |
+A continuación, se mostrara el Product Backlog creado a partir de las Historias de Usuario que conseguimos, ordenadas de menor a mayor Story Points.
+
+| Orden | User Story ID | Título                                                        | Descripción                                                                                                                                     | Story Points (1/2/3/5/8) |
+|-------|---------------|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| 17    | HU03          | Eliminar ítem                                                  | Como gestor, quiero eliminar un ítem del inventario.                                                                                             | 2                        |
+| 21    | HU02          | Finalizar tarea                                                | Como empleado, quiero marcar una tarea como completada una vez que la haya finalizado.                                                           | 2                        |
+| 22    | HU03          | Eliminar tarea                                                 | Como gerente, quiero eliminar una tarea que ya no sea necesaria.                                                                                 | 2                        |
+| 27    | HU03          | Revisar mensaje                                                | Como gerente, quiero revisar los mensajes recibidos de empleados.                                                                                | 2                        |
+| 28    | HU04          | Revisar mensaje                                                | Como empleado, quiero revisar los mensajes recibidos del gerente.                                                                                | 2                        |
+| 29    | HU05          | Eliminar mensaje                                               | Como gerente, quiero eliminar un mensaje específico de la bandeja de entrada.                                                                    | 2                        |
+| 30    | HU06          | Eliminar mensaje                                               | Como empleado, quiero eliminar un mensaje específico de la bandeja de entrada.                                                                   | 2                        |
+| 3     | HU02          | Informarse sobre los beneficios del producto                   | Como visitante del sitio web, quiero informarme sobre los beneficios del producto ofrecido.                                                      | 2                        |
+| 5     | HU05          | Contactar con la empresa                                       | Como visitante, quiero poder contactarme fácilmente con la empresa desde la página de inicio.                                                    | 2                        |
+| 11    | HU01          | Cambiar estado de habitación                                   | Como gerente, quiero realizar un cambio al estado de la habitación.                                                                              | 2                        |
+| 6     | HU04          | Informarse sobre los diferentes planes de precio del producto  | Como visitante, quiero conocer los diferentes planes de precio disponibles para el producto ofrecido.                                             | 3                        |
+| 1     | EP01          | Información del producto                                       | Como visitante del sitio web, quiero obtener información relacionada al producto que se ofrece.                                                  | 3                        |
+| 2     | HU01          | Obtener información de la empresa                              | Como visitante del sitio web, quiero obtener más información sobre la empresa a cargo del producto.                                              | 3                        |
+| 8     | HU01          | Crear cuenta empleado                                          | Como empleado, quiero crear mi cuenta de empleado.                                                                                               | 3                        |
+| 9     | HU02          | Crear cuenta gerente                                           | Como gerente, quiero crear mi cuenta de gerente para poder gestionar a mis empleados.                                                            | 3                        |
+| 12    | HU02          | Cambiar estado de habitación (Empleado)                        | Como empleado, quiero cambiar el estado de la habitación de mi tarea para notificar que ya terminé mi tarea.                                      | 3                        |
+| 15    | HU01          | Crear ítem                                                     | Como gestor, quiero agregar un nuevo ítem al inventario.                                                                                         | 3                        |
+| 16    | HU02          | Actualizar ítem                                                | Como gestor, quiero actualizar la información de un ítem en el inventario.                                                                       | 3                        |
+| 18    | HU04          | Actualizar ítem (Empleado)                                     | Como empleado, quiero actualizar la información de un ítem en el inventario asignado a mi tarea.                                                 | 3                        |
+| 20    | HU01          | Crear tarea                                                    | Como gerente, quiero crear una nueva tarea para asignar a un empleado.                                                                           | 3                        |
+| 25    | HU01          | Enviar mensaje                                                 | Como gerente, quiero enviar un mensaje a un empleado.                                                                                             | 3                        |
+| 26    | HU02          | Enviar mensaje                                                 | Como empleado, quiero enviar un mensaje a un gerente.                                                                                            | 3                        |
+| 32    | HU01          | API de Servicios de la aplicación                              | Como desarrollador, quiero integrar la API en InnControl para procesar transacciones necesarias para el funcionamiento del proyecto.             | 3                        |
+| 33    | HU02          | API de Autenticación                                           | Como desarrollador, quiero utilizar la API de autenticación en InnControl para gestionar el inicio de sesión de usuarios.                        | 3                        |
+| 36    | HU01          | Seguridad de usuario                                           | Como usuario, quiero ingresar a InnControl con mi cuenta.                                                                                        | 3                        |
+| 4     | HU03          | Conocer los testimonios de los clientes pasados                | Como visitante, quiero acceder a testimonios de clientes anteriores para evaluar la experiencia y el desempeño del personal.                      | 5                        |
+| 7     | EP02          | Crear cuenta                                                   | Como gerente del hotel/hostal quiero crear una cuenta para utilizar InnControl (aplicación).                                                     | 5                        |
+| 10    | EP03          | Gestionar Habitaciones del Hotel                               | Como gerente, quiero poder revisar el estado de las habitaciones.                                                                                | 5                        |
+| 13    | HU03          | Crear habitaciones                                             | Como gerente, quiero crear nuevas habitaciones en el sistema.                                                                                    | 5                        |
+| 14    | EP04          | Gestionar Inventario                                           | Como gestor, quiero gestionar el inventario del hotel.                                                                                           | 5                        |
+| 19    | EP05          | Gestionar Tareas                                               | Como gerente, quiero gestionar las tareas asignadas a los empleados.                                                                             | 5                        |
+| 23    | HU04          | Asignar/Editar tarea                                           | Como gerente, quiero asignar o editar tareas para distribuir las responsabilidades entre los empleados.                                          | 5                        |
+| 24    | EP06          | Gestionar Mensajes                                             | Como gerente, quiero gestionar los mensajes enviados entre empleados.                                                                            | 5                        |
+| 31    | EP07          | Uso de API en Base de Datos                                    | Como desarrollador de InnControl, quiero tener acceso a la información de la base de datos para poder realizar las operaciones CRUD.             | 5                        |
+| 34    | HU03          | API de Verificación Clave JWT Gerente                          | Como desarrollador, quiero incorporar la API de verificación JWT en InnControl para asegurar la autenticidad de los usuarios para que ingresen la clave JWT. | 5                        |
+| 35    | EP08          | Seguridad de datos                                             | Como gerente, quiero que la información del hotel esté asegurada así como mi cuenta.                                                             | 5                        |
 
 # Capítulo IV: Product Design
 
+En este capítulo, nos centraremos en los aspectos de diseño de nuestra solución. Dividido en Style Guidelines, la Information Architecture, el UI Design de la Landing Page y Web Applications, un Prototype de Web Application, la arquitectura Domain Driven Design del software, el Object Oriented Design y la Database Design.
+
 ## 4.1. Style Guidelines.
+
+Aquí definimos las reglas o guías generales a seguir con el aspecto del proyecto, para que pueda ser identificado fácilmente y crear la imagen pública que queremos percibir.
+
 |Aspecto|Directrices|
 |----|----|
 |Nombre de la aplicación|Sweet Manager|
@@ -1245,6 +1343,8 @@ El To-Be Scenario Mapping para el segmento Trabajadores.
                                                                     
 ### 4.1.1. General Style Guidelines.
 
+Estas son las guías generales de estilo a seguir.
+
 |Aspecto|Directrices|
 |----|----|
 |Tipografía| Se optara por fuentes fáciles de leer y que den un aspecto profesional. Se priorizará la legibilidad del texto antes de que sea llamativo.Debería optarse por una fuente Sans Serif|
@@ -1253,6 +1353,8 @@ El To-Be Scenario Mapping para el segmento Trabajadores.
 
 
 ### 4.1.2. Web Style Guidelines.
+
+Estas son las guías sobre el estilo web de la solución.
 
 |Aspecto|Directrices|
 |----|----| 
@@ -1271,6 +1373,8 @@ Luego del registro, las empresas pagarán una suscripción para poder acceder al
 
 ### 4.2.1. Organization Systems.
 
+Estos son los sistemas de organización a seguir.
+
 Organización visual de contenidos
 Se desarrollará una organización visual del contenido de forma jerárquica en el Landing Page y en las secciones principales de la web para resaltar la información importante, como pueden ser la información y control de los recursos, insumos e información actualizada de los proveedores.
 
@@ -1282,6 +1386,8 @@ Recursos: Seguimiento de los recursos para poder llevar un mejor control de las 
 
 ### 4.2.2. Labeling Systems.
 
+Estos son los sistemas de etiquetado a seguir.
+
 Claridad y simplicidad: Se emplea términos no muy complicados, los cuales puedan ser confusos para los usuarios. Sin embargo, habrá algunos términos los cuales serán más técnicos, debido a los insumos que se puedan utilizar en el hotel.
 Brevedad: Se emplea la menor cantidad de palabras para facilitar la navegación de los usuarios.
 Imágenes ilustrativas: Se emplea imágenes las cuales ayudan a la ubicación de opciones.
@@ -1291,7 +1397,7 @@ Uso de iconos y símbolos: Se emplea iconos para ayudar a que los usuarios pueda
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-
+Aquí, se presentan las reglas de los Tags a utilizar en la codificación de la página web.
 
 * Titulo: ```<title> El Control Que Necesitas | Software de Gestión de hoteles/hostales </title> ```
 * Descripcion: ```<meta name = "description" content = "Controla tus cuartos, empleados e inventario en un solo lugar, La solucion que buscas para cualquier tamaño"/> ```
@@ -1299,11 +1405,15 @@ Uso de iconos y símbolos: Se emplea iconos para ayudar a que los usuarios pueda
 
 ### 4.2.4. Searching Systems.
 
+Aquí se explica los sistemas de búsqueda que se implementaran en nuestro proyecto.
+
 En la página principal se incluirá una opción de búsqueda general, en donde permitirá al usuario acceder a todo el contenido de la aplicación.
 Como búsqueda avanzada se implementará en la parte proveedores e insumos, debido a que se permitirá hacer una búsqueda más específica por apartado.
 
 
 ### 4.2.5. Navigation Systems.
+
+Este sería el sistema de navegación que usara el usuario durante su uso del proyecto.
 
 El usuario será bienvenido con una patnalla para registrar su empresa.
 Luego que el usuario inicie sesión se mostrará en la parte inferior de la aplicación una barra de herramientas para que el usuario pueda navegar por toda la aplicación de manera satisfactoria.
@@ -1311,6 +1421,8 @@ Te puedes desplazar y navegar por el panel de control donde podrás ver perfil, 
 
 
 ## 4.3. Landing Page UI Design.
+
+En esta sección, se mostrarán los diseños de nuestra Landing Page. Divididos entre las secciones simplistas de Wireframe, y el Mock-Up creado para servir como guía visual para la verdadera Landing Page.
 
 ### 4.3.1. Landing Page Wireframe.
 
@@ -1332,6 +1444,8 @@ Te puedes desplazar y navegar por el panel de control donde podrás ver perfil, 
 ![Landing page mockup](https://i.imgur.com/K2KrTQi.png)
 
 ## 4.4. Web Applications UX/UI Design.
+
+En esta sección, se mostrarán los diseños de nuestras Web Applications. Divididos entre las secciones simplistas de Wireframe, y el Mock-Up creado para servir como guía visual para las versiones reales. Ademas de contar con las guías visuales sobre la experiencia del usuario en la solución.
 
 ### 4.4.1. Web Applications Wireframes.
 
@@ -1377,6 +1491,8 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 ## 4.6. Domain-Driven Software Architecture.
 
+En esta sección, se mostrarán los múltiples diagramas creados para la arquitectura de nuestro software, específicamente, contamos con el Context Diagram, los Container Diagrams y los Components Diagrams.
+
 ### 4.6.1. Software Architecture Context Diagram.
 ![](https://i.imgur.com/wkbJiAA.png)
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
@@ -1404,6 +1520,8 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
    aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
 
 ## 4.7. Software Object-Oriented Design.
+
+En esta sección, se mostrará todo lo relacionado con la representación de los objetos utilizados en el software de la solución. Comenzando con el Class Diagram, y sus partes divididas, y terminando con un diccionario que explica lo que representa cada atributo de cada una de las clases.
 
 ### 4.7.1. Class Diagrams.
 
@@ -1673,6 +1791,8 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 ## 4.8. Database Design.
 
+En esta sección, se mostrarán los diagramas de la base de datos.
+
 ### 4.8.1. Database Diagram.
 
 ![Landing page mockup](https://i.imgur.com/QztakKH.png)
@@ -1680,6 +1800,8 @@ Facilidad de Uso y Claridad: Se buscó que la navegación en la aplicación fuer
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
+
+En este último capítulo, nos centraremos en la implementación, validación y despliegue de nuestro proyecto. Al igual que explicar los puntos y pasos necesarios que hemos tomado para lograr su realización.
 
 ## 5.1. Software Configuration Management.
 
@@ -1699,6 +1821,8 @@ Durante el desarrollo del proyecto utilizaremos las siguientes convenciones o re
 
 ### 5.1.1. Software Development Environment Configuration.
 
+En esta sección, se explican los softwares utilziados para el desarrollo de nuestra solución.
+
 | Nombre de Producto | Descripcion | Propósito de Uso | Ruta Descarga o Link |
 |-----------|-----------|-----------|-----------|
 | Intellij IDEA |IntelliJ IDEA, desarrollado por JetBrains, es un entorno de desarrollo integrado (IDE) que ofrece una interfaz intuitiva y características avanzadas de codificación, análisis estático y depuración para una amplia gama de lenguajes de programación, especialmente Java, Kotlin, y más. Con integración con herramientas de construcción, soporte para tecnologías modernas, extensibilidad y compatibilidad multiplataforma, IntelliJ IDEA es una herramienta poderosa y versátil que ayuda a los desarrolladores a mejorar su productividad y calidad del código. | Nuestro propósito de uso de Intellij IDEA es usarlo como un entorno de desarrollo con el lenguaje Java. Principalmente le destacaremos el uso para el backend de nuestra aplicación, específicamente creación de Web Services. | Link de descarga: [jetbrains descarga](https://www.jetbrains.com/es-es/toolbox-app/) Se descarga Toolbox JetBrains donde se encuentran distintos frameworks de muchos lenguajes, entre ellos Intellij IDEA.|
@@ -1709,6 +1833,8 @@ Durante el desarrollo del proyecto utilizaremos las siguientes convenciones o re
 | Github | GitHub es una plataforma de desarrollo colaborativo de software que utiliza el sistema de control de versiones Git. Permite a los desarrolladores trabajar juntos en proyectos, facilitando la gestión y colaboración en el código fuente. Los usuarios pueden cargar su código, realizar seguimientos de cambios, proponer modificaciones (mediante solicitudes de extracción), realizar revisiones de código, y gestionar problemas y tareas, entre otras funciones. Adicionalmente, también permite alojar documentación.  | Nuestro propósito de uso de Github (Web) es facilitar la colaboración en proyectos de desarrollo de software. Utilizaremos GitHub para mantener un control de versiones efectivo de mi código, lo que nos permite realizar un seguimiento de los cambios a lo largo del tiempo y revertirlos si es necesario. Además, aprovecharemos las funciones de GitHub para trabajar en equipo de manera eficiente, creando ramas para desarrollar nuevas características o corregir errores sin interferir con el código principal. También valoramos la capacidad de revisión de código que ofrece GitHub, ya que me permite colaborar con mis compañeros de equipo, revisar sus cambios y proporcionar retroalimentación para mejorar la calidad del código. | Link de Servicio: [Github link](https://github.com/) Github es un Software de escritorio y Saas. En este caso nosotros no instalaremos el Github Desktop, por lo tanto usaremos su aplicación de la Web.|
 
 ### 5.1.2. Source Code Management.
+
+En esta sección, explicamos la forma en la que estamos manejando los diferentes aspectos de nuestro proyecto, con links que contienen diferentes aspectos del proyecto.
 
 Link Repositorio Web Services Proyecto: [Link Web Services](https://github.com/Grupo-Trabajo-Final-Open-Source/web-services)
 
@@ -1721,6 +1847,8 @@ Nosotros crearemos una rama para cada capítulo, es decir una rama para Chapter 
 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
+
+Esta sección explica e indica las referencias que se adoptarán para nombrar los elementos y programar en los lenguajes que hemos elegido para nuestra solución.
 
 **Lenguaje Javascript**
 | Referencias Adoptadas | Explicación y Convenciones |
@@ -1772,10 +1900,13 @@ Aún no porque estamos en el Sprint 1.
 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
+Esta sección explicara la metodología Sprint que hemos implementado a lo largo del desarrollo de nuestro proyecto.
 
 ### 5.2.1. Sprint 1
+Este Sprint se centralizo en el desarrollo de la Landing Page de nuestro StartUp, y del desarrollo inicial del informe.
 
 #### 5.2.1.1. Sprint Planning 1.
+Aqui se registran los detallos de la planeación del Sprint 1.
 
 <table>
     <thead>
@@ -1840,10 +1971,14 @@ Aún no porque estamos en el Sprint 1.
 
 #### 5.2.1.2. Sprint Backlog 1.
 
+Aquí se presenta el backlog desarrollado a partir del Sprint 1.
+
 ![SprintBacklog 1](https://i.imgur.com/wljIMRf.jpeg)
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
+
+Esta sección registra las evidencias del desarrollo del Sprint.
 
 <table>
     <thead>
@@ -1998,7 +2133,10 @@ El equipo construyó la página de aterrizaje utilizando ramas para cada caracte
 ![network](https://i.imgur.com/TYK3dqo.jpeg)
 
 ### 5.2.2. Sprint 2
+Este Sprint se centralizo en el desarrollo del Frontend de nuestro StartUp, y de las correciones del informe.
+
 #### 5.2.2.1. Sprint Planning 2
+Aqui se registran los detallos de la planeación del Sprint 2.
 
 <table>
     <thead>
@@ -2063,7 +2201,9 @@ El equipo construyó la página de aterrizaje utilizando ramas para cada caracte
 
 #### 5.2.2.2. Sprint Backlog 2
 
+Aquí se presenta el backlog desarrollado a partir del Sprint 2.
 
+![](https://i.imgur.com/nVGBqJg.png)
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 <table>
@@ -2240,14 +2380,16 @@ Las siguientes capturas se sacaron del repositorio front-end de la Organización
 
 Representa la cantidad de commits hechos en los ultimos dias. 
 
-![]()
+![](https://i.imgur.com/3Tel9Ur.png)
 
 Representa el network de los commits del repositorio Front-End Application.
 
 
 ### 5.2.3. Sprint 3
+Este Sprint se centralizo en el desarrollo del Backend de nuestro StartUp, y de las correciones del informe.
 
 #### 5.2.3.1. Sprint Planning 3
+Aqui se registran los detallos de la planeación del Sprint 3.
 
 <table>
     <thead>
@@ -2311,7 +2453,10 @@ Representa el network de los commits del repositorio Front-End Application.
 </table>
 
 #### 5.2.3.2. Sprint Backlog 3
+En esta seccion se presentara el sprint backlog del sprint 3, administrado principalmente en la plataforma de Trello. Se mostrara una tabla con las tareas designadas de los miembros del equipo y el estado de las mismas.
+
 ![](https://i.imgur.com/UoTGUDm.png)
+
 Inicio de Sprint 3
 
 ![](https://i.imgur.com/0ARPpgx.png)
@@ -2319,6 +2464,12 @@ Inicio de Sprint 3
 Fin de Sprint 3
 
 #### 5.2.3.3. Development Evidence for Sprint Review
+
+En esta seccion se incluyen los commits realizados a los repositorios de la organizacion de Github. 
+Mencionamos también los links de los repositorios de la organizacion de Github.
+
+Landing page: https://github.com/Grupo-Trabajo-Final-Open-Source/sweetmanager-landing-page
+Web Service: https://github.com/Grupo-Trabajo-Final-Open-Source/sweetmanager-web-services
 
 <table>
     <thead>
@@ -3154,14 +3305,15 @@ En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web,
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+A continuacion, se muestra la evidencia de la ejecución de la aplicación web en el navegador:
+
 Sprint 3: En este entregable, hemos logrado desarrollar un Web Services Application de Sweet Manager. 
 
 El link localhost del Web Services Application es: http://localhost:8080/swagger-ui/index.html#/
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-En este sprint se cumplió el objetivo de desarrollar el Web Services Application. La documentacion de nuestro servicio:
-
+En esta sección, se documentan las evidencias de los servicios funcionando.
 
 ![](https://i.imgur.com/HmeSBug.png)
 
@@ -3300,8 +3452,10 @@ Miembro: Leonardo Linares
 Miembro: Mauricio Rojas
 
 ### 5.2.4 Sprint 4
+Este Sprint se centralizo en el desarrollo de los elementos restantes de nuestro StartUp, y de las correciones del informe.
 
 #### 5.2.4.1. Sprint Planning 4
+Aqui se registran los detallos de la planeación del Sprint 4.
 
 <table>
     <thead>
@@ -3365,6 +3519,7 @@ Miembro: Mauricio Rojas
 </table>
 
 #### 5.2.4.2. Sprint Backlog 4
+En esta seccion, se registran los detalles del backlog del Sprint 4, mediante el uso de la herramienta trello, se registran las tareas a realizar en el sprint 4. 
 
 ![](https://i.imgur.com/k3raDNd.png)
 
@@ -3374,6 +3529,7 @@ Inicio de Sprint 4
 Fin de Sprint 4
 
 #### 5.2.4.3. Development Evidence for Sprint Review 
+En esta seccion se incluyen los commits realizados a los repositorios de la organizacion de Github. 
 
 <table>
     <thead>
@@ -3391,7 +3547,7 @@ Fin de Sprint 4
         <td rowspan="1000">landing-page</td>
     </tr>
     <tr>
-        <td rowspan="4">develop</td>
+        <td rowspan="95">develop</td>
     </tr>
     <tr>
         <td>4baab547224993ef9dfbed6ab4719337f7419a53</td>
@@ -3404,93 +3560,6 @@ Fin de Sprint 4
         <td>feat: added assets to project.</td>
         <td></td>
         <td> 13/04/2024 </td>
-    </tr>
-    <tr>
-        <td>bf64e8597ce13b6d4185029cd689e02f461fe3fd</td>
-        <td>Merge pull request #1 from Group-Trabajo-Final-Open-Source/feature/styles-footer.</td>
-        <td></td>
-        <td>13/04/2024</td>
-    </tr>
-    <tr>
-        <td rowspan="2">feature/navbar</td>
-    </tr>
-    <tr>
-        <td>572c564942e5f259f3e3b5fe54a8adbabd25b98f</td>
-        <td>feat(features/navbar): added navbar documentation.</td>
-        <td></td>
-        <td>13/04/2024</td>
-    </tr>
-    <tr>
-        <td rowspan="2">feature/hero</td>
-    </tr>
-    <tr>
-        <td>7e5d2d675964a0aaddec23b5890c1b16fdce853a</td>
-        <td>feat(feature/hero): added hero section.</td>
-        <td></td>
-        <td>13/04/2024</td>
-    </tr>
-    <tr>
-        <td rowspan="2">feature/description</td>
-    </tr>
-    <tr>
-        <td>3880187c9596479fc6cf936e6ee39b373f5ea8c7</td>
-        <td>feat(feature/description): added description sections.</td>
-        <td></td>
-        <td>13/04/2024</td>
-    </tr>
-    <tr>
-        <td rowspan="2">feature/benefits</td>
-    </tr>
-    <tr>
-        <td>5a83aa3bd347de9519536f9a017a6531a59a4c20</td>
-        <td>feat(feature/benefits)added benefits section.</td>
-        <td></td>
-        <td>13/04/2024</td>
-    </tr>
-    <tr>
-        <td rowspan="2">feature/plans</td>
-    </tr>
-    <tr>
-        <td>6e513f3f94a22ab619744817aed09573eba0a5ba</td>
-        <td>feat(feature/plans): added section plans.</td>
-        <td></td>
-        <td>13/04/2024</td>
-    </tr>
-    <tr>
-        <td rowspan="2">feature/footer</td>
-    </tr>
-    <tr>
-        <td>122db0a8cc6c0436e7d39212441749b58c62d0dd</td>
-        <td>feat(feature/footer): added footer documentation.</td>
-        <td></td>
-        <td>13/04/2024</td>
-    </tr>
-    <tr>
-        <td rowspan="2">feature/styles-hero</td>
-    </tr>
-    <tr>
-        <td>b19ddf691dff7ab12e101884b3f70830506566ea</td>
-        <td>feat(feature/styles-hero): added styles for hero section.</td>
-        <td></td>
-        <td>13/04/2024</td>
-    </tr>
-    <tr>
-        <td rowspan="2">feature/styles-section</td>
-    </tr>
-    <tr>
-        <td>57f161dc83d5604e49c6432dc436c26cebd2c835</td>
-        <td>feat(feature/styles-section): added styles for some sections.</td>
-        <td></td>
-        <td>13/04/2024</td>
-    </tr>
-    <tr>
-        <td rowspan="2">feature/styles-footer</td>
-    </tr>
-    <tr>
-        <td>0264b347c2eda4e76d32f932c4a4da8f1b422556</td>
-        <td>feat(feature/styles-footer): added styles for footer.</td>
-        <td></td>
-        <td>13/04/2024</td>
     </tr>
     </tbody>
 </table>
@@ -3640,7 +3709,11 @@ Miembro: Mauricio Rojas
 
 ## 5.3. Validation Interviews.
 
+Tras la finalización del sprint 3, se llevaron a cabo entrevistas de validación con los usuarios de los segmentos de trabajadores y gerentes de hotel para obtener retroalimentación sobre el diseño visual y la usabilidad de la aplicación en desarrollo. A continuación, se presentan los detalles de las entrevistas realizadas, incluyendo el diseño de las preguntas y los registros de las respuestas de los usuarios.
+
 ### 5.3.1. Diseño de Entrevistas.
+
+En el diseño de entrevistas, se incluyen las preguntas generales que se usaran para ambos segmentos objetivos, y preguntas específicas hacía cada segmento.
 
 **Preguntas generales:**
 
@@ -3669,6 +3742,7 @@ Miembro: Mauricio Rojas
 7. ¿Cómo cree que los avances visuales hasta ahora impactarán en la percepción de sus empleados y clientes sobre el software cuando esté completamente implementado?
 
 ### 5.3.2. Registro de Entrevistas.
+En esta sección se presentan los registros de las entrevistas realizadas a los usuarios de los segmentos de trabajadores y gerentes de hotel. Se incluye un resumen de las respuestas y las impresiones generales de los entrevistados sobre el software en desarrollo.
 
 **Entrevista 1 (Gerentes)**<br>
 Url del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211552_upc_edu_pe/EeLv9_pTZwlHkSbQ05_e1ccB89zn6v6T0Mq7QOdFrjs7Fw?e=Verykd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D<br>
@@ -3747,7 +3821,7 @@ Duracion de la entrevista: 0:35 - 7:15<br>
 <br>En resumen, Leonardo Ruiz menciona que el avance del producto cumplio con sus espectativas, sin embargo, resalta que la fuente de letra y el tamaño sea un poco mas grande. Por otra parte, tambien hace mencion que la aplicacion tiene que mostrar unicamente los datos relevantes para el negocio debido a que se muestran muchos datos en las tablas lo cual puede llegar a confundir a la hora de visualizar los datos. Por ultimo, el cliente resalta que se deben añadir mas graficos estadisticos para evaluar como va el negocio. En conclusion, Leonardo Ruiz esta conforme con el avance del producto pero resalta que aun hay detalles visuales por mejorar.
 
 ### 5.3.3. Evaluaciones según heurísticas.
-
+En base a las entrevistas realizadas, se han identificado los siguientes problemas y sugerencias de mejorar:
 
 <b>SITE o APP a evaluar: Sweet Manager</b>
 
@@ -3807,9 +3881,167 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 | 14    | No existen opciones de filtro para las estadísticas gráficas | 2 | Information Architecture: Is it findable? |
 | 15    | Falta de comparación clara entre diferentes planes de suscripción | 2 | Usability: Consitencia y estándares |
 
+### PROBLEMA #1: No hay un control que permita regresar a la pantalla de título
+- **Severidad:** 3
+- **Heurística violada:** Control y libertad del usuario
+- **Problema:**
+  Al momento de ingresar a otras secciones de la aplicación, no podemos regresar a la pantalla de título. Esto obliga al usuario a navegar de manera compleja para volver al inicio, aumentando el esfuerzo y frustración del usuario.
+- **Recomendación:**
+  Incluir un botón visible en todas las secciones de la aplicación que permita regresar a la pantalla de título en cualquier momento.
+
+
+---
+
+### PROBLEMA #2: No existe un mensaje de error cuando se intenta iniciar sesión con una cuenta no existente
+- **Severidad:** 2
+- **Heurística violada:** Comunicar errores con facilidad
+- **Problema:**
+  Cuando se intenta iniciar sesión con una cuenta que no existe, no se muestra ningún mensaje de error. Esto puede confundir al usuario, haciéndole pensar que hay un problema técnico en lugar de entender que la cuenta no existe.
+- **Recomendación:**
+  Implementar un mensaje de error claro que informe al usuario que la cuenta no existe.
+
+---
+
+### PROBLEMA #3: No existe la opción de ocultar la función de añadir un cuarto a manejar
+- **Severidad:** 2
+- **Heurística violada:** Diseño estético y minimalista
+- **Problema:**
+  La opción de añadir un cuarto está siempre visible y no se puede ocultar. Esto puede saturar la interfaz con opciones no necesarias para el usuario en ese momento.
+- **Recomendación:**
+  Implementar la opción de ocultar/mostrar esta función según las necesidades del usuario.
+
+---
+
+### PROBLEMA #4: No existe la opción de ocultar la función de añadir un inventario a manejar
+- **Severidad:** 2
+- **Heurística violada:** Diseño estético y minimalista
+- **Problema:**
+  La opción de añadir un inventario está siempre visible y no se puede ocultar, lo cual puede resultar en una interfaz desordenada.
+- **Recomendación:**
+  Incluir la opción de ocultar/mostrar la función de añadir inventario según la necesidad del usuario.
+
+
+---
+
+### PROBLEMA #5: Inconsistencia en el formato de las fechas
+- **Severidad:** 1
+- **Heurística violada:** Consistencia y estándares
+- **Problema:**
+  Las fechas se muestran en diferentes formatos a lo largo de la aplicación, lo cual puede confundir al usuario.
+- **Recomendación:**
+  Establecer y aplicar un formato de fecha uniforme en toda la aplicación.
+
+
+---
+
+### PROBLEMA #6: No existen opciones de filtro en el manejo de cuartos
+- **Severidad:** 2
+- **Heurística violada:** Flexibilidad y eficiencia de uso
+- **Problema:**
+  La ausencia de filtros para gestionar cuartos hace que la búsqueda de información específica sea difícil y tediosa para el usuario.
+- **Recomendación:**
+  Implementar opciones de filtro para facilitar la búsqueda y gestión de cuartos.
+
+
+---
+
+### PROBLEMA #7: No existen opciones de filtro en el manejo de inventarios
+- **Severidad:** 2
+- **Heurística violada:** Flexibilidad y eficiencia de uso
+- **Problema:**
+  La falta de filtros para gestionar inventarios complica la tarea de encontrar información específica, aumentando el tiempo y esfuerzo del usuario.
+- **Recomendación:**
+  Añadir filtros en la sección de inventarios para mejorar la navegación y gestión de información.
+
+
+---
+
+### PROBLEMA #8: Inconsistencia de los formatos de letras
+- **Severidad:** 2
+- **Heurística violada:** Consistencia y estándares
+- **Problema:**
+  Los formatos de letra varían en diferentes secciones de la aplicación, lo que puede causar una experiencia de usuario inconsistente y confusa.
+- **Recomendación:**
+  Uniformar los formatos de letras en toda la aplicación para mantener la consistencia visual y mejorar la usabilidad.
+
+---
+
+### PROBLEMA #9: Notificaciones no categorizadas, difícil de gestionar en masa
+- **Severidad:** 3
+- **Heurística violada:** Consistencia y estándares
+- **Problema:**
+  Las notificaciones no están categorizadas, lo que dificulta su gestión cuando se acumulan en gran cantidad.
+- **Recomendación:**
+  Implementar una categorización de notificaciones que permita al usuario gestionarlas de manera más eficiente.
+
+
+---
+
+### PROBLEMA #10: Interfaz poco amigable para dispositivos móviles
+- **Severidad:** 3
+- **Heurística violada:** Diseño estético y minimalista
+- **Problema:**
+  La interfaz no está optimizada para dispositivos móviles, lo que dificulta la navegación y uso de la aplicación desde estos dispositivos.
+- **Recomendación:**
+  Rediseñar la interfaz para que sea responsive y amigable en dispositivos móviles.
+
+---
+
+### PROBLEMA #11: No hay una opción clara para cambiar o cancelar la suscripción
+- **Severidad:** 4
+- **Heurística violada:** Control y libertad del usuario
+- **Problema:**
+  La opción para cambiar o cancelar la suscripción no es clara, lo que puede frustrar al usuario que desea modificar su suscripción.
+- **Recomendación:**
+  Incluir una opción visible y accesible para cambiar o cancelar la suscripción en cualquier momento.
+
+
+---
+
+### PROBLEMA #12: No se puede visualizar un historial de interacciones con proveedores
+- **Severidad:** 3
+- **Heurística violada:** Mostrar antes que recordar
+- **Problema:**
+  La ausencia de un historial de interacciones con proveedores impide al usuario rastrear y gestionar sus comunicaciones de manera efectiva.
+- **Recomendación:**
+  Implementar una sección de historial de interacciones con proveedores accesible y detallada.
+
+---
+
+### PROBLEMA #13: Falta de administración de notificaciones
+- **Severidad:** 3
+- **Heurística violada:** Flexibilidad y eficiencia de uso
+- **Problema:**
+  No existe una herramienta que permita administrar las notificaciones de manera eficiente, lo cual puede resultar en una sobrecarga de información para el usuario.
+- **Recomendación:**
+  Desarrollar un sistema de administración de notificaciones que permita a los usuarios configurar sus preferencias de manera sencilla.
+
+
+---
+
+### PROBLEMA #14: No existen opciones de filtro para las estadísticas gráficas
+- **Severidad:** 2
+- **Heurística violada:** Flexibilidad y eficiencia de uso
+- **Problema:**
+  La falta de filtros en las estadísticas gráficas dificulta la personalización y análisis de datos específicos por parte del usuario.
+- **Recomendación:**
+  Añadir opciones de filtro en las estadísticas gráficas para una mejor personalización y análisis de datos.
+
+
+---
+
+### PROBLEMA #15: Falta de comparación clara entre diferentes planes de suscripción
+- **Severidad:** 2
+- **Heurística violada:** Consistencia y estándares
+- **Problema:**
+  No se proporciona una comparación clara entre los diferentes planes de suscripción, lo cual puede dificultar la toma de decisiones del usuario.
+- **Recomendación:**
+  Implementar una tabla comparativa que resalte las diferencias y beneficios de cada plan de suscripción de manera clara y comprensible.
+
 
 ## 5.4. Video About-the-Product.
 
+En esta seccion, mostraremos un video sobre nuestro producto, en el cual se navegará por la interfaz diseñada.
 
 ![](https://i.imgur.com/AP2TJgq.png)
 
@@ -3834,9 +4066,6 @@ Para garantizar la calidad y la usabilidad de nuestra aplicación, hemos realiza
 En resumen, estamos orgullosos del trabajo realizado y confiamos en que nuestra aplicación no solo cumplirá, sino que también superará las expectativas de nuestros usuarios. Este proyecto no solo nos esta permitiendo aplicar nuestros conocimientos en Ingeniería de Software, sino que también nos está brindado la oportunidad de trabajar en equipo, enfrentar desafíos y aprender de manera continua. 
 
 # Video About-the-Team.
-
-
-
 
 Link del Video: 
 
