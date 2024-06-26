@@ -82,12 +82,37 @@
             <td>- Service Documentation Evidence for Sprint Review
             </td>
         </tr>
-     <tr>
+        <tr>
             <td rowspan=4 align="center">TB2</td>
             <td rowspan=4 align="center">29/05/2024</td>
             <td align="center">- Mauricio Abraham Rivo Rojas Sánchez</td>
             <td>- Sprint Backlog 3 <br>
                 - Sprint Planning 3     
+            </td>
+        </tr>
+        <tr>
+            <td align="center">- Aaron Elías Acuña Alarcon</td>
+            <td>- Execution Evidence for Sprint Review <br>
+                - Team Collaboration Insights during Sprint.
+            </td>
+        </tr>
+        <tr>
+            <td align="center">- Fernando Brian Salgado Luna</td>
+            <td>- Development Evidence for Sprint Review <br>
+                - Testing Suite Evidence for Sprint Review
+            </td>
+        </tr>
+        <tr>
+            <td align="center">- Leonardo Félix Linares Tejada</td>
+            <td>- Service Documentation Evidence for Sprint Review
+            </td>
+        </tr>
+        <tr>
+            <td rowspan=4 align="center">TF1</td>
+            <td rowspan=4 align="center">26/06/2024</td>
+            <td align="center">- Mauricio Abraham Rivo Rojas Sánchez</td>
+            <td>- Sprint Backlog 4 <br>
+                - Sprint Planning 4     
             </td>
         </tr>
         <tr>
@@ -299,7 +324,7 @@ Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos:
 La entrega TB2 finalizó con éxito y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: https://github.com/Grupo-Trabajo-Final-Open-Source/sweetmanager-web-services
 Durante el desarrollo del informe se tuvieron en cuenta los siguientes aspectos: 
 - Se desarrolló el web-services application con todas las restricciones y reglas de negocio que tenemos evaluadas.
-- Se desplegó el web-services application. El link del API es: 
+- Se desplegó el web-services application. El link del API es: https://sweetmanagerapi.ryzeon.me/swagger-ui/index.html#/
 
 ![](https://i.imgur.com/apOzANK.png)
 ![](https://i.imgur.com/lN0xdym.png)
@@ -3309,7 +3334,7 @@ A continuacion, se muestra la evidencia de la ejecución de la aplicación web e
 
 Sprint 3: En este entregable, hemos logrado desarrollar un Web Services Application de Sweet Manager. 
 
-El link localhost del Web Services Application es: http://localhost:8080/swagger-ui/index.html#/
+El link del Web Services Application es: https://sweetmanagerapi.ryzeon.me/swagger-ui/index.html#/
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
